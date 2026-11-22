@@ -1,0 +1,9 @@
+[
+  { "id": 1, "code": "kingdom", "nameRu": "Царство", "level": 0 },
+  { "id": 2, "code": "phylum", "nameRu": "Тип", "level": 1 },
+  { "id": 3, "code": "class", "nameRu": "Класс", "level": 2 },
+  { "id": 4, "code": "order", "nameRu": "Отряд", "level": 3 },
+  { "id": 5, "code": "family", "nameRu": "Семейство", "level": 4 },
+  { "id": 6, "code": "genus", "nameRu": "Род", "level": 5 },
+  { "id": 7, "code": "species", "nameRu": "Вид", "level": 6 }
+]

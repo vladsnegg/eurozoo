@@ -1,0 +1,72 @@
+name: ci
+
+on:
+  push:
+    branches: [main, 'stage/**']
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_DB: eurozoo
+          POSTGRES_USER: eurozoo
+          POSTGRES_PASSWORD: eurozoo_dev_password
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U eurozoo -d eurozoo"
+          --health-interval 5s
+          --health-timeout 3s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql://eurozoo:eurozoo_dev_password@localhost:5432/eurozoo?schema=public
+      SESSION_SECRET: ci-session-secret-at-least-32-characters-long
+      WEB_ORIGIN: http://localhost:3000
+      NEXT_PUBLIC_API_URL: http://localhost:4000/api/v1
+      APP_VERSION: 0.1.0
+      BOOTSTRAP_ADMIN_EMAIL: admin@eurozoo.local
+      BOOTSTRAP_ADMIN_PASSWORD: ChangeMe-Admin-2026!
+      NODE_ENV: test
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install
+        run: pnpm install --frozen-lockfile
+
+      - name: Prisma generate
+        run: pnpm db:generate
+
+      - name: Prisma validate
+        run: pnpm prisma:validate
+
+      - name: Verify seed data
+        run: pnpm data:verify
+
+      - name: Migrate and seed
+        run: |
+          pnpm exec prisma migrate deploy --schema apps/api/prisma/schema.prisma
+          pnpm db:seed
+          pnpm data:check
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Tests
+        run: pnpm test
+
+      - name: Build
+        run: pnpm build

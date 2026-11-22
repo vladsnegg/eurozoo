@@ -1,0 +1,7318 @@
+[
+  {
+    "slug": "artis-amsterdam",
+    "name": "Artis",
+    "nameLocal": "Natura Artis Magistra",
+    "citySlug": "amsterdam",
+    "countryIso2": "NL",
+    "foundedYear": 1838,
+    "lat": 52.3662382,
+    "lng": 4.9165461,
+    "website": "https://www.artis.nl",
+    "description": "ARTIS был основан в 1838 году как Зоологическое общество Natura Artis Magistra и является первым публичным зоопарком Нидерландов.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-artis-amsterdam-history",
+      "zoo-artis-amsterdam-site"
+    ],
+    "coordSourceRef": "osm-artis-amsterdam",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "bioparc-valencia",
+    "name": "Bioparc Valencia",
+    "nameLocal": "BIOPARC Valencia",
+    "citySlug": "valencia",
+    "countryIso2": "ES",
+    "foundedYear": 2008,
+    "lat": 39.478332,
+    "lng": -0.411219,
+    "website": "https://bioparcvalencia.es",
+    "description": "Зоопарк нового поколения, открывшийся в феврале 2008 года: в феврале 2026 года парк отпраздновал 18-летие.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-bioparc-valencia-history",
+      "zoo-bioparc-valencia-site"
+    ],
+    "coordSourceRef": "osm-bioparc-valencia",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "bioparco-roma",
+    "name": "Bioparco di Roma",
+    "nameLocal": "Bioparco di Roma",
+    "citySlug": "rome",
+    "countryIso2": "IT",
+    "foundedYear": 1911,
+    "lat": 41.9175,
+    "lng": 12.4844,
+    "website": "https://www.bioparco.it",
+    "description": "Зоопарк в Риме, основанный в 1911 году в парке Вилла Боргезе.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-bioparco-roma-history"
+    ],
+    "coordSourceRef": "osm-bioparco-roma",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "burgers-zoo",
+    "name": "Royal Burgers' Zoo",
+    "nameLocal": "Koninklijke Burgers' Zoo",
+    "citySlug": "arnhem",
+    "countryIso2": "NL",
+    "foundedYear": 1913,
+    "lat": 52.009987,
+    "lng": 5.9005957,
+    "website": "https://www.burgerszoo.nl",
+    "description": "Burgers' Zoo основан Йоханом Бургерсом в 1913 году и с 1923 года расположен в Арнеме.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-burgers-zoo-history",
+      "zoo-burgers-zoo-site"
+    ],
+    "coordSourceRef": "osm-burgers-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "chester-zoo",
+    "name": "Chester Zoo",
+    "nameLocal": null,
+    "citySlug": "chester",
+    "countryIso2": "GB",
+    "foundedYear": 1931,
+    "lat": 53.226273,
+    "lng": -2.88531,
+    "website": "https://www.chesterzoo.org",
+    "description": "Зоопарк основан семьёй Моттерсхед и принял первых посетителей 10 июня 1931 года.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-chester-zoo-history",
+      "zoo-chester-zoo-site"
+    ],
+    "coordSourceRef": "osm-chester-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "dublin-zoo",
+    "name": "Dublin Zoo",
+    "nameLocal": null,
+    "citySlug": "dublin",
+    "countryIso2": "IE",
+    "foundedYear": 1831,
+    "lat": 53.358888,
+    "lng": -6.30853,
+    "website": "https://www.dublinzoo.ie",
+    "description": "Dublin Zoo впервые открыл свои ворота 1 сентября 1831 года; его основала небольшая группа учёных и натуралистов.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-dublin-zoo-history",
+      "zoo-dublin-zoo-site"
+    ],
+    "coordSourceRef": "osm-dublin-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "edinburgh-zoo",
+    "name": "Edinburgh Zoo",
+    "nameLocal": null,
+    "citySlug": "edinburgh",
+    "countryIso2": "GB",
+    "foundedYear": 1913,
+    "lat": 55.945473,
+    "lng": -3.269589,
+    "website": "https://www.edinburghzoo.org.uk",
+    "description": "Зоопарк открылся для публики 22 июля 1913 года; его содержит Королевское зоологическое общество Шотландии, основанное в 1909 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-edinburgh-zoo-history",
+      "zoo-edinburgh-zoo-site"
+    ],
+    "coordSourceRef": "osm-edinburgh-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "hagenbeck",
+    "name": "Tierpark Hagenbeck",
+    "nameLocal": "Tierpark Hagenbeck",
+    "citySlug": "hamburg",
+    "countryIso2": "DE",
+    "foundedYear": 1907,
+    "lat": 53.596751,
+    "lng": 9.938429,
+    "website": "https://www.hagenbeck.de",
+    "description": "Первый в мире зоопарк без решёток открылся в 1907 году в Штеллингене под Гамбургом.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-hagenbeck-history",
+      "zoo-hagenbeck-site"
+    ],
+    "coordSourceRef": "osm-hagenbeck",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "hellabrunn",
+    "name": "Hellabrunn Zoo",
+    "nameLocal": "Tierpark Hellabrunn",
+    "citySlug": "muenchen",
+    "countryIso2": "DE",
+    "foundedYear": 1911,
+    "lat": 48.097203,
+    "lng": 11.554213,
+    "website": "https://www.hellabrunn.de",
+    "description": "Тирпарк Хеллабрунн открылся 1 августа 1911 года.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-hellabrunn-history",
+      "zoo-hellabrunn-site"
+    ],
+    "coordSourceRef": "osm-hellabrunn",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "koelner-zoo",
+    "name": "Cologne Zoo",
+    "nameLocal": "Kölner Zoo",
+    "citySlug": "koeln",
+    "countryIso2": "DE",
+    "foundedYear": 1860,
+    "lat": 50.961435,
+    "lng": 6.976595,
+    "website": "https://www.koelnerzoo.de",
+    "description": "Кёльнский зоопарк основан в 1860 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-koelner-zoo-history",
+      "zoo-koelner-zoo-site"
+    ],
+    "coordSourceRef": "osm-koelner-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "kolmarden",
+    "name": "Kolmården Wildlife Park",
+    "nameLocal": "Kolmårdens Djurpark",
+    "citySlug": "norrkoping",
+    "countryIso2": "SE",
+    "foundedYear": 1965,
+    "lat": 58.663857,
+    "lng": 16.452032,
+    "website": "https://www.kolmarden.com",
+    "description": "Колмордина — крупнейший зоопарк Скандинавии, который открылся как зоопарк в 1965 году и находится под Норрчёпингом.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-kolmarden-history",
+      "zoo-kolmarden-site"
+    ],
+    "coordSourceRef": "osm-kolmarden",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "korkeasaari",
+    "name": "Korkeasaari Zoo",
+    "nameLocal": "Korkeasaaren eläintarha",
+    "citySlug": "helsinki",
+    "countryIso2": "FI",
+    "foundedYear": 1889,
+    "lat": 60.174561,
+    "lng": 24.984395,
+    "website": "https://www.korkeasaari.fi",
+    "description": "Зоопарк Коркеасаари основан в 1889 году и расположен на острове в Хельсинки, где содержится около 150 видов животных.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-korkeasaari-history",
+      "zoo-korkeasaari-site"
+    ],
+    "coordSourceRef": "osm-korkeasaari",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "kristiansand-dyrepark",
+    "name": "Kristiansand Zoo and Amusement Park",
+    "nameLocal": "Kristiansand Dyrepark (Dyreparken)",
+    "citySlug": "kristiansand",
+    "countryIso2": "NO",
+    "foundedYear": 1966,
+    "lat": 58.185966,
+    "lng": 8.142344,
+    "website": "https://www.dyreparken.no",
+    "description": "Зоопарк и парк развлечений в Кристиансанне официально открылся 25 июня 1966 года и работает 365 дней в году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-kristiansand-dyrepark-history",
+      "zoo-kristiansand-dyrepark-site"
+    ],
+    "coordSourceRef": "osm-kristiansand-dyrepark",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "kyiv-zoo",
+    "name": "Kyiv Zoo",
+    "nameLocal": "Київський зоопарк",
+    "citySlug": "kyiv",
+    "countryIso2": "UA",
+    "foundedYear": 1908,
+    "lat": 50.4536,
+    "lng": 30.4647,
+    "website": "https://zoo.kyiv.ua",
+    "description": "Зоопарк в Киеве, основанный в 1908 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-kyiv-zoo-history"
+    ],
+    "coordSourceRef": "osm-kyiv-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "lietuvos-zoo",
+    "name": "Lithuanian Zoo",
+    "nameLocal": "Lietuvos zoologijos sodas",
+    "citySlug": "kaunas",
+    "countryIso2": "LT",
+    "foundedYear": 1938,
+    "lat": 54.899,
+    "lng": 23.916,
+    "website": "https://www.zoosodas.lt",
+    "description": "Литовский зоологический сад в Каунасе, основанный в 1938 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-lietuvos-zoo-history"
+    ],
+    "coordSourceRef": "osm-lietuvos-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "lisbon-zoo",
+    "name": "Lisbon Zoo",
+    "nameLocal": "Jardim Zoológico de Lisboa",
+    "citySlug": "lisboa",
+    "countryIso2": "PT",
+    "foundedYear": 1884,
+    "lat": 38.745367,
+    "lng": -9.171904,
+    "website": "https://www.zoo.pt",
+    "description": "Зоопарк открылся в 1884 году и стал первым парком фауны и флоры на Пиренейском полуострове.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-lisbon-zoo-history",
+      "zoo-lisbon-zoo-site"
+    ],
+    "coordSourceRef": "osm-lisbon-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "minsk-zoo",
+    "name": "Minsk Zoo",
+    "nameLocal": "Мінскі заапарк",
+    "citySlug": "minsk",
+    "countryIso2": "BY",
+    "foundedYear": 1984,
+    "lat": 53.9514,
+    "lng": 27.6411,
+    "website": "https://minskzoo.by",
+    "description": "Зоопарк в Минске, открытый в 1984 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-minsk-zoo-history"
+    ],
+    "coordSourceRef": "osm-minsk-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "pairi-daiza",
+    "name": "Pairi Daiza",
+    "nameLocal": "Pairi Daiza",
+    "citySlug": "brugelette",
+    "countryIso2": "BE",
+    "foundedYear": 1994,
+    "lat": 50.5845489,
+    "lng": 3.8863619,
+    "website": "https://www.pairidaiza.eu",
+    "description": "Парк Pairi Daiza существует с 1994 года и с тех пор непрерывно развивается, воспроизводя чудеса света и гармонию между животными и людьми.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-pairi-daiza-history",
+      "zoo-pairi-daiza-site"
+    ],
+    "coordSourceRef": "osm-pairi-daiza",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "parc-zoologique-paris",
+    "name": "Parc Zoologique de Paris",
+    "nameLocal": "Parc zoologique de Paris",
+    "citySlug": "paris",
+    "countryIso2": "FR",
+    "foundedYear": 1934,
+    "lat": 48.831884,
+    "lng": 2.418395,
+    "website": "https://www.parczoologiquedeparis.fr",
+    "description": "Зоопарк открыт в 1934 году и был полностью реконструирован в 2008–2014 годах, став единственным в мире зоопарком, построенным заново целиком.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-parc-zoologique-paris-history",
+      "zoo-parc-zoologique-paris-site"
+    ],
+    "coordSourceRef": "osm-parc-zoologique-paris",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "riga-zoo",
+    "name": "Riga Zoo",
+    "nameLocal": "Rīgas Zooloģiskais dārzs",
+    "citySlug": "riga",
+    "countryIso2": "LV",
+    "foundedYear": 1912,
+    "lat": 57.008,
+    "lng": 24.16,
+    "website": "https://www.rigazoo.lv",
+    "description": "Рижский зоологический сад, основанный в 1912 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-riga-zoo-history"
+    ],
+    "coordSourceRef": "osm-riga-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "rotterdam-zoo",
+    "name": "Diergaarde Blijdorp",
+    "nameLocal": "Diergaarde Blijdorp",
+    "citySlug": "rotterdam",
+    "countryIso2": "NL",
+    "foundedYear": 1857,
+    "lat": 51.9266946,
+    "lng": 4.4516482,
+    "website": "https://diergaardeblijdorp.nl",
+    "description": "Diergaarde Blijdorp ведёт историю от основания общества «De Rotterdamsche Diergaarde» в 1857 году.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-rotterdam-zoo-history",
+      "zoo-rotterdam-zoo-site"
+    ],
+    "coordSourceRef": "osm-rotterdam-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "tallinn-zoo",
+    "name": "Tallinn Zoo",
+    "nameLocal": "Tallinna Loomaaed",
+    "citySlug": "tallinn",
+    "countryIso2": "EE",
+    "foundedYear": 1939,
+    "lat": 59.420661,
+    "lng": 24.661044,
+    "website": "https://tallinnzoo.ee",
+    "description": "Таллинский зоопарк основан 25 августа 1939 года и занимает 89 га, где содержится 364 вида (7 338 животных).",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-tallinn-zoo-history",
+      "zoo-tallinn-zoo-site"
+    ],
+    "coordSourceRef": "osm-tallinn-zoo",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "tiergarten-schoenbrunn",
+    "name": "Tiergarten Schönbrunn",
+    "nameLocal": "Tiergarten Schönbrunn",
+    "citySlug": "wien",
+    "countryIso2": "AT",
+    "foundedYear": 1752,
+    "lat": 48.1836196,
+    "lng": 16.3019355,
+    "website": "https://www.zoovienna.at",
+    "description": "Тиргартен Шёнбрунн — старейший зоопарк мира, основанный в 1752 году императором Францем I Стефаном и входящий в объект Всемирного наследия ЮНЕСКО «Шёнбрунн».",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-tiergarten-schoenbrunn-history",
+      "zoo-tiergarten-schoenbrunn-site"
+    ],
+    "coordSourceRef": "osm-tiergarten-schoenbrunn",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "tierpark-berlin",
+    "name": "Tierpark Berlin",
+    "nameLocal": "Tierpark Berlin",
+    "citySlug": "berlin",
+    "countryIso2": "DE",
+    "foundedYear": 1955,
+    "lat": 52.502332,
+    "lng": 13.530286,
+    "website": "https://www.tierpark-berlin.de",
+    "description": "Тирпарк Берлин был открыт в 1955 году под руководством профессора Генриха Дате.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-tierpark-berlin-history",
+      "zoo-tierpark-berlin-site"
+    ],
+    "coordSourceRef": "osm-tierpark-berlin",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-antwerp",
+    "name": "Antwerp Zoo",
+    "nameLocal": "ZOO Antwerpen",
+    "citySlug": "antwerpen",
+    "countryIso2": "BE",
+    "foundedYear": 1843,
+    "lat": 51.2164396,
+    "lng": 4.4234205,
+    "website": "https://www.zooantwerpen.be",
+    "description": "Зоопарк Антверпена, открытый в 1843 году, является одним из старейших зоопарков и охраняется как культурно-исторический памятник.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-antwerp-history",
+      "zoo-zoo-antwerp-site"
+    ],
+    "coordSourceRef": "osm-zoo-antwerp",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-barcelona",
+    "name": "Barcelona Zoo",
+    "nameLocal": "Parc Zoològic de Barcelona",
+    "citySlug": "barcelona",
+    "countryIso2": "ES",
+    "foundedYear": 1892,
+    "lat": 41.38808,
+    "lng": 2.190347,
+    "website": "https://zoobarcelona.cat",
+    "description": "Зоопарк был открыт 24 сентября 1892 года в парке Сьютаделья после того, как банкир Луис Марти-Кодалор передал городу свою коллекцию животных.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-barcelona-history",
+      "zoo-zoo-barcelona-site"
+    ],
+    "coordSourceRef": "osm-zoo-barcelona",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-basel",
+    "name": "Zoo Basel",
+    "nameLocal": "Zoo Basel",
+    "citySlug": "basel",
+    "countryIso2": "CH",
+    "foundedYear": 1874,
+    "lat": 47.5468958,
+    "lng": 7.5779233,
+    "website": "https://www.zoobasel.ch",
+    "description": "Зоопарк Базеля открылся в 1874 году и с тех пор непрерывно принимает посетителей.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-basel-history",
+      "zoo-zoo-basel-site"
+    ],
+    "coordSourceRef": "osm-zoo-basel",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-beauval",
+    "name": "ZooParc de Beauval",
+    "nameLocal": "ZooParc de Beauval",
+    "citySlug": "saint-aignan",
+    "countryIso2": "FR",
+    "foundedYear": 1980,
+    "lat": 47.246488,
+    "lng": 1.34809,
+    "website": "https://www.zoobeauval.com",
+    "description": "Парк открылся в 1980 году как орнитологический парк с почти 2000 птиц.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-beauval-history",
+      "zoo-zoo-beauval-site"
+    ],
+    "coordSourceRef": "osm-zoo-beauval",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-berlin",
+    "name": "Berlin Zoo",
+    "nameLocal": "Zoologischer Garten Berlin",
+    "citySlug": "berlin",
+    "countryIso2": "DE",
+    "foundedYear": 1844,
+    "lat": 52.508161,
+    "lng": 13.338824,
+    "website": "https://www.zoo-berlin.de",
+    "description": "Зоологический сад Берлина был открыт 1 августа 1844 года и стал первым зоопарком Германии.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-berlin-history",
+      "zoo-zoo-berlin-site"
+    ],
+    "coordSourceRef": "osm-zoo-berlin",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-budapest",
+    "name": "Budapest Zoo and Botanical Garden",
+    "nameLocal": "Fővárosi Állat- és Növénykert",
+    "citySlug": "budapest",
+    "countryIso2": "HU",
+    "foundedYear": 1864,
+    "lat": 47.518909,
+    "lng": 19.078059,
+    "website": "https://zoobudapest.com",
+    "description": "Основание зоопарка было положено в 1864 году, а 9 августа 1866 года он впервые открыл ворота для широкой публики.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-budapest-history",
+      "zoo-zoo-budapest-site"
+    ],
+    "coordSourceRef": "osm-zoo-budapest",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-copenhagen",
+    "name": "Copenhagen Zoo",
+    "nameLocal": "Zoologisk Have København",
+    "citySlug": "copenhagen",
+    "countryIso2": "DK",
+    "foundedYear": 1859,
+    "lat": 55.672943,
+    "lng": 12.520971,
+    "website": "https://www.zoo.dk",
+    "description": "Зоопарк Копенгагена основан в 1859 году орнитологом Нильсом Кьербёллингом и находится в Фредериксберге по адресу Roskildevej 32.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-copenhagen-history",
+      "zoo-zoo-copenhagen-site"
+    ],
+    "coordSourceRef": "osm-zoo-copenhagen",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-frankfurt",
+    "name": "Frankfurt Zoo",
+    "nameLocal": "Zoo Frankfurt",
+    "citySlug": "frankfurt-am-main",
+    "countryIso2": "DE",
+    "foundedYear": 1858,
+    "lat": 50.115858,
+    "lng": 8.702475,
+    "website": "https://www.zoo-frankfurt.de",
+    "description": "Зоологический сад Франкфурта был открыт 8 августа 1858 года.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-frankfurt-history",
+      "zoo-zoo-frankfurt-site"
+    ],
+    "coordSourceRef": "osm-zoo-frankfurt",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-gdansk",
+    "name": "Gdańsk Zoo",
+    "nameLocal": "Gdański Ogród Zoologiczny",
+    "citySlug": "gdansk",
+    "countryIso2": "PL",
+    "foundedYear": 1954,
+    "lat": 54.414439,
+    "lng": 18.530805,
+    "website": "https://zoo.gdansk.pl",
+    "description": "Гданьский зоопарк основан в 1954 году, занимает около 125 га и содержит 164 вида (868 животных).",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-gdansk-history",
+      "zoo-zoo-gdansk-site"
+    ],
+    "coordSourceRef": "osm-zoo-gdansk",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-leipzig",
+    "name": "Leipzig Zoo",
+    "nameLocal": "Zoo Leipzig",
+    "citySlug": "leipzig",
+    "countryIso2": "DE",
+    "foundedYear": 1878,
+    "lat": 51.351057,
+    "lng": 12.36776,
+    "website": "https://www.zoo-leipzig.de",
+    "description": "Зоопарк Лейпцига открылся на Пятидесятницу 1878 года, когда его посетили 4500 человек.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-leipzig-history",
+      "zoo-zoo-leipzig-site"
+    ],
+    "coordSourceRef": "osm-zoo-leipzig",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-praha",
+    "name": "Zoo Praha",
+    "nameLocal": "Zoo Praha",
+    "citySlug": "praha",
+    "countryIso2": "CZ",
+    "foundedYear": 1931,
+    "lat": 50.117449,
+    "lng": 14.405664,
+    "website": "https://www.zoopraha.cz",
+    "description": "Зоопарк Праги открылся 28 сентября 1931 года.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-praha-history",
+      "zoo-zoo-praha-site"
+    ],
+    "coordSourceRef": "osm-zoo-praha",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-warsaw",
+    "name": "Warsaw Zoo",
+    "nameLocal": "Miejski Ogród Zoologiczny im. Antoniny i Jana Żabińskich w Warszawie",
+    "citySlug": "warsaw",
+    "countryIso2": "PL",
+    "foundedYear": 1928,
+    "lat": 52.258547,
+    "lng": 21.021972,
+    "website": "https://zoo.waw.pl",
+    "description": "Варшавский зоопарк был официально открыт 11 марта 1928 года на Праге и сегодня содержит более 7 500 животных примерно 500 видов.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-warsaw-history",
+      "zoo-zoo-warsaw-site"
+    ],
+    "coordSourceRef": "osm-zoo-warsaw",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-wroclaw",
+    "name": "Wrocław Zoo",
+    "nameLocal": "ZOO Wrocław",
+    "citySlug": "wroclaw",
+    "countryIso2": "PL",
+    "foundedYear": 1865,
+    "lat": 51.104255,
+    "lng": 17.074849,
+    "website": "https://zoo.wroclaw.pl",
+    "description": "Зоопарк Вроцлава — старейший зоопарк Польши, открытый в 1865 году; сегодня он занимает 32 га и содержит более 12 000 животных свыше 1 100 видов.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-wroclaw-history",
+      "zoo-zoo-wroclaw-site"
+    ],
+    "coordSourceRef": "osm-zoo-wroclaw",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-zurich",
+    "name": "Zoo Zürich",
+    "nameLocal": "Zoo Zürich",
+    "citySlug": "zurich",
+    "countryIso2": "CH",
+    "foundedYear": 1929,
+    "lat": 47.3869141,
+    "lng": 8.5775992,
+    "website": "https://www.zoo.ch",
+    "description": "Зоопарк Цюриха — основанное в 1929 году цюрихское культурное учреждение, работающее как природоохранная организация.",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "zoo-zoo-zurich-history",
+      "zoo-zoo-zurich-site"
+    ],
+    "coordSourceRef": "osm-zoo-zurich",
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "yalta-zoo-skazka",
+    "name": "Yalta Zoo \"Skazka\"",
+    "nameLocal": "Ялтинский зоопарк «Сказка»",
+    "citySlug": "yalta",
+    "countryIso2": "UA",
+    "foundedYear": 1995,
+    "lat": 44.4917,
+    "lng": 34.1633,
+    "website": "https://www.yaltazoo.org/",
+    "description": "Зоопарк «Сказка» в Ялте с коллекцией хищников, приматов и экзотических животных.",
+    "locationLabel": "Крым",
+    "sourceRefs": [
+      "zoo-yalta-skazka-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "taigan-safari-park",
+    "name": "Taigan Safari Park",
+    "nameLocal": "Сафари-парк «Тайган»",
+    "citySlug": "belogorsk",
+    "countryIso2": "UA",
+    "foundedYear": 2012,
+    "lat": 45.036049,
+    "lng": 34.563718,
+    "website": "https://park-taigan.ru/",
+    "description": "Сафари-парк «Тайган» под Белогорском, известный крупной коллекцией львов.",
+    "locationLabel": "Крым",
+    "sourceRefs": [
+      "safari-park-taigan-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kharkiv-zoo",
+    "name": "Kharkiv Zoo",
+    "nameLocal": "Харьковский зоопарк",
+    "citySlug": "kharkiv",
+    "countryIso2": "UA",
+    "foundedYear": 1895,
+    "lat": 50.0067,
+    "lng": 36.2314,
+    "website": "https://zoo.kh.ua/",
+    "description": "Один из старейших зоопарков Украины, основанный в 1895 году.",
+    "sourceRefs": [
+      "zoo-kharkiv-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "odesa-zoo",
+    "name": "Odesa Zoo",
+    "nameLocal": "Одесский зоопарк",
+    "citySlug": "odesa",
+    "countryIso2": "UA",
+    "foundedYear": 1922,
+    "lat": 46.4775,
+    "lng": 30.7292,
+    "website": "https://zoo.od.ua/",
+    "description": "Зоопарк в центре Одессы, основанный в 1922 году.",
+    "sourceRefs": [
+      "zoo-odesa-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "lviv-zoo",
+    "name": "Lviv Zoo",
+    "nameLocal": "Львівський зоопарк",
+    "citySlug": "lviv",
+    "countryIso2": "UA",
+    "foundedYear": 1904,
+    "lat": 49.8397,
+    "lng": 24.0311,
+    "website": "https://zoo.lviv.ua/",
+    "description": "Львовский зоопарк, ведущий историю с 1904 года.",
+    "sourceRefs": [
+      "zoo-lviv-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "grodno-zoo",
+    "name": "Grodno Zoo",
+    "nameLocal": "Гродненский зоопарк",
+    "citySlug": "grodno",
+    "countryIso2": "BY",
+    "foundedYear": 1927,
+    "lat": 53.678,
+    "lng": 23.827,
+    "website": "https://grodnozoo.by/",
+    "description": "Гродненский зоопарк, основанный в 1927 году.",
+    "sourceRefs": [
+      "zoo-grodno-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "attica-zoological-park",
+    "name": "Attica Zoological Park",
+    "nameLocal": "Αττικό Ζωολογικό Πάρκο",
+    "citySlug": "spata",
+    "countryIso2": "GR",
+    "foundedYear": 2000,
+    "lat": 37.963,
+    "lng": 23.935,
+    "website": "https://www.atticapark.com/",
+    "description": "Крупный зоопарк в Спате под Афинами, открытый в 2000 году.",
+    "sourceRefs": [
+      "attica-zoological-park-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bucharest-zoo",
+    "name": "Bucharest Zoo",
+    "nameLocal": "Grădina Zoologică București",
+    "citySlug": "bucharest",
+    "countryIso2": "RO",
+    "foundedYear": 1955,
+    "lat": 44.51736,
+    "lng": 26.1039,
+    "website": "https://www.zoobucuresti.com/",
+    "description": "Зоопарк Бэняса в Бухаресте, основанный в 1955 году.",
+    "sourceRefs": [
+      "zoo-bucharest-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "sofia-zoo",
+    "name": "Sofia Zoo",
+    "nameLocal": "Софийски зоопарк",
+    "citySlug": "sofia",
+    "countryIso2": "BG",
+    "foundedYear": 1888,
+    "lat": 42.6575,
+    "lng": 23.3283,
+    "website": "https://www.zoosofia.eu/",
+    "description": "Один из старейших зоопарков Европы, основанный в Софии в 1888 году.",
+    "sourceRefs": [
+      "zoo-sofia-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zagreb-zoo",
+    "name": "Zagreb Zoo",
+    "nameLocal": "Zoološki vrt grada Zagreba",
+    "citySlug": "zagreb",
+    "countryIso2": "HR",
+    "foundedYear": 1925,
+    "lat": 45.823,
+    "lng": 15.972,
+    "website": "https://zoo.hr/",
+    "description": "Зоопарк Загреба в парке Максимир, основанный в 1925 году.",
+    "sourceRefs": [
+      "zoo-zagreb-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "belgrade-zoo",
+    "name": "Belgrade Zoo",
+    "nameLocal": "Београдски зоолошки врт",
+    "citySlug": "belgrade",
+    "countryIso2": "RS",
+    "foundedYear": 1936,
+    "lat": 44.819,
+    "lng": 20.453,
+    "website": "https://beozoovrt.rs/",
+    "description": "Зоопарк Белграда в крепости Калемегдан, основанный в 1936 году.",
+    "sourceRefs": [
+      "zoo-belgrade-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bratislava-zoo",
+    "name": "Bratislava Zoo",
+    "nameLocal": "Zoo Bratislava",
+    "citySlug": "bratislava",
+    "countryIso2": "SK",
+    "foundedYear": 1960,
+    "lat": 48.161,
+    "lng": 17.104,
+    "website": "https://zoobratislava.sk/",
+    "description": "Зоопарк Братиславы, открытый в 1960 году.",
+    "sourceRefs": [
+      "zoo-bratislava-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ljubljana-zoo",
+    "name": "Ljubljana Zoo",
+    "nameLocal": "Živalski vrt Ljubljana",
+    "citySlug": "ljubljana",
+    "countryIso2": "SI",
+    "foundedYear": 1949,
+    "lat": 46.052,
+    "lng": 14.472,
+    "website": "https://zoo-ljubljana.si/",
+    "description": "Зоопарк Любляны на холме Шишка, основанный в 1949 году.",
+    "sourceRefs": [
+      "zoo-ljubljana-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "sarajevo-zoo",
+    "name": "Sarajevo Zoo",
+    "nameLocal": "Zoološki vrt Sarajevo",
+    "citySlug": "sarajevo",
+    "countryIso2": "BA",
+    "foundedYear": 1951,
+    "lat": 43.85,
+    "lng": 18.383,
+    "website": "https://www.park.ba/",
+    "description": "Зоопарк в сараевском парке «Врело Босне», основанный в 1951 году.",
+    "sourceRefs": [
+      "zoo-sarajevo-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "skopje-zoo",
+    "name": "Skopje Zoo",
+    "nameLocal": "Зоолошка градина Скопје",
+    "citySlug": "skopje",
+    "countryIso2": "MK",
+    "foundedYear": 1926,
+    "lat": 42.006,
+    "lng": 21.428,
+    "website": "https://www.zooskopje.com.mk/",
+    "description": "Зоопарк Скопье в парке Градски, основанный в 1926 году.",
+    "sourceRefs": [
+      "zoo-skopje-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "reykjavik-zoo",
+    "name": "Reykjavík Family Park and Zoo",
+    "nameLocal": "Fjölskyldu- og húsdýragarðurinn",
+    "citySlug": "reykjavik",
+    "countryIso2": "IS",
+    "foundedYear": 1990,
+    "lat": 64.138,
+    "lng": -21.943,
+    "website": "https://mu.is/",
+    "description": "Семейный парк и зоопарк в Рейкьявике, открытый в 1990 году.",
+    "sourceRefs": [
+      "reykjavik-zoo-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "pafos-zoo",
+    "name": "Pafos Zoo",
+    "nameLocal": "Pafos Zoo",
+    "citySlug": "paphos",
+    "countryIso2": "CY",
+    "foundedYear": 2003,
+    "lat": 34.77,
+    "lng": 32.421,
+    "website": "https://pafoszoo.com/",
+    "description": "Зоопарк Пафоса, открытый в 2003 году.",
+    "sourceRefs": [
+      "pafos-zoo-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "moscow-zoo",
+    "name": "Moscow Zoo",
+    "nameLocal": "Московский зоопарк",
+    "citySlug": "moscow",
+    "countryIso2": "RU",
+    "foundedYear": 1864,
+    "lat": 55.7616,
+    "lng": 37.5775,
+    "website": "https://moscowzoo.ru/",
+    "description": "Один из старейших зоопарков России, основанный в Москве в 1864 году.",
+    "sourceRefs": [
+      "zoo-moscow-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "leningrad-zoo",
+    "name": "Leningrad Zoo",
+    "nameLocal": "Ленинградский зоопарк",
+    "citySlug": "saint-petersburg",
+    "countryIso2": "RU",
+    "foundedYear": 1865,
+    "lat": 59.95249,
+    "lng": 30.30868,
+    "website": "http://www.spbzoo.ru/",
+    "description": "Один из старейших зоопарков России, расположенный в Александровском парке Санкт-Петербурга.",
+    "sourceRefs": [
+      "zoo-leningrad-media"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kaliningrad-zoo",
+    "name": "Kaliningrad Zoo",
+    "nameLocal": "Калининградский зоопарк",
+    "citySlug": "kaliningrad",
+    "countryIso2": "RU",
+    "foundedYear": 1896,
+    "lat": 54.7136,
+    "lng": 20.5097,
+    "website": "https://kldzoo.ru/",
+    "description": "Зоопарк Калининграда, основанный в 1896 году на территории бывшего Кёнигсбергского зоопарка.",
+    "sourceRefs": [
+      "zoo-kaliningrad-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kazan-zoo",
+    "name": "Kazan Zoobotanical Garden",
+    "nameLocal": "Казанский зооботанический сад",
+    "citySlug": "kazan",
+    "countryIso2": "RU",
+    "foundedYear": 1806,
+    "lat": 55.7663638,
+    "lng": 49.1325736,
+    "website": "https://kazzoobotsad.ru/",
+    "description": "Казанский зооботанический сад, ведущий историю с 1806 года.",
+    "sourceRefs": [
+      "zoo-kazan-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "perm-zoo",
+    "name": "Perm Zoo",
+    "nameLocal": "Пермский зоопарк",
+    "citySlug": "perm",
+    "countryIso2": "RU",
+    "foundedYear": 1933,
+    "lat": 58.0105,
+    "lng": 56.238,
+    "website": "https://permzoo.ru/",
+    "description": "Пермский зоопарк, основанный в 1933 году.",
+    "sourceRefs": [
+      "zoo-perm-site"
+    ],
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoom-erlebniswelt-de",
+    "name": "ZOOM Erlebniswelt",
+    "nameLocal": null,
+    "citySlug": "gelzenkirkhen-de",
+    "countryIso2": "DE",
+    "foundedYear": 1949,
+    "lat": 51.5441,
+    "lng": 7.11094,
+    "website": "http://www.zoom-erlebniswelt.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-bitoly-mk",
+    "name": "Зоопарк Битолы",
+    "nameLocal": null,
+    "citySlug": "bitola-mk",
+    "countryIso2": "MK",
+    "foundedYear": 1950,
+    "lat": 41.0146,
+    "lng": 21.3415,
+    "website": "http://www.zoobitola.mk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "nordens-ark-se",
+    "name": "Nordens Ark",
+    "nameLocal": null,
+    "citySlug": "sotenas-municipality-se",
+    "countryIso2": "SE",
+    "foundedYear": 1989,
+    "lat": 58.441111111,
+    "lng": 11.435,
+    "website": "https://en.nordensark.se",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "luisenpark-de",
+    "name": "Luisenpark",
+    "nameLocal": null,
+    "citySlug": "mangeym-de",
+    "countryIso2": "DE",
+    "foundedYear": 1892,
+    "lat": 49.4827,
+    "lng": 8.4974,
+    "website": "https://www.luisenpark.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "duysburgskiy-zoopark-de",
+    "name": "Дуйсбургский зоопарк",
+    "nameLocal": null,
+    "citySlug": "duysburg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1934,
+    "lat": 51.4353,
+    "lng": 6.80528,
+    "website": "https://zoo-duisburg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "gannoverskiy-zoopark-de",
+    "name": "Ганноверский зоопарк",
+    "nameLocal": null,
+    "citySlug": "mitte-de",
+    "countryIso2": "DE",
+    "foundedYear": 1865,
+    "lat": 52.380537,
+    "lng": 9.771062,
+    "website": "https://www.zoo-hannover.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kayzerslauternskiy-zoopark-de",
+    "name": "Кайзерслаутернский зоопарк",
+    "nameLocal": null,
+    "citySlug": "kayzerslautern-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 49.4661,
+    "lng": 7.68056,
+    "website": "http://www.zoo-kaiserslautern.com/de/249-2/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-landau-de",
+    "name": "Zoo Landau",
+    "nameLocal": null,
+    "citySlug": "reynland-pfalts-de",
+    "countryIso2": "DE",
+    "foundedYear": 1904,
+    "lat": 49.2028,
+    "lng": 8.11083,
+    "website": "http://www.zoo-landau.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-zoologique-et-botanique-de-mulhouse-fr",
+    "name": "Parc Zoologique et Botanique de Mulhouse",
+    "nameLocal": null,
+    "citySlug": "myuluz-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1868,
+    "lat": 47.73616667,
+    "lng": 7.34794444,
+    "website": "http://www.zoo-mulhouse.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-osnabruck-de",
+    "name": "Zoo Osnabrück",
+    "nameLocal": null,
+    "citySlug": "osnabryuk-de",
+    "countryIso2": "DE",
+    "foundedYear": 1936,
+    "lat": 52.25,
+    "lng": 8.07028,
+    "website": "https://www.zoo-osnabrueck.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-opole-pl",
+    "name": "Zoo Opole",
+    "nameLocal": null,
+    "citySlug": "nadodrze-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1912,
+    "lat": 50.65504,
+    "lng": 17.92447,
+    "website": "http://www.zoo.opole.pl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "rostock-zoo-de",
+    "name": "Rostock Zoo",
+    "nameLocal": null,
+    "citySlug": "q1333329-de",
+    "countryIso2": "DE",
+    "foundedYear": 1899,
+    "lat": 54.0781,
+    "lng": 12.0904,
+    "website": "http://www.zoo-rostock.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zaltsburgskiy-zoopark-at",
+    "name": "Зальцбургский зоопарк",
+    "nameLocal": null,
+    "citySlug": "zaltsburg-at",
+    "countryIso2": "AT",
+    "foundedYear": 1961,
+    "lat": 47.756824,
+    "lng": 13.064075,
+    "website": "https://salzburg-zoo.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "the-green-zoo-wuppertal-de",
+    "name": "The Green Zoo Wuppertal",
+    "nameLocal": null,
+    "citySlug": "vuppertal-de",
+    "countryIso2": "DE",
+    "foundedYear": 1881,
+    "lat": 51.2397,
+    "lng": 7.11222,
+    "website": "http://www.zoo-wuppertal.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-al-maglio-ch",
+    "name": "Zoo al Maglio",
+    "nameLocal": null,
+    "citySlug": "magliaso-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1974,
+    "lat": 45.985,
+    "lng": 8.87666667,
+    "website": "http://www.zooalmaglio.ch/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zagrebskiy-zoopark-hr",
+    "name": "Загребский зоопарк",
+    "nameLocal": null,
+    "citySlug": "zagreb",
+    "countryIso2": "HR",
+    "foundedYear": 1925,
+    "lat": 45.8221,
+    "lng": 16.021285,
+    "website": "http://www.zgzoo.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-lagos-pt",
+    "name": "Zoo Lagos",
+    "nameLocal": null,
+    "citySlug": "lagush-pt",
+    "countryIso2": "PT",
+    "foundedYear": 2000,
+    "lat": 37.145172209,
+    "lng": -8.766347932,
+    "website": "http://www.zoolagos.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bremerhaven-zoo-de",
+    "name": "Bremerhaven Zoo",
+    "nameLocal": null,
+    "citySlug": "bremerkhafen-de",
+    "countryIso2": "DE",
+    "foundedYear": 2004,
+    "lat": 53.5447,
+    "lng": 8.57028,
+    "website": "http://www.zoo-am-meer-bremerhaven.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-de-servion-ch",
+    "name": "Zoo de Servion",
+    "nameLocal": null,
+    "citySlug": "vo-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1974,
+    "lat": 46.565,
+    "lng": 6.77388889,
+    "website": "https://www.zoo-servion.ch/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-damneville-fr",
+    "name": "Zoo d'Amnéville",
+    "nameLocal": null,
+    "citySlug": "amnevil-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1986,
+    "lat": 49.24611111,
+    "lng": 6.13916667,
+    "website": "http://zoo-amneville.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "la-palmyre-zoo-fr",
+    "name": "La Palmyre Zoo",
+    "nameLocal": null,
+    "citySlug": "le-mat-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1966,
+    "lat": 45.68752778,
+    "lng": -1.16691667,
+    "website": "http://www.zoo-palmyre.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "neapolitanskaya-zoologicheskaya-stantsiya-it",
+    "name": "Неаполитанская зоологическая станция",
+    "nameLocal": null,
+    "citySlug": "neapol-it",
+    "countryIso2": "IT",
+    "foundedYear": 1872,
+    "lat": 40.8327,
+    "lng": 14.23577,
+    "website": "http://www.szn.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bratislavskiy-zoopark-sk",
+    "name": "Братиславский зоопарк",
+    "nameLocal": null,
+    "citySlug": "bratislava",
+    "countryIso2": "SK",
+    "foundedYear": 1960,
+    "lat": 48.16222222,
+    "lng": 17.07444444,
+    "website": "http://www.zoobratislava.sk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoologischer-garten-eberswalde-de",
+    "name": "Zoologischer Garten Eberswalde",
+    "nameLocal": null,
+    "citySlug": "ebersvalde-de",
+    "countryIso2": "DE",
+    "foundedYear": 1958,
+    "lat": 52.8222,
+    "lng": 13.7822,
+    "website": "https://zoo.eberswalde.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "krakovskiy-zoopark-pl",
+    "name": "Краковский зоопарк",
+    "nameLocal": null,
+    "citySlug": "dzelnitsa-vii-zvezhinets-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1929,
+    "lat": 50.054581,
+    "lng": 19.853196,
+    "website": "http://www.zoo-krakow.pl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoologischer-garten-magdeburg-de",
+    "name": "Zoologischer Garten Magdeburg",
+    "nameLocal": null,
+    "citySlug": "magdeburg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1950,
+    "lat": 52.168056,
+    "lng": 11.641111,
+    "website": "https://www.zoo-magdeburg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoologischer-garten-neunkirchen-de",
+    "name": "Zoologischer Garten Neunkirchen",
+    "nameLocal": null,
+    "citySlug": "noynkirkhen-de",
+    "countryIso2": "DE",
+    "foundedYear": 1926,
+    "lat": 49.3453,
+    "lng": 7.20583,
+    "website": "https://neunkircherzoo.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-v-karlsrue-de",
+    "name": "Зоопарк в Карлсруэ",
+    "nameLocal": null,
+    "citySlug": "karlsrue-de",
+    "countryIso2": "DE",
+    "foundedYear": 1865,
+    "lat": 48.9978,
+    "lng": 8.40167,
+    "website": "https://zoo-karlsruhe.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "amazon-world-zoo-park-gb",
+    "name": "Amazon World Zoo Park",
+    "nameLocal": null,
+    "citySlug": "uayt-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1990,
+    "lat": 50.6558,
+    "lng": -1.22,
+    "website": "https://www.amazonworld.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "londonskiy-zoopark-gb",
+    "name": "Лондонский зоопарк",
+    "nameLocal": null,
+    "citySlug": "london",
+    "countryIso2": "GB",
+    "foundedYear": 1828,
+    "lat": 51.535555555,
+    "lng": -0.155833333,
+    "website": "https://www.londonzoo.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "oland-zoo-and-amusement-park-se",
+    "name": "Öland Zoo and Amusement Park",
+    "nameLocal": null,
+    "citySlug": "merbyulonga-se",
+    "countryIso2": "SE",
+    "foundedYear": 1974,
+    "lat": 56.670555555,
+    "lng": 16.490277777,
+    "website": "https://olandsdjurpark.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "aachener-tierpark-euregiozoo-de",
+    "name": "Aachener Tierpark Euregiozoo",
+    "nameLocal": null,
+    "citySlug": "akhen-mitte-de",
+    "countryIso2": "DE",
+    "foundedYear": 1966,
+    "lat": 50.76311,
+    "lng": 6.1153,
+    "website": "http://www.euregiozoo.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "eekholt-wildlife-park-de",
+    "name": "Eekholt Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "zegeberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1970,
+    "lat": 53.9492,
+    "lng": 10.0288,
+    "website": "https://www.wildpark-eekholt.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-uipsneyd-gb",
+    "name": "Зоопарк Уипснейд",
+    "nameLocal": null,
+    "citySlug": "dansteybl-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1931,
+    "lat": 51.849722222,
+    "lng": -0.544166666,
+    "website": "https://www.whipsnadezoo.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "haus-des-meeres-at",
+    "name": "Haus des Meeres",
+    "nameLocal": null,
+    "citySlug": "wien",
+    "countryIso2": "AT",
+    "foundedYear": 1957,
+    "lat": 48.1977,
+    "lng": 16.3529,
+    "website": "http://www.haus-des-meeres.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "happs-reptilienzoo-at",
+    "name": "Happ's Reptilienzoo",
+    "nameLocal": null,
+    "citySlug": "klagenfurt-am-verterze-at",
+    "countryIso2": "AT",
+    "foundedYear": 1976,
+    "lat": 46.6199,
+    "lng": 14.2656,
+    "website": "http://www.reptilienzoo.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoologic-park-de-lille-fr",
+    "name": "Zoologic park de Lille",
+    "nameLocal": null,
+    "citySlug": "lill-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1950,
+    "lat": 50.6381,
+    "lng": 3.04694,
+    "website": "http://www.lille.fr/cms/accueil/sport-loisirs/zoo-lille",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "safaripark-beekse-bergen-nl",
+    "name": "Safaripark Beekse Bergen",
+    "nameLocal": null,
+    "citySlug": "khilvarenbek-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1968,
+    "lat": 51.519444,
+    "lng": 5.109444,
+    "website": "https://www.beeksebergen.nl/op-safari",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "eindhoven-zoo-nl",
+    "name": "Eindhoven Zoo",
+    "nameLocal": null,
+    "citySlug": "geldrop-mirlo-nl",
+    "countryIso2": "NL",
+    "foundedYear": 2004,
+    "lat": 51.454435,
+    "lng": 5.582943,
+    "website": "https://www.eindhovenzoo.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "saarbrucker-zoo-de",
+    "name": "Saarbrücker Zoo",
+    "nameLocal": null,
+    "citySlug": "saarbryukken-de",
+    "countryIso2": "DE",
+    "foundedYear": 1956,
+    "lat": 49.2308,
+    "lng": 7.03958,
+    "website": "https://zoo.saarbruecken.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "la-ferme-aux-crocodiles-fr",
+    "name": "La Ferme aux crocodiles",
+    "nameLocal": null,
+    "citySlug": "perrlatt-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1994,
+    "lat": 44.356944444,
+    "lng": 4.704444444,
+    "website": "https://www.lafermeauxcrocodiles.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoolandia-fi",
+    "name": "Zoolandia",
+    "nameLocal": null,
+    "citySlug": "lieto-fi",
+    "countryIso2": "FI",
+    "foundedYear": 1984,
+    "lat": 60.5671,
+    "lng": 22.4343,
+    "website": "https://www.zoolandia.fi/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dierenpark-amersfoort-nl",
+    "name": "DierenPark Amersfoort",
+    "nameLocal": null,
+    "citySlug": "amersfort-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1948,
+    "lat": 52.150556,
+    "lng": 5.345,
+    "website": "https://dierenparkamersfoort.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ouwehands-dierenpark-nl",
+    "name": "Ouwehands Dierenpark",
+    "nameLocal": null,
+    "citySlug": "renen-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1932,
+    "lat": 51.956111,
+    "lng": 5.590833,
+    "website": "http://www.ouwehand.nl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "minskiy-zoopark-by",
+    "name": "Минский зоопарк",
+    "nameLocal": null,
+    "citySlug": "minsk",
+    "countryIso2": "BY",
+    "foundedYear": 1984,
+    "lat": 53.85055556,
+    "lng": 27.63472222,
+    "website": "http://minskzoo.by/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "jardin-zoologique-de-la-ville-de-lyon-fr",
+    "name": "Jardin zoologique de la ville de Lyon",
+    "nameLocal": null,
+    "citySlug": "6-y-okrug-liona-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1858,
+    "lat": 45.7774,
+    "lng": 4.85543,
+    "website": "http://www.zoo.lyon.fr/zoo/sections/fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "twycross-zoo-gb",
+    "name": "Twycross Zoo",
+    "nameLocal": null,
+    "citySlug": "twycross-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1963,
+    "lat": 52.652777777,
+    "lng": -1.529722222,
+    "website": "http://www.twycrosszoo.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "thuringer-zoopark-erfurt-de",
+    "name": "Thüringer Zoopark Erfurt",
+    "nameLocal": null,
+    "citySlug": "erfurt-de",
+    "countryIso2": "DE",
+    "foundedYear": 1959,
+    "lat": 51.0233,
+    "lng": 11.0278,
+    "website": "https://www.zoopark-erfurt.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tiergarten-bernburg-de",
+    "name": "Tiergarten Bernburg",
+    "nameLocal": null,
+    "citySlug": "bernburg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1909,
+    "lat": 51.7942,
+    "lng": 11.7281,
+    "website": "http://www.tiergarten-bernburg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tiergarten-delitzsch-de",
+    "name": "Tiergarten Delitzsch",
+    "nameLocal": null,
+    "citySlug": "delich-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 51.527833333,
+    "lng": 12.3175,
+    "website": "http://tiergarten-delitzsch.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-cleves-de",
+    "name": "Zoo Cleves",
+    "nameLocal": null,
+    "citySlug": "kleve-de",
+    "countryIso2": "DE",
+    "foundedYear": 1959,
+    "lat": 51.7991,
+    "lng": 6.12186,
+    "website": "http://www.tiergarten-kleve.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-neumunster-de",
+    "name": "Tierpark Neumünster",
+    "nameLocal": null,
+    "citySlug": "noymyunster-de",
+    "countryIso2": "DE",
+    "foundedYear": 1951,
+    "lat": 54.0917,
+    "lng": 9.945,
+    "website": "https://www.tierparkneumuenster.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-haag-at",
+    "name": "Tierpark Haag",
+    "nameLocal": null,
+    "citySlug": "khag-at",
+    "countryIso2": "AT",
+    "foundedYear": 1973,
+    "lat": 48.1023,
+    "lng": 14.5574,
+    "website": "https://www.tierparkstadthaag.at",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-strohen-de",
+    "name": "Tierpark Ströhen",
+    "nameLocal": null,
+    "citySlug": "vagenfeld-de",
+    "countryIso2": "DE",
+    "foundedYear": 1959,
+    "lat": 52.5364,
+    "lng": 8.70944,
+    "website": "http://www.tierpark-stroehen.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ystad-djurpark-se",
+    "name": "Ystad Djurpark",
+    "nameLocal": null,
+    "citySlug": "istad-se",
+    "countryIso2": "SE",
+    "foundedYear": 1998,
+    "lat": 55.486272,
+    "lng": 13.719252,
+    "website": "https://www.ystaddjurpark.se/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "vivarium-darmstadt-de",
+    "name": "Vivarium Darmstadt",
+    "nameLocal": null,
+    "citySlug": "darmshtadt-de",
+    "countryIso2": "DE",
+    "foundedYear": 1956,
+    "lat": 49.8664,
+    "lng": 8.68278,
+    "website": "http://www.zoo-vivarium.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-pilsen-cz",
+    "name": "Zoo Pilsen",
+    "nameLocal": null,
+    "citySlug": "plzen-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1926,
+    "lat": 49.7578,
+    "lng": 13.36,
+    "website": "http://www.zooplzen.cz",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "newquay-zoo-gb",
+    "name": "Newquay Zoo",
+    "nameLocal": null,
+    "citySlug": "nyuki-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1968,
+    "lat": 50.4114,
+    "lng": -5.0694,
+    "website": "https://www.newquayzoo.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ayfelpark-de",
+    "name": "Айфельпарк",
+    "nameLocal": null,
+    "citySlug": "gondorf-de",
+    "countryIso2": "DE",
+    "foundedYear": 2014,
+    "lat": 49.9628,
+    "lng": 6.6175,
+    "website": "https://www.eifelpark.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "alpiyskiy-zoopark-at",
+    "name": "Альпийский зоопарк",
+    "nameLocal": null,
+    "citySlug": "insbruk-at",
+    "countryIso2": "AT",
+    "foundedYear": 1962,
+    "lat": 47.2806,
+    "lng": 11.3981,
+    "website": "https://www.alpenzoo.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "natur-und-tierpark-goldau-ch",
+    "name": "Natur- und Tierpark Goldau",
+    "nameLocal": null,
+    "citySlug": "art-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1925,
+    "lat": 47.0503,
+    "lng": 8.55306,
+    "website": "https://www.tierpark.ch/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kotbusskiy-zoopark-de",
+    "name": "Котбусский зоопарк",
+    "nameLocal": null,
+    "citySlug": "kotbus-de",
+    "countryIso2": "DE",
+    "foundedYear": 1954,
+    "lat": 51.7444,
+    "lng": 14.3531,
+    "website": "http://www.tierparkcottbus.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-gettorf-de",
+    "name": "Tierpark Gettorf",
+    "nameLocal": null,
+    "citySlug": "shlezvig-golshteyn-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 54.40305556,
+    "lng": 9.97638889,
+    "website": "https://tierparkgettorf.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "safari-park-sizhan-fr",
+    "name": "Сафари-парк Сижан",
+    "nameLocal": null,
+    "citySlug": "sizhan-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1974,
+    "lat": 43.068135,
+    "lng": 2.953563,
+    "website": "http://www.reserveafricainesigean.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hirschfeld-wildlife-park-de",
+    "name": "Hirschfeld Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "khirshfeld-de",
+    "countryIso2": "DE",
+    "foundedYear": 1954,
+    "lat": 50.6278,
+    "lng": 12.4403,
+    "website": "https://tierpark.hirschfeld-sachsen.de/inhalt/tierpark_hirschfeld/_inhalt/willkommen",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "chemnitz-zoo-de",
+    "name": "Chemnitz Zoo",
+    "nameLocal": null,
+    "citySlug": "raykhenbrand-de",
+    "countryIso2": "DE",
+    "foundedYear": 1964,
+    "lat": 50.8183,
+    "lng": 12.835,
+    "website": "http://www.tierpark-chemnitz.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "highland-wildlife-park-gb",
+    "name": "Highland Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "khaylend-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1972,
+    "lat": 57.1111,
+    "lng": -3.97472,
+    "website": "http://www.highlandwildlifepark.org.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-und-fossilium-bochum-de",
+    "name": "Tierpark und Fossilium Bochum",
+    "nameLocal": null,
+    "citySlug": "gelzenkirkhen-de",
+    "countryIso2": "DE",
+    "foundedYear": 1933,
+    "lat": 51.4906,
+    "lng": 7.22722,
+    "website": "https://www.tierpark-bochum.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hankensbuttel-otter-centre-de",
+    "name": "Hankensbüttel Otter Centre",
+    "nameLocal": null,
+    "citySlug": "khankensbyuttel-de",
+    "countryIso2": "DE",
+    "foundedYear": 1988,
+    "lat": 52.7314,
+    "lng": 10.62,
+    "website": "https://otterzentrum.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-perleberg-de",
+    "name": "Tierpark Perleberg",
+    "nameLocal": null,
+    "citySlug": "perleberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1964,
+    "lat": 53.0639,
+    "lng": 11.8583,
+    "website": "https://www.tierparkperleberg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-ueckermunde-de",
+    "name": "Tierpark Ueckermünde",
+    "nameLocal": null,
+    "citySlug": "ikkermyunde-de",
+    "countryIso2": "DE",
+    "foundedYear": 1962,
+    "lat": 53.7313,
+    "lng": 14.028,
+    "website": "https://tierpark-ueckermuende.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "jardin-zoologique-tropical-fr",
+    "name": "Jardin zoologique tropical",
+    "nameLocal": null,
+    "citySlug": "la-lond-le-mor-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1989,
+    "lat": 43.147904,
+    "lng": 6.254461,
+    "website": "http://www.zootropical.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "polar-park-no",
+    "name": "Polar Park",
+    "nameLocal": null,
+    "citySlug": "bardu-no",
+    "countryIso2": "NO",
+    "foundedYear": 1994,
+    "lat": 68.6917,
+    "lng": 18.1098,
+    "website": "https://polarpark.no/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "givskud-zoo-dk",
+    "name": "Givskud Zoo",
+    "nameLocal": null,
+    "citySlug": "vayle-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1969,
+    "lat": 55.81166667,
+    "lng": 9.35194444,
+    "website": "http://www.givskudzoo.dk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "olmen-zoo-be",
+    "name": "Olmen Zoo",
+    "nameLocal": null,
+    "citySlug": "balen-be",
+    "countryIso2": "BE",
+    "foundedYear": 1976,
+    "lat": 51.12756,
+    "lng": 5.14678,
+    "website": "http://www.olmensezoo.be/cms/index.php/nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "monkey-world-gb",
+    "name": "Monkey World",
+    "nameLocal": null,
+    "citySlug": "dorset-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1987,
+    "lat": 50.6973,
+    "lng": -2.2177,
+    "website": "https://monkeyworld.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "menagerie-du-jardin-des-plantes-fr",
+    "name": "Ménagerie du Jardin des Plantes",
+    "nameLocal": null,
+    "citySlug": "paris",
+    "countryIso2": "FR",
+    "foundedYear": 1794,
+    "lat": 48.845446,
+    "lng": 2.360325,
+    "website": "http://www.mnhn.fr/fr/visitez/lieux/menagerie-zoo-jardin-plantes",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "opel-zoo-de",
+    "name": "Opel-Zoo",
+    "nameLocal": null,
+    "citySlug": "kronberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1956,
+    "lat": 50.183333333,
+    "lng": 8.486388888,
+    "website": "https://www.opel-zoo.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zooparc-overloon-nl",
+    "name": "ZooParc Overloon",
+    "nameLocal": null,
+    "citySlug": "land-van-cuijk-nl",
+    "countryIso2": "NL",
+    "foundedYear": 2000,
+    "lat": 51.57722,
+    "lng": 5.94,
+    "website": "https://www.zooparc.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "plaswijckpark-nl",
+    "name": "Plaswijckpark",
+    "nameLocal": null,
+    "citySlug": "rotterdam",
+    "countryIso2": "NL",
+    "foundedYear": 1923,
+    "lat": 51.95611,
+    "lng": 4.48139,
+    "website": "https://www.plaswijckpark.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "belfast-zoo-gb",
+    "name": "Belfast Zoo",
+    "nameLocal": null,
+    "citySlug": "severnaya-irlandiya-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1934,
+    "lat": 54.656,
+    "lng": -5.942,
+    "website": "http://www.belfastzoo.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-donsbach-de",
+    "name": "Wildpark Donsbach",
+    "nameLocal": null,
+    "citySlug": "dillenburg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1970,
+    "lat": 50.7186,
+    "lng": 8.24083,
+    "website": "https://www.wildpark-donsbach.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bad-mergentheim-wildlife-park-de",
+    "name": "Bad Mergentheim Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "bad-mergentkhaym-de",
+    "countryIso2": "DE",
+    "foundedYear": 1973,
+    "lat": 49.4683,
+    "lng": 9.79694,
+    "website": "http://www.wildtierpark.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-poing-de",
+    "name": "Wildpark Poing",
+    "nameLocal": null,
+    "citySlug": "poyng-de",
+    "countryIso2": "DE",
+    "foundedYear": 1959,
+    "lat": 48.1756,
+    "lng": 11.8303,
+    "website": "https://www.wildpark-poing.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dierenpark-de-oliemeulen-nl",
+    "name": "Dierenpark De Oliemeulen",
+    "nameLocal": null,
+    "citySlug": "khilvarenbek-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1987,
+    "lat": 51.57068,
+    "lng": 5.06215,
+    "website": "http://www.oliemeulen.nl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "koshitskiy-zoopark-sk",
+    "name": "Кошицкий зоопарк",
+    "nameLocal": null,
+    "citySlug": "koshitse-sk",
+    "countryIso2": "SK",
+    "foundedYear": 1979,
+    "lat": 48.78361111,
+    "lng": 21.20388889,
+    "website": "https://www.zookosice.sk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "cabarceno-natural-park-es",
+    "name": "Cabarceno Natural Park",
+    "nameLocal": null,
+    "citySlug": "kantabriya-es",
+    "countryIso2": "ES",
+    "foundedYear": 1989,
+    "lat": 43.35,
+    "lng": -3.85222222,
+    "website": "https://parquedecabarceno.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-dvur-kralove-cz",
+    "name": "Зоопарк Двур-Кралове",
+    "nameLocal": null,
+    "citySlug": "dvur-kralove-nad-labem-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1946,
+    "lat": 50.43028,
+    "lng": 15.80139,
+    "website": "http://www.zoodvurkralove.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoosad-essekhof-de",
+    "name": "Зоосад Эссехоф",
+    "nameLocal": null,
+    "citySlug": "lere-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 52.3061,
+    "lng": 10.665,
+    "website": "http://tierpark-essehof.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "le-monde-sauvage-be",
+    "name": "Le Monde Sauvage",
+    "nameLocal": null,
+    "citySlug": "le-monde-sauvage-be",
+    "countryIso2": "BE",
+    "foundedYear": 1983,
+    "lat": 50.5,
+    "lng": 5.741666666,
+    "website": "http://www.mondesauvage.be",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "chateau-of-thoiry-fr",
+    "name": "Зоосафари Туари",
+    "nameLocal": null,
+    "citySlug": "tuari-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1965,
+    "lat": 48.86388889,
+    "lng": 1.79583333,
+    "website": "http://www.thoiry.net/index.2.php?lang=en",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "drayton-manor-theme-park-gb",
+    "name": "Drayton Manor Theme Park",
+    "nameLocal": null,
+    "citySlug": "staffordshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1949,
+    "lat": 52.6108,
+    "lng": -1.71333,
+    "website": "http://www.draytonmanor.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "skandinavisk-dyrepark-dk",
+    "name": "Skandinavisk Dyrepark",
+    "nameLocal": null,
+    "citySlug": "syuddyurs-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1994,
+    "lat": 56.344539,
+    "lng": 10.65395,
+    "website": "https://skandinaviskdyrepark.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-stropkov-sk",
+    "name": "ZOO Stropkov",
+    "nameLocal": null,
+    "citySlug": "stropkov-sk",
+    "countryIso2": "SK",
+    "foundedYear": 1984,
+    "lat": 49.2047,
+    "lng": 21.6514,
+    "website": "http://www.zoostropkov.sk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "boynitskiy-zoopark-sk",
+    "name": "Бойницкий зоопарк",
+    "nameLocal": null,
+    "citySlug": "boynitse-sk",
+    "countryIso2": "SK",
+    "foundedYear": 1955,
+    "lat": 48.78055556,
+    "lng": 18.57694444,
+    "website": "https://zoobojnice.sk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "paignton-zoo-gb",
+    "name": "Paignton Zoo",
+    "nameLocal": null,
+    "citySlug": "torki-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1923,
+    "lat": 50.4289,
+    "lng": -3.58444,
+    "website": "https://www.paigntonzoo.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "erevanskiy-zoopark-am",
+    "name": "Ереванский зоопарк",
+    "nameLocal": null,
+    "citySlug": "yerevan",
+    "countryIso2": "AM",
+    "foundedYear": 1940,
+    "lat": 40.196,
+    "lng": 44.5505,
+    "website": "https://zoo.am",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-skone-se",
+    "name": "Зоопарк Сконе",
+    "nameLocal": null,
+    "citySlug": "kheer-se",
+    "countryIso2": "SE",
+    "foundedYear": 1953,
+    "lat": 55.9630984,
+    "lng": 13.5366583,
+    "website": "https://www.skanesdjurpark.se",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-du-mont-faron-fr",
+    "name": "Zoo du Mont Faron",
+    "nameLocal": null,
+    "citySlug": "tulon-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1968,
+    "lat": 43.153,
+    "lng": 5.94049,
+    "website": "http://zoo-toulon.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoomarine-it",
+    "name": "Zoomarine",
+    "nameLocal": null,
+    "citySlug": "pometsiya-it",
+    "countryIso2": "IT",
+    "foundedYear": 2005,
+    "lat": 41.633611111,
+    "lng": 12.456666666,
+    "website": "http://www.zoomarine.it",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zooparc-de-tregomeur-fr",
+    "name": "Zooparc de Trégomeur",
+    "nameLocal": null,
+    "citySlug": "tregomer-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2007,
+    "lat": 48.584444444,
+    "lng": -2.882222222,
+    "website": "http://www.zoo-tregomeur.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ekhtyari-fi",
+    "name": "Зоопарк Эхтяри",
+    "nameLocal": null,
+    "citySlug": "ekhtyari-fi",
+    "countryIso2": "FI",
+    "foundedYear": 1973,
+    "lat": 62.53888889,
+    "lng": 24.17611111,
+    "website": "https://www.ahtarizoo.fi/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-di-pistoia-it",
+    "name": "Zoo di Pistoia",
+    "nameLocal": null,
+    "citySlug": "pistoya-it",
+    "countryIso2": "IT",
+    "foundedYear": 1970,
+    "lat": 43.929621468,
+    "lng": 10.865653415,
+    "website": "https://www.zoodipistoia.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "le-cornelle-it",
+    "name": "Le Cornelle",
+    "nameLocal": null,
+    "citySlug": "valbrembo-it",
+    "countryIso2": "IT",
+    "foundedYear": 1981,
+    "lat": 45.715915,
+    "lng": 9.598307,
+    "website": "https://www.lecornelle.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "grodnenskiy-zoopark-by",
+    "name": "Гродненский зоопарк",
+    "nameLocal": null,
+    "citySlug": "grodno",
+    "countryIso2": "BY",
+    "foundedYear": 1927,
+    "lat": 53.68871,
+    "lng": 23.84873,
+    "website": "http://www.grodnozoo.by",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "belgorodskiy-zoopark-ru",
+    "name": "Белгородский зоопарк",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1991,
+    "lat": 50.553,
+    "lng": 36.641333333,
+    "website": "http://belzoopark.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "voronezhskiy-zoopark-ru",
+    "name": "Воронежский зоопарк",
+    "nameLocal": null,
+    "citySlug": "voronezh-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1994,
+    "lat": 51.63944444,
+    "lng": 39.24361111,
+    "website": "https://zooparkvrn.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "izhevskiy-zoopark-ru",
+    "name": "Ижевский зоопарк",
+    "nameLocal": null,
+    "citySlug": "oktyabrskiy-rayon-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2008,
+    "lat": 56.86583,
+    "lng": 53.17291,
+    "website": "http://www.udm-zoo.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "latgalskiy-zoopark-lv",
+    "name": "Латгальский зоопарк",
+    "nameLocal": null,
+    "citySlug": "daugavpils-lv",
+    "countryIso2": "LV",
+    "foundedYear": 1992,
+    "lat": 55.873859,
+    "lng": 26.509769,
+    "website": "http://www.latgaleszoo.eu/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "lipetskiy-zoopark-ru",
+    "name": "Липецкий зоопарк",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1972,
+    "lat": 52.604799,
+    "lng": 39.607715,
+    "website": "https://zoo48.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "mogilevskiy-zoosad-by",
+    "name": "Могилёвский зоосад",
+    "nameLocal": null,
+    "citySlug": "mogilevskiy-zoosad-by",
+    "countryIso2": "BY",
+    "foundedYear": 2005,
+    "lat": 53.86333333,
+    "lng": 30.26777778,
+    "website": "http://zoosad.by/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bestzoo-nl",
+    "name": "BestZoo",
+    "nameLocal": null,
+    "citySlug": "best-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1930,
+    "lat": 51.5292,
+    "lng": 5.4005,
+    "website": "https://bestzoo.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "penzenskiy-zoopark-ru",
+    "name": "Пензенский зоопарк",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1981,
+    "lat": 53.17589,
+    "lng": 45.00026,
+    "website": "http://www.zoo-penza.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "permskiy-zoopark-ru",
+    "name": "Пермский зоопарк",
+    "nameLocal": null,
+    "citySlug": "perm",
+    "countryIso2": "RU",
+    "foundedYear": 1933,
+    "lat": 57.961666666,
+    "lng": 56.188611111,
+    "website": "https://zoo.perm.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ranua-zoopark-fi",
+    "name": "Рануа (зоопарк)",
+    "nameLocal": null,
+    "citySlug": "ranua-fi",
+    "countryIso2": "FI",
+    "foundedYear": 1983,
+    "lat": 65.94222222,
+    "lng": 26.46833333,
+    "website": "https://www.ranuazoo.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "rostovskiy-zoopark-ru",
+    "name": "Ростовский зоопарк",
+    "nameLocal": null,
+    "citySlug": "rostov-na-donu-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1927,
+    "lat": 47.2526,
+    "lng": 39.671,
+    "website": "http://zoopark-rostov.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tbilisskiy-zoopark-ge",
+    "name": "Тбилисский зоопарк",
+    "nameLocal": null,
+    "citySlug": "tbilisi",
+    "countryIso2": "GE",
+    "foundedYear": 1927,
+    "lat": 41.713,
+    "lng": 44.777,
+    "website": "http://www.zoo.ge/index.php",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "yaltinskiy-zoopark-skazka-ua",
+    "name": "Ялтинский зоопарк «Сказка»",
+    "nameLocal": null,
+    "citySlug": "yalta",
+    "countryIso2": "UA",
+    "foundedYear": 1995,
+    "lat": 44.494444444,
+    "lng": 34.118333333,
+    "website": "https://yaltazoo.org",
+    "description": null,
+    "locationLabel": "Крым",
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "odz-zoo-pl",
+    "name": "Łódź Zoo",
+    "nameLocal": null,
+    "citySlug": "zdrowie-mania-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1938,
+    "lat": 51.761094444,
+    "lng": 19.412197222,
+    "website": "https://orientarium.lodz.pl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "timisoara-zoological-garden-ro",
+    "name": "Timișoara Zoological Garden",
+    "nameLocal": null,
+    "citySlug": "timisoara-zoological-garden-ro",
+    "countryIso2": "RO",
+    "foundedYear": 1986,
+    "lat": 45.781771,
+    "lng": 21.267815,
+    "website": "http://www.zootimisoara.ro",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "alameda-wildlife-conservation-park-gb",
+    "name": "Alameda Wildlife Conservation Park",
+    "nameLocal": null,
+    "citySlug": "gibraltar-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2002,
+    "lat": 36.130576,
+    "lng": -5.350263,
+    "website": "http://www.awcp.gi/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "anglesey-sea-zoo-gb",
+    "name": "Anglesey Sea Zoo",
+    "nameLocal": null,
+    "citySlug": "brynsiencyn-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1983,
+    "lat": 53.1642,
+    "lng": -4.27883,
+    "website": "https://www.angleseyseazoo.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "la-torbiera-it",
+    "name": "La Torbiera",
+    "nameLocal": null,
+    "citySlug": "agrate-konturbiya-it",
+    "countryIso2": "IT",
+    "foundedYear": 1977,
+    "lat": 45.67497,
+    "lng": 8.58841,
+    "website": "http://www.latorbiera.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "le-rocher-des-aigles-fr",
+    "name": "Le rocher des aigles",
+    "nameLocal": null,
+    "citySlug": "rokamadur-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1977,
+    "lat": 44.801858719,
+    "lng": 1.612450791,
+    "website": "http://www.rocherdesaigles.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "aalborg-zoo-dk",
+    "name": "Aalborg Zoo",
+    "nameLocal": null,
+    "citySlug": "olborg-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1935,
+    "lat": 57.0368,
+    "lng": 9.8982,
+    "website": "https://aalborgzoo.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "litovskiy-zoopark-lt",
+    "name": "Литовский зоопарк",
+    "nameLocal": null,
+    "citySlug": "kaunas",
+    "countryIso2": "LT",
+    "foundedYear": 1938,
+    "lat": 54.90138889,
+    "lng": 23.95138889,
+    "website": "https://www.zoosodas.lt/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tirana-zoo-al",
+    "name": "Tirana Zoo",
+    "nameLocal": null,
+    "citySlug": "tirana",
+    "countryIso2": "AL",
+    "foundedYear": 1966,
+    "lat": 41.307805555,
+    "lng": 19.809388888,
+    "website": "http://www.visit-tirana.com/things-to-do/nature/83/tirana-zoo",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kitee-zoo-fi",
+    "name": "Kitee Zoo",
+    "nameLocal": null,
+    "citySlug": "kitee-fi",
+    "countryIso2": "FI",
+    "foundedYear": 1996,
+    "lat": 62.04583333,
+    "lng": 29.89833333,
+    "website": "http://www.kiteezoo.fi",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "boros-dyupark-se",
+    "name": "Борос Дьюпарк",
+    "nameLocal": null,
+    "citySlug": "buros-se",
+    "countryIso2": "SE",
+    "foundedYear": 1962,
+    "lat": 57.74138889,
+    "lng": 12.94916667,
+    "website": "http://www.borasdjurpark.se",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "micropolis-fr",
+    "name": "Micropolis",
+    "nameLocal": null,
+    "citySlug": "sen-leon-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2000,
+    "lat": 44.215111111,
+    "lng": 2.988805555,
+    "website": "http://www.micropolis-aveyron.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "park-feniks-nitstsa-fr",
+    "name": "Парк Феникс (Ницца)",
+    "nameLocal": null,
+    "citySlug": "antib-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1990,
+    "lat": 43.668111111,
+    "lng": 7.215611111,
+    "website": "https://www.parc-phoenix.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-de-courzieu-fr",
+    "name": "Parc animalier de Courzieu",
+    "nameLocal": null,
+    "citySlug": "courzieu-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1980,
+    "lat": 45.7518,
+    "lng": 4.60064,
+    "website": "http://www.parc-de-courzieu.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-de-gramat-fr",
+    "name": "Parc animalier de Gramat",
+    "nameLocal": null,
+    "citySlug": "rokamadur-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1980,
+    "lat": 44.759038,
+    "lng": 1.727192,
+    "website": "https://www.gramat-parc-animalier.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-de-merlet-fr",
+    "name": "Parc animalier de Merlet",
+    "nameLocal": null,
+    "citySlug": "lez-ush-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1968,
+    "lat": 45.9074564,
+    "lng": 6.8181532,
+    "website": "http://www.parcdemerlet.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-de-sainte-croix-fr",
+    "name": "Parc animalier de Sainte-Croix",
+    "nameLocal": null,
+    "citySlug": "rod-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1980,
+    "lat": 48.7719,
+    "lng": 6.89583,
+    "website": "https://parcsaintecroix.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "haute-touche-zoological-park-fr",
+    "name": "Haute Touche Zoological Park",
+    "nameLocal": null,
+    "citySlug": "obter-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1958,
+    "lat": 46.8852,
+    "lng": 1.07629,
+    "website": "https://www.reservedelahautetouche.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "pyrenees-animal-park-fr",
+    "name": "Pyrénées Animal Park",
+    "nameLocal": null,
+    "citySlug": "arzheles-gazost-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1999,
+    "lat": 43.0154,
+    "lng": -0.0977,
+    "website": "http://www.parc-animalier-pyrenees.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-des-felins-fr",
+    "name": "Parc des Félins",
+    "nameLocal": null,
+    "citySlug": "lumigny-nesles-ormeaux-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2006,
+    "lat": 48.709456,
+    "lng": 2.956738,
+    "website": "https://www.parcs-zoologiques-lumigny.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "longleat-safari-and-adventure-park-gb",
+    "name": "Longleat Safari and Adventure Park",
+    "nameLocal": null,
+    "citySlug": "horningsham-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1966,
+    "lat": 51.19,
+    "lng": -2.261,
+    "website": "http://www.longleat.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-zoologique-de-lisieux-fr",
+    "name": "Parc zoologique de Lisieux",
+    "nameLocal": null,
+    "citySlug": "ermival-le-vo-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1986,
+    "lat": 49.1821,
+    "lng": 0.311608,
+    "website": "http://www.cerza.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-and-botanical-garden-of-branfere-fr",
+    "name": "Zoo and Botanical Garden of Branféré",
+    "nameLocal": null,
+    "citySlug": "le-guerno-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1965,
+    "lat": 47.5951,
+    "lng": -2.39549,
+    "website": "https://www.branfere.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-a-loups-du-gevaudan-fr",
+    "name": "Parc à loups du Gévaudan",
+    "nameLocal": null,
+    "citySlug": "saint-leger-de-peyre-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1962,
+    "lat": 44.3623,
+    "lng": 3.16569,
+    "website": "http://www.loupsdugevaudan.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parco-natura-viva-it",
+    "name": "Parco Natura Viva",
+    "nameLocal": null,
+    "citySlug": "bussolengo-it",
+    "countryIso2": "IT",
+    "foundedYear": 1969,
+    "lat": 45.4786,
+    "lng": 10.7969,
+    "website": "http://www.parconaturaviva.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "planete-sauvage-fr",
+    "name": "Planète Sauvage",
+    "nameLocal": null,
+    "citySlug": "port-saint-pere-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1992,
+    "lat": 47.11833333,
+    "lng": -1.76361111,
+    "website": "https://www.planetesauvage.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "safari-de-peaugres-fr",
+    "name": "Safari de Peaugres",
+    "nameLocal": null,
+    "citySlug": "pogr-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1974,
+    "lat": 45.2691,
+    "lng": 4.717,
+    "website": "http://www.safari-peaugres.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "silezskiy-zoopark-pl",
+    "name": "Силезский зоопарк",
+    "nameLocal": null,
+    "citySlug": "khozhuv-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1954,
+    "lat": 50.281661,
+    "lng": 18.993473,
+    "website": "http://www.zoo.silesia.pl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "village-des-tortues-fr",
+    "name": "Village des tortues",
+    "nameLocal": null,
+    "citySlug": "karnul-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1988,
+    "lat": 43.30159,
+    "lng": 6.21043,
+    "website": "https://www.tortupole.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ostravskiy-zoopark-cz",
+    "name": "Остравский зоопарк",
+    "nameLocal": null,
+    "citySlug": "silezskaya-ostrava-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1951,
+    "lat": 49.8456,
+    "lng": 18.3251,
+    "website": "https://www.zoo-ostrava.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "asson-zoo-fr",
+    "name": "Asson Zoo",
+    "nameLocal": null,
+    "citySlug": "ason-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1964,
+    "lat": 43.1284,
+    "lng": -0.268153,
+    "website": "http://www.zoo-asson.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "howletts-wild-animal-park-gb",
+    "name": "Howletts Wild Animal Park",
+    "nameLocal": null,
+    "citySlug": "siti-of-kenterberi-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1975,
+    "lat": 51.2667,
+    "lng": 1.15,
+    "website": "https://www.aspinallfoundation.org/howletts/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-de-la-fleche-fr",
+    "name": "Zoo de La Flèche",
+    "nameLocal": null,
+    "citySlug": "la-flesh-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1946,
+    "lat": 47.6758,
+    "lng": -0.0457,
+    "website": "http://www.zoo-la-fleche.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "les-terres-de-natae-fr",
+    "name": "Les terres de Nataé",
+    "nameLocal": null,
+    "citySlug": "pon-skorf-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1973,
+    "lat": 47.8103,
+    "lng": -3.40705,
+    "website": "https://www.lesterresdenatae.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "escurial-zoo-and-flower-park-fi",
+    "name": "Escurial Zoo and Flower Park",
+    "nameLocal": null,
+    "citySlug": "liminka-fi",
+    "countryIso2": "FI",
+    "foundedYear": 1987,
+    "lat": 64.721667,
+    "lng": 25.362778,
+    "website": "https://www.kukka-jaelainpuistoescurial.fi/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "exmoor-zoo-gb",
+    "name": "Exmoor Zoo",
+    "nameLocal": null,
+    "citySlug": "barnstapl-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1982,
+    "lat": 51.148,
+    "lng": -3.924,
+    "website": "http://www.exmoorzoo.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "exploris-gb",
+    "name": "Exploris",
+    "nameLocal": null,
+    "citySlug": "portaferri-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1987,
+    "lat": 54.382,
+    "lng": -5.549,
+    "website": "http://www.exploris.org.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "folly-farm-adventure-park-and-zoo-gb",
+    "name": "Folly Farm Adventure Park and Zoo",
+    "nameLocal": null,
+    "citySlug": "kilgetty-begelly-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1988,
+    "lat": 51.7433,
+    "lng": -4.73027,
+    "website": "https://www.folly-farm.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "fota-wildlife-park-ie",
+    "name": "Fota Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "fota-wildlife-park-ie",
+    "countryIso2": "IE",
+    "foundedYear": 1983,
+    "lat": 51.889585,
+    "lng": -8.311276,
+    "website": "http://www.fotawildlife.ie",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hamerton-zoo-park-gb",
+    "name": "Hamerton Zoo Park",
+    "nameLocal": null,
+    "citySlug": "hamerton-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1990,
+    "lat": 52.409,
+    "lng": -0.328,
+    "website": "https://www.hamertonzoopark.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "international-centre-for-birds-of-prey-gb",
+    "name": "International Centre for Birds of Prey",
+    "nameLocal": null,
+    "citySlug": "forest-of-din-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1967,
+    "lat": 51.913321439,
+    "lng": -2.428042674,
+    "website": "https://www.icbp.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "gaziantep-zoo-tr",
+    "name": "Gaziantep Zoo",
+    "nameLocal": null,
+    "citySlug": "shakhinbey-tr",
+    "countryIso2": "TR",
+    "foundedYear": 2001,
+    "lat": 37.03967778,
+    "lng": 37.29526944,
+    "website": "http://gaziantepzoo.org//",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "the-wildheart-animal-sanctuary-gb",
+    "name": "The Wildheart Animal Sanctuary",
+    "nameLocal": null,
+    "citySlug": "uayt-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1950,
+    "lat": 50.6609,
+    "lng": -1.1394,
+    "website": "https://isleofwightzoo.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "santillana-zoo-es",
+    "name": "Santillana Zoo",
+    "nameLocal": null,
+    "citySlug": "santilyana-del-mar-es",
+    "countryIso2": "ES",
+    "foundedYear": 1977,
+    "lat": 43.3811,
+    "lng": -4.10289,
+    "website": "https://www.zoosantillanadelmar.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "knowsley-safari-park-gb",
+    "name": "Knowsley Safari Park",
+    "nameLocal": null,
+    "citySlug": "preskot-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1971,
+    "lat": 53.442,
+    "lng": -2.812,
+    "website": "http://www.knowsleysafariexperience.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-zoologique-de-montpellier-fr",
+    "name": "Parc zoologique de Montpellier",
+    "nameLocal": null,
+    "citySlug": "monpele-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1964,
+    "lat": 43.639513888,
+    "lng": 3.873847222,
+    "website": "http://zoo.montpellier.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "banham-zoo-gb",
+    "name": "Banham Zoo",
+    "nameLocal": null,
+    "citySlug": "norfolk-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1968,
+    "lat": 52.4447,
+    "lng": 1.025,
+    "website": "http://www.banhamzoo.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "beale-park-gb",
+    "name": "Beale Park",
+    "nameLocal": null,
+    "citySlug": "zapadnyy-berkshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1956,
+    "lat": 51.5,
+    "lng": -1.10833,
+    "website": "https://www.bealepark.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "birdland-park-and-gardens-gb",
+    "name": "Birdland Park and Gardens",
+    "nameLocal": null,
+    "citySlug": "bourton-on-the-water-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1989,
+    "lat": 51.8803,
+    "lng": -1.75417,
+    "website": "http://www.birdland.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "birmingham-wildlife-conservation-park-gb",
+    "name": "Birmingham Wildlife Conservation Park",
+    "nameLocal": null,
+    "citySlug": "birmingem-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1974,
+    "lat": 52.4505,
+    "lng": -1.91043,
+    "website": "https://www.birmingham.gov.uk/bhamconservationpark",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "peak-wildlife-park-gb",
+    "name": "Peak Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "lik-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1991,
+    "lat": 53.0611,
+    "lng": -1.92361,
+    "website": "https://www.peakwildlifepark.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "blair-drummond-safari-and-adventure-park-gb",
+    "name": "Blair Drummond Safari and Adventure Park",
+    "nameLocal": null,
+    "citySlug": "sterling-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1970,
+    "lat": 56.165,
+    "lng": -4.038,
+    "website": "http://www.blairdrummond.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bornholm-butterfly-park-dk",
+    "name": "Bornholm Butterfly Park",
+    "nameLocal": null,
+    "citySlug": "bornkholm-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1997,
+    "lat": 55.0637,
+    "lng": 15.119,
+    "website": "http://www.sommerfugleparken.dk/index.php/en/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "borth-wild-animal-kingdom-gb",
+    "name": "Borth Wild Animal Kingdom",
+    "nameLocal": null,
+    "citySlug": "borth-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2000,
+    "lat": 52.4856,
+    "lng": -4.044,
+    "website": "https://www.borthzoo.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bucklebury-farm-park-gb",
+    "name": "Bucklebury Farm Park",
+    "nameLocal": null,
+    "citySlug": "zapadnyy-berkshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1992,
+    "lat": 51.4304,
+    "lng": -1.20284,
+    "website": "http://www.buckleburyfarmpark.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "butterfly-world-isle-of-wight-gb",
+    "name": "Butterfly World, Isle of Wight",
+    "nameLocal": null,
+    "citySlug": "uayt-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1983,
+    "lat": 50.7113,
+    "lng": -1.25447,
+    "website": "http://www.butterfly-world-iow.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "colchester-zoo-gb",
+    "name": "Colchester Zoo",
+    "nameLocal": null,
+    "citySlug": "kolchester-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1963,
+    "lat": 51.8625,
+    "lng": 0.832778,
+    "website": "https://www.colchester-zoo.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "cornish-seal-sanctuary-gb",
+    "name": "Cornish Seal Sanctuary",
+    "nameLocal": null,
+    "citySlug": "gweek-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1958,
+    "lat": 50.092,
+    "lng": -5.20263,
+    "website": "https://www.visitsealife.com/gweek/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "cotswold-wildlife-park-gb",
+    "name": "Cotswold Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "oksfordshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1970,
+    "lat": 51.7736,
+    "lng": -1.65417,
+    "website": "https://www.cotswoldwildlifepark.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoologicheskiy-park-dartmura-gb",
+    "name": "Зоологический парк Дартмура",
+    "nameLocal": null,
+    "citySlug": "dartmur-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1968,
+    "lat": 50.407,
+    "lng": -3.997,
+    "website": "https://www.dartmoorzoo.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "drusillas-zoo-park-gb",
+    "name": "Drusillas Zoo Park",
+    "nameLocal": null,
+    "citySlug": "vostochnyy-susseks-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1920,
+    "lat": 50.8239,
+    "lng": 0.163,
+    "website": "http://www.drusillas.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dudley-zoo-gb",
+    "name": "Dudley Zoo",
+    "nameLocal": null,
+    "citySlug": "dadli-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1937,
+    "lat": 52.513938888,
+    "lng": -2.077133333,
+    "website": "http://www.dudleyzoo.org.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "monkey-sanctuary-gb",
+    "name": "Monkey Sanctuary",
+    "nameLocal": null,
+    "citySlug": "lu-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1964,
+    "lat": 50.3654,
+    "lng": -4.4136,
+    "website": "http://www.monkeysanctuary.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "park-nordica-no",
+    "name": "Park Nordica",
+    "nameLocal": null,
+    "citySlug": "namsskugan-no",
+    "countryIso2": "NO",
+    "foundedYear": 1989,
+    "lat": 64.7431,
+    "lng": 12.847777777,
+    "website": "https://www.park-nordica.com/no",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bristol-zoo-project-gb",
+    "name": "Bristol Zoo Project",
+    "nameLocal": null,
+    "citySlug": "almondsbury-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2013,
+    "lat": 51.5296,
+    "lng": -2.61601,
+    "website": "https://bristolzoo.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "new-forest-wildlife-park-gb",
+    "name": "New Forest Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "gempshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1998,
+    "lat": 50.886,
+    "lng": -1.4983,
+    "website": "http://www.newforestwildlifepark.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "odense-zoo-dk",
+    "name": "Odense Zoo",
+    "nameLocal": null,
+    "citySlug": "odense-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1930,
+    "lat": 55.378,
+    "lng": 10.373,
+    "website": "http://www.odensezoo.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hertfordshire-zoo-gb",
+    "name": "Hertfordshire Zoo",
+    "nameLocal": null,
+    "citySlug": "broksborn-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1960,
+    "lat": 51.7421,
+    "lng": -0.053988,
+    "website": "https://www.pwpark.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildwood-discovery-park-gb",
+    "name": "Wildwood Discovery Park",
+    "nameLocal": null,
+    "citySlug": "siti-of-kenterberi-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1999,
+    "lat": 51.3311,
+    "lng": 1.11917,
+    "website": "https://kent.wildwoodtrust.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "apenheul-primate-park-nl",
+    "name": "Apenheul Primate Park",
+    "nameLocal": null,
+    "citySlug": "apeldorn-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1971,
+    "lat": 52.215556,
+    "lng": 5.918889,
+    "website": "http://www.apenheul.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "arche-noah-zoo-braunschweig-de",
+    "name": "Arche Noah Zoo Braunschweig",
+    "nameLocal": null,
+    "citySlug": "braunshveyg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1964,
+    "lat": 52.2219,
+    "lng": 10.515,
+    "website": "https://zoo-bs.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-bern-ch",
+    "name": "Tierpark Bern",
+    "nameLocal": null,
+    "citySlug": "bern",
+    "countryIso2": "CH",
+    "foundedYear": 1937,
+    "lat": 46.9344,
+    "lng": 7.44972,
+    "website": "https://www.tierpark-bern.ch",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "nuremberg-zoo-de",
+    "name": "Nuremberg Zoo",
+    "nameLocal": null,
+    "citySlug": "nyurnberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1912,
+    "lat": 49.447367421,
+    "lng": 11.144819921,
+    "website": "http://tiergarten.nuernberg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "knies-kinderzoo-ch",
+    "name": "Knie's Kinderzoo",
+    "nameLocal": null,
+    "citySlug": "rappersvil-yona-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1962,
+    "lat": 47.223652,
+    "lng": 8.821989,
+    "website": "http://www.knieskinderzoo.ch/zoocute/homepage/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "palic-zoo-rs",
+    "name": "Palić Zoo",
+    "nameLocal": null,
+    "citySlug": "palic-zoo-rs",
+    "countryIso2": "RS",
+    "foundedYear": 1949,
+    "lat": 46.0989625,
+    "lng": 19.7498345,
+    "website": "http://www.zoopalic.co.rs",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "skansen-se",
+    "name": "Скансен",
+    "nameLocal": null,
+    "citySlug": "stockholm",
+    "countryIso2": "SE",
+    "foundedYear": 1891,
+    "lat": 59.32445,
+    "lng": 18.101,
+    "website": "https://skansen.se",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "blackpool-zoo-gb",
+    "name": "Blackpool Zoo",
+    "nameLocal": null,
+    "citySlug": "blekpul-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1972,
+    "lat": 53.8156,
+    "lng": -3.01278,
+    "website": "http://www.blackpoolzoo.org.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "port-lympne-wild-animal-park-gb",
+    "name": "Port Lympne Wild Animal Park",
+    "nameLocal": null,
+    "citySlug": "khayt-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1976,
+    "lat": 51.076111111,
+    "lng": 0.999444444,
+    "website": "https://www.aspinallfoundation.org/port-lympne/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-zittau-de",
+    "name": "Tierpark Zittau",
+    "nameLocal": null,
+    "citySlug": "tsittau-de",
+    "countryIso2": "DE",
+    "foundedYear": 1965,
+    "lat": 50.9014,
+    "lng": 14.8325,
+    "website": "https://tierpark-zittau.de/home/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-gorlitz-de",
+    "name": "Tierpark Görlitz",
+    "nameLocal": null,
+    "citySlug": "gerlits-de",
+    "countryIso2": "DE",
+    "foundedYear": 1957,
+    "lat": 51.1421,
+    "lng": 14.9801,
+    "website": "http://www.tierpark-goerlitz.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "vogelpark-avifauna-nl",
+    "name": "Vogelpark Avifauna",
+    "nameLocal": null,
+    "citySlug": "alfen-an-den-reyn-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1950,
+    "lat": 52.139722,
+    "lng": 4.649167,
+    "website": "http://www.avifauna.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "luneburg-heath-wildlife-park-de",
+    "name": "Lüneburg Heath Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "khanshtedt-de",
+    "countryIso2": "DE",
+    "foundedYear": 1970,
+    "lat": 53.2367,
+    "lng": 10.0443,
+    "website": "https://wild-park.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "serengeti-park-de",
+    "name": "Серенгети-парк",
+    "nameLocal": null,
+    "citySlug": "alden-de",
+    "countryIso2": "DE",
+    "foundedYear": 1974,
+    "lat": 52.7456,
+    "lng": 9.61667,
+    "website": "https://www.serengeti-park.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "munster-zoo-de",
+    "name": "Münster Zoo",
+    "nameLocal": null,
+    "citySlug": "myunster-de",
+    "countryIso2": "DE",
+    "foundedYear": 1974,
+    "lat": 51.9464,
+    "lng": 7.59167,
+    "website": "https://www.allwetterzoo.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "krefeldskiy-zoopark-de",
+    "name": "Крефельдский зоопарк",
+    "nameLocal": null,
+    "citySlug": "krefeld-de",
+    "countryIso2": "DE",
+    "foundedYear": 1938,
+    "lat": 51.3409,
+    "lng": 6.60156,
+    "website": "http://www.zookrefeld.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "vigonature-es",
+    "name": "VigoNature",
+    "nameLocal": null,
+    "citySlug": "vigo-es",
+    "countryIso2": "ES",
+    "foundedYear": 1970,
+    "lat": 42.2484,
+    "lng": -8.6755,
+    "website": "https://vigonature.es/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kuterevo-hr",
+    "name": "Kuterevo",
+    "nameLocal": null,
+    "citySlug": "kuterevo-hr",
+    "countryIso2": "HR",
+    "foundedYear": 2002,
+    "lat": 44.8205,
+    "lng": 15.1388,
+    "website": "http://www.kuterevo-medvjedi.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "randers-tropical-zoo-dk",
+    "name": "Randers Tropical Zoo",
+    "nameLocal": null,
+    "citySlug": "ranners-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1996,
+    "lat": 56.45694444,
+    "lng": 10.0325,
+    "website": "http://www.regnskoven.dk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bear-sanctuary-arbesbach-at",
+    "name": "Bear sanctuary Arbesbach",
+    "nameLocal": null,
+    "citySlug": "arbesbakh-at",
+    "countryIso2": "AT",
+    "foundedYear": 1998,
+    "lat": 48.4807,
+    "lng": 14.9267,
+    "website": "https://www.baerenwald.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "orsa-gronklitt-se",
+    "name": "Orsa Grönklitt",
+    "nameLocal": null,
+    "citySlug": "orsa-se",
+    "countryIso2": "SE",
+    "foundedYear": 2005,
+    "lat": 61.2075,
+    "lng": 14.540278,
+    "website": "http://www.orsagronklitt.se/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "targu-mures-zoo-ro",
+    "name": "Târgu Mureș Zoo",
+    "nameLocal": null,
+    "citySlug": "tyrgu-muresh-ro",
+    "countryIso2": "RO",
+    "foundedYear": 1964,
+    "lat": 46.551388888,
+    "lng": 24.593611111,
+    "website": "https://www.zootirgumures.ro/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bristolskiy-zoopark-gb",
+    "name": "Бристольский зоопарк",
+    "nameLocal": null,
+    "citySlug": "almondsbury-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1836,
+    "lat": 51.463333333,
+    "lng": -2.622222222,
+    "website": "http://www.bristolzoo.org.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kaliningradskiy-zoopark-ru",
+    "name": "Калининградский зоопарк",
+    "nameLocal": null,
+    "citySlug": "kaliningrad",
+    "countryIso2": "RU",
+    "foundedYear": 1896,
+    "lat": 54.720444,
+    "lng": 20.487373,
+    "website": "http://kldzoo.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "pecs-zoo-hu",
+    "name": "Pécs Zoo",
+    "nameLocal": null,
+    "citySlug": "pech-hu",
+    "countryIso2": "HU",
+    "foundedYear": 1960,
+    "lat": 46.0938,
+    "lng": 18.2269,
+    "website": "http://www.pecszoo.hu",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "south-lakes-safari-zoo-gb",
+    "name": "South Lakes Safari Zoo",
+    "nameLocal": null,
+    "citySlug": "lindal-in-furness-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1994,
+    "lat": 54.1666,
+    "lng": -3.1686,
+    "website": "http://www.southlakessafarizoo.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "the-living-rainforest-gb",
+    "name": "The Living Rainforest",
+    "nameLocal": null,
+    "citySlug": "zapadnyy-berkshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1993,
+    "lat": 51.4813,
+    "lng": -1.22078,
+    "website": "http://www.livingrainforest.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "marwell-zoo-gb",
+    "name": "Marwell Zoo",
+    "nameLocal": null,
+    "citySlug": "owslebury-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1972,
+    "lat": 50.99316389,
+    "lng": -1.27773611,
+    "website": "https://www.marwell.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "noahs-ark-zoo-farm-gb",
+    "name": "Noah's Ark Zoo Farm",
+    "nameLocal": null,
+    "citySlug": "wraxall-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1998,
+    "lat": 51.452,
+    "lng": -2.7385,
+    "website": "http://www.noahsarkzoofarm.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "pombiya-it",
+    "name": "Сафари-парк Помбия",
+    "nameLocal": null,
+    "citySlug": "agrate-konturbiya-it",
+    "countryIso2": "IT",
+    "foundedYear": 1976,
+    "lat": 45.65,
+    "lng": 8.63333,
+    "website": "https://www.safaripark.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tigerpark-dassow-de",
+    "name": "Tigerpark Dassow",
+    "nameLocal": null,
+    "citySlug": "dassov-de",
+    "countryIso2": "DE",
+    "foundedYear": 2003,
+    "lat": 53.903823,
+    "lng": 11.003429,
+    "website": "https://tigerpark.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-zabakuck-de",
+    "name": "Zoo Zabakuck",
+    "nameLocal": null,
+    "citySlug": "yerikhov-de",
+    "countryIso2": "DE",
+    "foundedYear": 1973,
+    "lat": 52.458564,
+    "lng": 12.211582,
+    "website": "http://www.tierpark-zabakuck.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoom-di-cumiana-it",
+    "name": "Zoom di Cumiana",
+    "nameLocal": null,
+    "citySlug": "kumyana-it",
+    "countryIso2": "IT",
+    "foundedYear": 2007,
+    "lat": 44.93232,
+    "lng": 7.42075,
+    "website": "http://www.zoomtorino.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-dauvergne-fr",
+    "name": "Parc animalier d'Auvergne",
+    "nameLocal": null,
+    "citySlug": "ardes-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1984,
+    "lat": 45.39364,
+    "lng": 3.11564,
+    "website": "http://www.parcanimalierdauvergne.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "yaroslavskiy-zoopark-ru",
+    "name": "Ярославский зоопарк",
+    "nameLocal": null,
+    "citySlug": "yaroslavl-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2008,
+    "lat": 57.675,
+    "lng": 39.89722222,
+    "website": "http://yar-zoo.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-veldhoven-nl",
+    "name": "Zoo Veldhoven",
+    "nameLocal": null,
+    "citySlug": "best-nl",
+    "countryIso2": "NL",
+    "foundedYear": 2014,
+    "lat": 51.425556,
+    "lng": 5.353333,
+    "website": "http://www.zooveldhoven.nl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoological-garden-of-monaco-mc",
+    "name": "Zoological Garden of Monaco",
+    "nameLocal": null,
+    "citySlug": "monaco",
+    "countryIso2": "MC",
+    "foundedYear": 1954,
+    "lat": 43.7313,
+    "lng": 7.41829,
+    "website": "http://www.monte-carlo.mc/en/tourism/zoo/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wild-und-freizeitpark-ostrittrum-de",
+    "name": "Wild- und Freizeitpark Ostrittrum",
+    "nameLocal": null,
+    "citySlug": "detlingen-de",
+    "countryIso2": "DE",
+    "foundedYear": 1976,
+    "lat": 52.972251,
+    "lng": 8.344803,
+    "website": "http://www.freizeitpark-ostrittrum.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildlands-nl",
+    "name": "Wildlands",
+    "nameLocal": null,
+    "citySlug": "emmen-nl",
+    "countryIso2": "NL",
+    "foundedYear": 2016,
+    "lat": 52.781944,
+    "lng": 6.888889,
+    "website": "https://www.wildlands.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tiergarten-walding-at",
+    "name": "Tiergarten Walding",
+    "nameLocal": null,
+    "citySlug": "valding-at",
+    "countryIso2": "AT",
+    "foundedYear": 1979,
+    "lat": 48.3506,
+    "lng": 14.1364,
+    "website": "https://www.tiergartenwalding.com/cms/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tabor-zoo-cz",
+    "name": "Tabor Zoo",
+    "nameLocal": null,
+    "citySlug": "vetrovy-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 2015,
+    "lat": 49.3883,
+    "lng": 14.649,
+    "website": "https://www.zootabor.eu/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "poznan-nowe-zoo-pl",
+    "name": "Poznań Nowe Zoo",
+    "nameLocal": null,
+    "citySlug": "poznan-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1974,
+    "lat": 52.4003,
+    "lng": 16.9947,
+    "website": "https://zoo.poznan.pl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "torun-zoobotanical-garden-pl",
+    "name": "Toruń Zoobotanical Garden",
+    "nameLocal": null,
+    "citySlug": "torun-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1965,
+    "lat": 53.008917,
+    "lng": 18.590472,
+    "website": "http://www.zoo.torun.pl/pl",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "european-bison-show-farm-in-pszczyna-pl",
+    "name": "European Bison Show Farm in Pszczyna",
+    "nameLocal": null,
+    "citySlug": "pshchina-pl",
+    "countryIso2": "PL",
+    "foundedYear": 2008,
+    "lat": 49.977858,
+    "lng": 18.931089,
+    "website": "http://zubry.pszczyna.pl/en/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parazoo-cz",
+    "name": "paraZOO",
+    "nameLocal": null,
+    "citySlug": "vlashim-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 2012,
+    "lat": 49.7069444,
+    "lng": 14.8969444,
+    "website": "https://www.parazoo.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "chomutov-zoo-cz",
+    "name": "Chomutov Zoo",
+    "nameLocal": null,
+    "citySlug": "khomutov-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1975,
+    "lat": 50.4736,
+    "lng": 13.4203,
+    "website": "http://www.zoopark.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "paradise-park-gb",
+    "name": "Paradise Park",
+    "nameLocal": null,
+    "citySlug": "kheyl-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1973,
+    "lat": 50.17895,
+    "lng": -5.42617,
+    "website": "http://www.paradisepark.org.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "menskiy-zoologicheskiy-park-ua",
+    "name": "Менский зоологический парк",
+    "nameLocal": null,
+    "citySlug": "chernigovskaya-oblast-ua",
+    "countryIso2": "UA",
+    "foundedYear": 1975,
+    "lat": 51.522329,
+    "lng": 32.20361,
+    "website": "http://www.zoomena.com.ua/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "rovenskiy-zoopark-ua",
+    "name": "Ровенский зоопарк",
+    "nameLocal": null,
+    "citySlug": "rovnenskaya-oblast-ua",
+    "countryIso2": "UA",
+    "foundedYear": 1982,
+    "lat": 50.609444444,
+    "lng": 26.332777777,
+    "website": "http://zoopark.rv.ua/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hadsund-dyrehave-dk",
+    "name": "Hadsund Dyrehave",
+    "nameLocal": null,
+    "citySlug": "mariager-ford-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1983,
+    "lat": 56.72455,
+    "lng": 10.11466,
+    "website": "http://www.hadsunddyrehave.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "rnereservatet-dk",
+    "name": "Ørnereservatet",
+    "nameLocal": null,
+    "citySlug": "yerring-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1980,
+    "lat": 57.604444444,
+    "lng": 10.315833333,
+    "website": "http://www.eagleworld.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "lake-tisza-ecocentre-hu",
+    "name": "Lake Tisza Ecocentre",
+    "nameLocal": null,
+    "citySlug": "poroszlo-hu",
+    "countryIso2": "HU",
+    "foundedYear": 2012,
+    "lat": 47.64625,
+    "lng": 20.66074444,
+    "website": "http://www.tiszataviokocentrum.hu/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dierenpark-zie-zoo-nl",
+    "name": "Dierenpark Zie-ZOO",
+    "nameLocal": null,
+    "citySlug": "volkel-nl",
+    "countryIso2": "NL",
+    "foundedYear": 2000,
+    "lat": 51.654,
+    "lng": 5.6751,
+    "website": "https://www.dierenparkziezoo.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bear-sanctuary-prishtina-xk",
+    "name": "Bear Sanctuary Prishtina",
+    "nameLocal": null,
+    "citySlug": "pristina",
+    "countryIso2": "XK",
+    "foundedYear": 2013,
+    "lat": 42.63799,
+    "lng": 21.260052,
+    "website": "https://www.bearsanctuary-prishtina.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "slottsskogens-djurpark-se",
+    "name": "Slottsskogens Djurpark",
+    "nameLocal": null,
+    "citySlug": "geteborg-se",
+    "countryIso2": "SE",
+    "foundedYear": 1874,
+    "lat": 57.686,
+    "lng": 11.943,
+    "website": "https://goteborg.se/wps/portal/enheter/slottsskogen/slottsskogens-djurpark",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "stara-zagora-zoo-bg",
+    "name": "Stara Zagora Zoo",
+    "nameLocal": null,
+    "citySlug": "stara-zagora-bg",
+    "countryIso2": "BG",
+    "foundedYear": 1957,
+    "lat": 42.4383,
+    "lng": 25.6096,
+    "website": "http://www.zoo-starazagora.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "varnenskiy-zoopark-bg",
+    "name": "Варненский зоопарк",
+    "nameLocal": null,
+    "citySlug": "varna-bg",
+    "countryIso2": "BG",
+    "foundedYear": 1961,
+    "lat": 43.2106,
+    "lng": 27.9371,
+    "website": "http://varna-zoo.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-des-3-vallees-fr",
+    "name": "Zoo des 3 vallées",
+    "nameLocal": null,
+    "citySlug": "monredon-labessone-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2013,
+    "lat": 43.7071,
+    "lng": 2.32773,
+    "website": "http://www.zoodes3vallees.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parco-safari-delle-langhe-it",
+    "name": "Parco Safari delle Langhe",
+    "nameLocal": null,
+    "citySlug": "muratstsano-it",
+    "countryIso2": "IT",
+    "foundedYear": 1976,
+    "lat": 44.49236,
+    "lng": 8.03104,
+    "website": "https://www.parcosafari.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "izmirskiy-park-dikoy-prirody-tr",
+    "name": "Измирский парк дикой природы",
+    "nameLocal": null,
+    "citySlug": "chigli-tr",
+    "countryIso2": "TR",
+    "foundedYear": 2008,
+    "lat": 38.491111111,
+    "lng": 26.963611111,
+    "website": "https://www.izmirdogalyasamparki.org.tr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "refuge-de-larche-fr",
+    "name": "Refuge de l'Arche",
+    "nameLocal": null,
+    "citySlug": "chateau-gontier-sur-mayenne-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1974,
+    "lat": 47.8142,
+    "lng": -0.700078,
+    "website": "http://www.refuge-arche.org",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "jaszbereny-zoo-hu",
+    "name": "Jászberény Zoo",
+    "nameLocal": null,
+    "citySlug": "yasberen-hu",
+    "countryIso2": "HU",
+    "foundedYear": 1979,
+    "lat": 47.493298,
+    "lng": 19.868499,
+    "website": "https://jaszberenyzoo.hu",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wonder-world-nl",
+    "name": "Wonder world",
+    "nameLocal": null,
+    "citySlug": "vestervolde-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1999,
+    "lat": 52.870519444,
+    "lng": 7.078458333,
+    "website": "http://www.wonderwereld.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "budakeszi-game-preserve-hu",
+    "name": "Budakeszi Game Preserve",
+    "nameLocal": null,
+    "citySlug": "budapest",
+    "countryIso2": "HU",
+    "foundedYear": 1979,
+    "lat": 47.52492,
+    "lng": 18.9234,
+    "website": "http://www.vadaspark-budakeszi.hu/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "barenpark-bern-ch",
+    "name": "BärenPark Bern",
+    "nameLocal": null,
+    "citySlug": "bern",
+    "countryIso2": "CH",
+    "foundedYear": 2009,
+    "lat": 46.948055555,
+    "lng": 7.459166666,
+    "website": "https://www.tierpark-bern.ch/tierpark-bern/baerenpark",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "sheptenvilskiy-zoopark-fr",
+    "name": "Шептенвильский зоопарк",
+    "nameLocal": null,
+    "citySlug": "sheptenvil-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2002,
+    "lat": 48.55446625,
+    "lng": 2.25948906,
+    "website": "http://www.ileauxoiseaux.fr",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "becky-falls-gb",
+    "name": "Becky Falls",
+    "nameLocal": null,
+    "citySlug": "manaton-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1903,
+    "lat": 50.60648,
+    "lng": -3.75594,
+    "website": "https://www.beckyfalls.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "reptiland-fr",
+    "name": "Reptiland",
+    "nameLocal": null,
+    "citySlug": "martel-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1990,
+    "lat": 44.929728,
+    "lng": 1.617377,
+    "website": "http://www.reptiland.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-de-doue-fr",
+    "name": "Zoo de Doué",
+    "nameLocal": null,
+    "citySlug": "doue-la-fontaine-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1961,
+    "lat": 47.19,
+    "lng": -0.3,
+    "website": "https://www.bioparc-zoo.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "jihlava-zoo-cz",
+    "name": "Jihlava Zoo",
+    "nameLocal": null,
+    "citySlug": "yiglava-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1957,
+    "lat": 49.3968056,
+    "lng": 15.5965833,
+    "website": "https://zoojihlava.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "olomouc-zoo-cz",
+    "name": "Olomouc Zoo",
+    "nameLocal": null,
+    "citySlug": "olomouts-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1952,
+    "lat": 49.6339,
+    "lng": 17.3425,
+    "website": "http://www.zoo-olomouc.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-zlina-cz",
+    "name": "Зоопарк Злина",
+    "nameLocal": null,
+    "citySlug": "zlin-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1948,
+    "lat": 49.2722,
+    "lng": 17.715,
+    "website": "http://www.zoozlin.eu",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-vyskov-cz",
+    "name": "Zoopark Vyškov",
+    "nameLocal": null,
+    "citySlug": "vyskov-castle-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1965,
+    "lat": 49.2731,
+    "lng": 16.9969,
+    "website": "http://www.zoo-vyskov.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoopark-zajezd-cz",
+    "name": "Zoopark Zájezd",
+    "nameLocal": null,
+    "citySlug": "zaezd-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 2010,
+    "lat": 50.1666,
+    "lng": 14.2219,
+    "website": "http://zoopark-zajezd.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "lesny-park-niespodzianek-pl",
+    "name": "Leśny Park Niespodzianek",
+    "nameLocal": null,
+    "citySlug": "ustron-pl",
+    "countryIso2": "PL",
+    "foundedYear": 2002,
+    "lat": 49.7179719,
+    "lng": 18.8314889,
+    "website": "https://lesnypark.pl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-plasy-cz",
+    "name": "Zoo Plasy",
+    "nameLocal": null,
+    "citySlug": "plasi-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 2016,
+    "lat": 49.9325497,
+    "lng": 13.3899467,
+    "website": "http://pivovarskydvurplasy.cz/zoo/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hawk-conservancy-trust-gb",
+    "name": "Hawk Conservancy Trust",
+    "nameLocal": null,
+    "citySlug": "test-velli-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1980,
+    "lat": 51.207897656,
+    "lng": -1.561780191,
+    "website": "https://www.hawk-conservancy.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ciruli-lv",
+    "name": "Ciruli",
+    "nameLocal": null,
+    "citySlug": "kalvenskaya-volost-lv",
+    "countryIso2": "LV",
+    "foundedYear": 1993,
+    "lat": 56.57095,
+    "lng": 21.612916666,
+    "website": "https://rigazoo.lv/par-filiali-ciruli/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parco-faunistico-di-spormaggiore-it",
+    "name": "Parco Faunistico di Spormaggiore",
+    "nameLocal": null,
+    "citySlug": "spormadzhore-it",
+    "countryIso2": "IT",
+    "foundedYear": 1994,
+    "lat": 46.212366666,
+    "lng": 11.047658333,
+    "website": "http://www.parcofaunistico.tn.it",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "alligator-bay-fr",
+    "name": "Alligator Bay",
+    "nameLocal": null,
+    "citySlug": "beauvoir-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1994,
+    "lat": 48.597222,
+    "lng": -1.504722,
+    "website": "https://www.alligator-bay.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "shepreth-wildlife-park-gb",
+    "name": "Shepreth Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "shepreth-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1984,
+    "lat": 52.114529268,
+    "lng": 0.035486776,
+    "website": "https://sheprethwildlifepark.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-knull-de",
+    "name": "Wildpark Knüll",
+    "nameLocal": null,
+    "citySlug": "khomberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 50.988298,
+    "lng": 9.433079,
+    "website": "http://www.wildpark-knuell.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "calderglen-zoo-gb",
+    "name": "Calderglen Zoo",
+    "nameLocal": null,
+    "citySlug": "saut-lanarkshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1982,
+    "lat": 55.748758797,
+    "lng": -4.146419153,
+    "website": "http://www.slleisureandculture.co.uk/info/113/calderglen_country_park/576/childrens_zoo",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "combe-martin-wildlife-and-dinosaur-park-gb",
+    "name": "Combe Martin Wildlife and Dinosaur Park",
+    "nameLocal": null,
+    "citySlug": "barnstapl-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1986,
+    "lat": 51.18867305,
+    "lng": -4.003631237,
+    "website": "https://www.cmwdp.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "five-sisters-zoo-gb",
+    "name": "Five Sisters Zoo",
+    "nameLocal": null,
+    "citySlug": "uest-lotian-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2005,
+    "lat": 55.86303091,
+    "lng": -3.562285026,
+    "website": "https://fivesisterszoo.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "gauntlet-birds-of-prey-gb",
+    "name": "Gauntlet Birds of Prey",
+    "nameLocal": null,
+    "citySlug": "vostochnyy-cheshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1996,
+    "lat": 53.3205032,
+    "lng": -2.394446615,
+    "website": "https://gauntletbirdsofprey.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hanwell-zoo-gb",
+    "name": "Hanwell Zoo",
+    "nameLocal": null,
+    "citySlug": "iling-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1975,
+    "lat": 51.512267,
+    "lng": -0.347834,
+    "website": "https://hanwellzoo.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "rocamadour-monkey-forest-fr",
+    "name": "Rocamadour Monkey Forest",
+    "nameLocal": null,
+    "citySlug": "rokamadur-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1974,
+    "lat": 44.803463928,
+    "lng": 1.634509588,
+    "website": "https://www.la-foret-des-singes.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "munkholm-zoo-dk",
+    "name": "Munkholm Zoo",
+    "nameLocal": null,
+    "citySlug": "syuddyurs-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1994,
+    "lat": 56.3213712,
+    "lng": 10.7830093,
+    "website": "http://www.munkholmzoo.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parco-zoo-punta-verde-it",
+    "name": "Parco Zoo Punta Verde",
+    "nameLocal": null,
+    "citySlug": "linyano-sabbyadoro-it",
+    "countryIso2": "IT",
+    "foundedYear": 1979,
+    "lat": 45.659008,
+    "lng": 13.065954,
+    "website": "https://www.parcozoopuntaverde.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "starooskolskiy-zoopark-ru",
+    "name": "Старооскольский зоопарк",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2008,
+    "lat": 51.323754,
+    "lng": 38.000228,
+    "website": "https://oskolzoo.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "le-parc-australien-fr",
+    "name": "Le Parc australien",
+    "nameLocal": null,
+    "citySlug": "karkason-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2001,
+    "lat": 43.1884,
+    "lng": 2.392605555,
+    "website": "https://www.leparcaustralien.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "khaskiderevnya-ruzskaya-alyaska-ru",
+    "name": "Хаскидеревня «Рузская Аляска»",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2017,
+    "lat": 55.622708,
+    "lng": 36.250633,
+    "website": "http://huskyvillage.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "crocodiles-of-the-world-gb",
+    "name": "Crocodiles of the World",
+    "nameLocal": null,
+    "citySlug": "oksfordshir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2011,
+    "lat": 51.777222222,
+    "lng": -1.584722222,
+    "website": "https://www.crocodilesoftheworld.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "safari-park-krasnodar-ru",
+    "name": "Сафари Парк (Краснодар)",
+    "nameLocal": null,
+    "citySlug": "krasnodar-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2006,
+    "lat": 45.00744,
+    "lng": 39.05283,
+    "website": "https://zoo93.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "la-taniere-fr",
+    "name": "La Tanière",
+    "nameLocal": null,
+    "citySlug": "nogent-le-phaye-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2018,
+    "lat": 48.449880555,
+    "lng": 1.551338888,
+    "website": "https://lataniere-refuge.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "juliana-hertenkamp-nl",
+    "name": "Juliana Hertenkamp",
+    "nameLocal": null,
+    "citySlug": "til-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1963,
+    "lat": 51.883056,
+    "lng": 5.434722,
+    "website": "https://www.hertenkamptiel.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-sibiu-ro",
+    "name": "Zoo Sibiu",
+    "nameLocal": null,
+    "citySlug": "sibiu-ro",
+    "countryIso2": "RO",
+    "foundedYear": 1929,
+    "lat": 45.761825,
+    "lng": 24.123661111,
+    "website": "https://www.zoosibiu.ro/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-nymphaea-de",
+    "name": "Tierpark Nymphaea",
+    "nameLocal": null,
+    "citySlug": "esslingen-na-nekkare-de",
+    "countryIso2": "DE",
+    "foundedYear": 1932,
+    "lat": 48.724274156,
+    "lng": 9.333574515,
+    "website": "https://www.tierpark-nymphaea.de",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "la-ferme-des-reptiles-fr",
+    "name": "La Ferme des Reptiles",
+    "nameLocal": null,
+    "citySlug": "la-bastid-de-seru-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1996,
+    "lat": 43.023,
+    "lng": 1.38625,
+    "website": "https://www.lafermedesreptiles.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-des-gorges-de-lardeche-fr",
+    "name": "Parc animalier des Gorges de l'Ardèche",
+    "nameLocal": null,
+    "citySlug": "vanya-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2019,
+    "lat": 44.349222222,
+    "lng": 4.346916666,
+    "website": "https://www.parcanimalier07.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "yuzhnyy-park-ptits-malinki-ru",
+    "name": "Южный парк птиц Малинки",
+    "nameLocal": null,
+    "citySlug": "belgorodskiy-zoopark-ru",
+    "countryIso2": "RU",
+    "foundedYear": 2016,
+    "lat": 47.74778,
+    "lng": 40.08611,
+    "website": "https://malinkipark.ru",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "micro-zoo-de-saint-malo-fr",
+    "name": "Micro Zoo de Saint Malo",
+    "nameLocal": null,
+    "citySlug": "sen-malo-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2020,
+    "lat": 48.651644444,
+    "lng": -2.024094444,
+    "website": "https://microzoo.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tiergarten-sonneberg-de",
+    "name": "Tiergarten Sonneberg",
+    "nameLocal": null,
+    "citySlug": "zonneberg-de",
+    "countryIso2": "DE",
+    "foundedYear": 1985,
+    "lat": 50.36708,
+    "lng": 11.18946,
+    "website": "https://www.foerderverein-tiergarten-sonneberg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parrot-world-fr",
+    "name": "Parrot World",
+    "nameLocal": null,
+    "citySlug": "kresi-la-shapel-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2020,
+    "lat": 48.84212,
+    "lng": 2.95026,
+    "website": "https://www.parrotworld.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "porfell-wildlife-park-gb",
+    "name": "Porfell Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "lanrit-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1989,
+    "lat": 50.405341,
+    "lng": -4.572426,
+    "website": "http://www.porfell.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bird-garden-hu",
+    "name": "Bird Garden",
+    "nameLocal": null,
+    "citySlug": "kereki-hu",
+    "countryIso2": "HU",
+    "foundedYear": 1993,
+    "lat": 46.797372,
+    "lng": 17.911482,
+    "website": "https://www.madarkert.hu/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "reptilarium-du-larzac-fr",
+    "name": "Reptilarium du Larzac",
+    "nameLocal": null,
+    "citySlug": "sent-elali-de-sernon-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2005,
+    "lat": 43.983638888,
+    "lng": 3.137991666,
+    "website": "https://www.reptilarium-larzac.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ecozonia-fr",
+    "name": "EcoZonia",
+    "nameLocal": null,
+    "citySlug": "cases-de-pene-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2021,
+    "lat": 42.786666666,
+    "lng": 2.772069444,
+    "website": "https://www.ecozonia.fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tropiquaria-gb",
+    "name": "Tropiquaria",
+    "nameLocal": null,
+    "citySlug": "tonton-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1990,
+    "lat": 51.1609,
+    "lng": -3.3489,
+    "website": "https://www.tropiquaria.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "welsh-mountain-zoo-gb",
+    "name": "Welsh Mountain Zoo",
+    "nameLocal": null,
+    "citySlug": "koluin-bey-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1963,
+    "lat": 53.2939,
+    "lng": -3.7479,
+    "website": "http://www.welshmountainzoo.org/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "west-midland-safari-park-gb",
+    "name": "West Midland Safari Park",
+    "nameLocal": null,
+    "citySlug": "vustershir-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1973,
+    "lat": 52.3755,
+    "lng": -2.28825,
+    "website": "http://www.wmsp.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wetheriggs-zoo-and-animal-sanctuary-gb",
+    "name": "Wetheriggs Zoo and Animal Sanctuary",
+    "nameLocal": null,
+    "citySlug": "greta-bridge-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2006,
+    "lat": 54.632,
+    "lng": -2.693,
+    "website": "http://www.wetheriggsanimalrescue.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wingham-wildlife-park-gb",
+    "name": "Wingham Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "siti-of-kenterberi-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1986,
+    "lat": 51.2799,
+    "lng": 1.2281,
+    "website": "http://www.winghamwildlifepark.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "woburn-safari-park-gb",
+    "name": "Woburn Safari Park",
+    "nameLocal": null,
+    "citySlug": "woburn-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1970,
+    "lat": 52.005,
+    "lng": -0.589,
+    "website": "http://www.woburnsafari.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "yorkshire-wildlife-park-gb",
+    "name": "Yorkshire Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "donkaster-gb",
+    "countryIso2": "GB",
+    "foundedYear": 2009,
+    "lat": 53.5047,
+    "lng": -1.0417,
+    "website": "https://www.yorkshirewildlifepark.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "usti-nad-labem-zoo-cz",
+    "name": "Ústí nad Labem Zoo",
+    "nameLocal": null,
+    "citySlug": "usti-nad-labem-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1908,
+    "lat": 50.6641,
+    "lng": 14.0612,
+    "website": "http://www.zoousti.cz",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "avifauna-es",
+    "name": "Avifauna",
+    "nameLocal": null,
+    "citySlug": "q20544839-es",
+    "countryIso2": "ES",
+    "foundedYear": 1992,
+    "lat": 43.0533134,
+    "lng": -7.6917188,
+    "website": "http://www.avifauna.net/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-hluboka-cz",
+    "name": "Zoo Hluboká",
+    "nameLocal": null,
+    "citySlug": "gluboka-nad-vltavoy-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1939,
+    "lat": 49.0414,
+    "lng": 14.4228,
+    "website": "https://zoohluboka.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-de-lourosa-pt",
+    "name": "Zoo de Lourosa",
+    "nameLocal": null,
+    "citySlug": "loroza-pt",
+    "countryIso2": "PT",
+    "foundedYear": 1990,
+    "lat": 40.995,
+    "lng": -8.54694444,
+    "website": "https://www.zoolourosa.com/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoomarine-pt",
+    "name": "Zoomarine",
+    "nameLocal": null,
+    "citySlug": "zoomarine-pt",
+    "countryIso2": "PT",
+    "foundedYear": 1991,
+    "lat": 37.126807581,
+    "lng": -8.314214335,
+    "website": "http://www.zoomarine.pt",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "poznan-old-zoo-pl",
+    "name": "Poznań Old Zoo",
+    "nameLocal": null,
+    "citySlug": "poznan-pl",
+    "countryIso2": "PL",
+    "foundedYear": 1874,
+    "lat": 52.40813,
+    "lng": 16.9049,
+    "website": "https://zoo.poznan.pl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "furuviksparken-se",
+    "name": "Furuviksparken",
+    "nameLocal": null,
+    "citySlug": "evle-se",
+    "countryIso2": "SE",
+    "foundedYear": 1900,
+    "lat": 60.65138889,
+    "lng": 17.33277778,
+    "website": "https://www.furuvik.se/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "lycksele-zoo-se",
+    "name": "Lycksele Zoo",
+    "nameLocal": null,
+    "citySlug": "lycksele-zoo-se",
+    "countryIso2": "SE",
+    "foundedYear": 1959,
+    "lat": 64.582,
+    "lng": 18.664,
+    "website": "http://www.lyckseledjurpark.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parken-se",
+    "name": "Паркен",
+    "nameLocal": null,
+    "citySlug": "eskilstuna-se",
+    "countryIso2": "SE",
+    "foundedYear": 1954,
+    "lat": 59.37333333,
+    "lng": 16.48222222,
+    "website": "http://www.parkenzoo.se",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "chleby-zoo-cz",
+    "name": "Chleby Zoo",
+    "nameLocal": null,
+    "citySlug": "chleby-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1997,
+    "lat": 50.2225,
+    "lng": 15.0917,
+    "website": "http://www.zoochleby.cz",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "decin-zoo-cz",
+    "name": "Děčín Zoo",
+    "nameLocal": null,
+    "citySlug": "podmokly-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1948,
+    "lat": 50.7796,
+    "lng": 14.1972,
+    "website": "https://www.zoodecin.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "brno-zoo-cz",
+    "name": "Brno Zoo",
+    "nameLocal": null,
+    "citySlug": "brno-bystrts-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1953,
+    "lat": 49.2301,
+    "lng": 16.5334,
+    "website": "http://www.zoobrno.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "hodonin-zoo-cz",
+    "name": "Hodonín Zoo",
+    "nameLocal": null,
+    "citySlug": "godonin-cz",
+    "countryIso2": "CZ",
+    "foundedYear": 1977,
+    "lat": 48.8639,
+    "lng": 17.1056,
+    "website": "http://www.zoo-hodonin.cz/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wolfspark-werner-freund-de",
+    "name": "Wolfspark Werner Freund",
+    "nameLocal": null,
+    "citySlug": "mertsig-de",
+    "countryIso2": "DE",
+    "foundedYear": 1977,
+    "lat": 49.47262,
+    "lng": 6.64302,
+    "website": "http://www.wolfspark-wernerfreund.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dinklage-wildlife-park-de",
+    "name": "Dinklage Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "dinklage-de",
+    "countryIso2": "DE",
+    "foundedYear": 1968,
+    "lat": 52.6571,
+    "lng": 8.13806,
+    "website": "https://wildpark-dinklage.de/#wildpark",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "butterfly-house-of-bordano-it",
+    "name": "Butterfly house of Bordano",
+    "nameLocal": null,
+    "citySlug": "udine-it",
+    "countryIso2": "IT",
+    "foundedYear": 2003,
+    "lat": 46.313786523,
+    "lng": 13.107357754,
+    "website": "https://www.bordanofarfalle.it/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "stratford-butterfly-farm-gb",
+    "name": "Stratford Butterfly Farm",
+    "nameLocal": null,
+    "citySlug": "stratford-apon-eyvon-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1985,
+    "lat": 52.1896,
+    "lng": -1.7003,
+    "website": "http://www.butterflyfarm.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "birdworld-gb",
+    "name": "Birdworld",
+    "nameLocal": null,
+    "citySlug": "farnem-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1968,
+    "lat": 51.1828,
+    "lng": -0.8407,
+    "website": "http://www.birdworld.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "divoka-zahrada-hostivar-cz",
+    "name": "Divoká zahrada Hostivař",
+    "nameLocal": null,
+    "citySlug": "praha",
+    "countryIso2": "CZ",
+    "foundedYear": 2016,
+    "lat": 50.0399608,
+    "lng": 14.5168958,
+    "website": "https://lhmp.cz/zachranna-stanice/lesni-zookoutky/divoka-zahrada-hostivar/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "pettitts-adventure-park-gb",
+    "name": "Pettitts Adventure Park",
+    "nameLocal": null,
+    "citySlug": "brodlend-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1922,
+    "lat": 52.56674249,
+    "lng": 1.578417045,
+    "website": "https://www.pettittsadventurepark.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "flamingo-land-resort-gb",
+    "name": "Flamingo Land Resort",
+    "nameLocal": null,
+    "citySlug": "kirby-misperton-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1959,
+    "lat": 54.2097,
+    "lng": -0.8082,
+    "website": "https://www.flamingoland.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "safariland-stukenbrock-de",
+    "name": "Safariland Stukenbrock",
+    "nameLocal": null,
+    "citySlug": "shlos-kholte-shtukenbrok-de",
+    "countryIso2": "DE",
+    "foundedYear": 1969,
+    "lat": 51.8892,
+    "lng": 8.68083,
+    "website": "https://safariland-stukenbrock.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "adlerwarte-berlebeck-de",
+    "name": "Adlerwarte Berlebeck",
+    "nameLocal": null,
+    "citySlug": "detmold-de",
+    "countryIso2": "DE",
+    "foundedYear": 1939,
+    "lat": 51.8917,
+    "lng": 8.87333,
+    "website": "http://www.detmold-adlerwarte.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "papiliorama-ch",
+    "name": "Papiliorama",
+    "nameLocal": null,
+    "citySlug": "kerzers-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1988,
+    "lat": 46.9892,
+    "lng": 7.20111,
+    "website": "http://www.papiliorama.ch/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "valsrode-de",
+    "name": "Парк птиц Вальсроде",
+    "nameLocal": null,
+    "citySlug": "valsrode-de",
+    "countryIso2": "DE",
+    "foundedYear": 1962,
+    "lat": 52.881678665,
+    "lng": 9.598340169,
+    "website": "https://www.weltvogelpark.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoo-serpentarium-be",
+    "name": "ZOO Serpentarium",
+    "nameLocal": null,
+    "citySlug": "blankenberge-be",
+    "countryIso2": "BE",
+    "foundedYear": 1998,
+    "lat": 51.319775,
+    "lng": 3.13805,
+    "website": "https://www.zooserpentarium.be/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-saarbrucken-de",
+    "name": "Wildpark Saarbrücken",
+    "nameLocal": null,
+    "citySlug": "saarbryukken-de",
+    "countryIso2": "DE",
+    "foundedYear": 1929,
+    "lat": 49.25224,
+    "lng": 7.03156,
+    "website": "https://www.saarbruecken.de/wildpark",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "collodi-butterfly-house-it",
+    "name": "Collodi Butterfly House",
+    "nameLocal": null,
+    "citySlug": "pesha-it",
+    "countryIso2": "IT",
+    "foundedYear": 2007,
+    "lat": 43.9,
+    "lng": 10.65455,
+    "website": "https://www.pinocchio.it/en/casa-delle-farfalle",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-a-gibier-de-saint-hubert-be",
+    "name": "Parc a Gibier de Saint-Hubert",
+    "nameLocal": null,
+    "citySlug": "sent-yuber-be",
+    "countryIso2": "BE",
+    "foundedYear": 1999,
+    "lat": 50.034423,
+    "lng": 5.366297,
+    "website": "https://wallux.com/le-coin-gourmand-saint-hubert",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ludwigshafen-rheingonheim-wildlife-park-de",
+    "name": "Ludwigshafen-Rheingönheim Wildlife Park",
+    "nameLocal": null,
+    "citySlug": "mangeym-de",
+    "countryIso2": "DE",
+    "foundedYear": 1960,
+    "lat": 49.430833333,
+    "lng": 8.415,
+    "website": "https://wildpark.ludwigshafen.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-schollbrunn-de",
+    "name": "Wildpark Schollbrunn",
+    "nameLocal": null,
+    "citySlug": "sholbrunn-de",
+    "countryIso2": "DE",
+    "foundedYear": 1960,
+    "lat": 49.83438,
+    "lng": 9.4532,
+    "website": "https://www.schollbrunn.de/freizeit-tourismus/wildpark/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "greifvogelpark-saarburg-de",
+    "name": "Greifvogelpark Saarburg",
+    "nameLocal": null,
+    "citySlug": "saarburg-de",
+    "countryIso2": "DE",
+    "foundedYear": 2003,
+    "lat": 49.61657,
+    "lng": 6.533059,
+    "website": "https://www.greifvogelpark-saarburg.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "centre-de-la-mer-et-des-eaux-fr",
+    "name": "Centre de la mer et des eaux",
+    "nameLocal": null,
+    "citySlug": "paris",
+    "countryIso2": "FR",
+    "foundedYear": 1978,
+    "lat": 48.84444444,
+    "lng": 2.3425,
+    "website": "http://www.oceano.org/cme2",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "familiepark-harry-malter-be",
+    "name": "Familiepark Harry Malter",
+    "nameLocal": null,
+    "citySlug": "destelbergen-be",
+    "countryIso2": "BE",
+    "foundedYear": 1992,
+    "lat": 51.015744,
+    "lng": 3.819422,
+    "website": "https://www.harrymalter.be/fr/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "le-pal-fr",
+    "name": "Le Pal",
+    "nameLocal": null,
+    "citySlug": "sen-pursen-syur-bebr-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1973,
+    "lat": 46.5073,
+    "lng": 3.6305,
+    "website": "http://www.lepal.com",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "meli-park-be",
+    "name": "Meli Park",
+    "nameLocal": null,
+    "citySlug": "de-panne-be",
+    "countryIso2": "BE",
+    "foundedYear": 1935,
+    "lat": 51.081353,
+    "lng": 2.601592,
+    "website": "https://www.meli.be/en/meli-park",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "mont-mosan-be",
+    "name": "Mont Mosan",
+    "nameLocal": null,
+    "citySlug": "yui-be",
+    "countryIso2": "BE",
+    "foundedYear": 1986,
+    "lat": 50.5139,
+    "lng": 5.25129,
+    "website": "http://www.montmosan.be/index.asp?doc_id=1",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "nausicaa-centre-national-de-la-mer-fr",
+    "name": "Nausicaà Centre National de la Mer",
+    "nameLocal": null,
+    "citySlug": "bulon-syur-mer-fr",
+    "countryIso2": "FR",
+    "foundedYear": 1991,
+    "lat": 50.73019,
+    "lng": 1.59474,
+    "website": "https://www.nausicaa.co.uk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "zoosafari-fasanolandia-it",
+    "name": "Zoosafari Fasanolandia",
+    "nameLocal": null,
+    "citySlug": "fazano-it",
+    "countryIso2": "IT",
+    "foundedYear": 1973,
+    "lat": 40.8335,
+    "lng": 17.3386,
+    "website": "http://www.zoosafari.it",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "nizhegorodskiy-ekzotarium-ru",
+    "name": "Нижегородский экзотариум",
+    "nameLocal": null,
+    "citySlug": "nizhniy-novgorod-ru",
+    "countryIso2": "RU",
+    "foundedYear": 1996,
+    "lat": 56.32229,
+    "lng": 44.00076,
+    "website": "http://www.terraria-nn.ru/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "muzey-lebekke-akvapark-de",
+    "name": "Музей Лёбекке-Аквапарк",
+    "nameLocal": null,
+    "citySlug": "dyusseldorf-de",
+    "countryIso2": "DE",
+    "foundedYear": 1987,
+    "lat": 51.2564,
+    "lng": 6.74972,
+    "website": "https://aquazoo-duesseldorf.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "chessington-world-of-adventures-gb",
+    "name": "Chessington World of Adventures",
+    "nameLocal": null,
+    "citySlug": "chessington-gb",
+    "countryIso2": "GB",
+    "foundedYear": 1931,
+    "lat": 51.348611111,
+    "lng": -0.316666666,
+    "website": "http://www.chessington.co.uk",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "cumberland-wildpark-at",
+    "name": "Cumberland Wildpark",
+    "nameLocal": null,
+    "citySlug": "gryunau-at",
+    "countryIso2": "AT",
+    "foundedYear": 1970,
+    "lat": 47.8068,
+    "lng": 13.9507,
+    "website": "https://wildpark.at/impressum",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "dom-babochek-vena-at",
+    "name": "Дом бабочек (Вена)",
+    "nameLocal": null,
+    "citySlug": "wien",
+    "countryIso2": "AT",
+    "foundedYear": 1901,
+    "lat": 48.2053,
+    "lng": 16.3667,
+    "website": "https://www.schmetterlinghaus.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-im-grafenberger-wald-de",
+    "name": "Wildpark im Grafenberger Wald",
+    "nameLocal": null,
+    "citySlug": "dyusseldorf-de",
+    "countryIso2": "DE",
+    "foundedYear": 1927,
+    "lat": 51.2491,
+    "lng": 6.8427,
+    "website": "http://www.wildpark-duesseldorf.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-bruderhaus-ch",
+    "name": "Wildpark Bruderhaus",
+    "nameLocal": null,
+    "citySlug": "vintertur-ch",
+    "countryIso2": "CH",
+    "foundedYear": 1890,
+    "lat": 47.4772,
+    "lng": 8.72619,
+    "website": "http://www.bruderhaus.ch/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildparadies-tripsdrill-de",
+    "name": "Wildparadies Tripsdrill",
+    "nameLocal": null,
+    "citySlug": "klebron-de",
+    "countryIso2": "DE",
+    "foundedYear": 1972,
+    "lat": 49.026816,
+    "lng": 9.045346,
+    "website": "https://www.tripsdrill.de/de/wildparadies",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "knuthenborg-safaripark-dk",
+    "name": "Knuthenborg Safaripark",
+    "nameLocal": null,
+    "citySlug": "lollann-dk",
+    "countryIso2": "DK",
+    "foundedYear": 1860,
+    "lat": 54.82111111,
+    "lng": 11.50416667,
+    "website": "http://www.knuthenborg.dk/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "bellewaerde-be",
+    "name": "Bellewaerde",
+    "nameLocal": null,
+    "citySlug": "ipr-be",
+    "countryIso2": "BE",
+    "foundedYear": 1954,
+    "lat": 50.848333,
+    "lng": 2.945556,
+    "website": "http://www.bellewaerde.be",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "papiliorama-havelte-nl",
+    "name": "Papiliorama Havelte",
+    "nameLocal": null,
+    "citySlug": "vesterveld-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1998,
+    "lat": 52.7847,
+    "lng": 6.22342,
+    "website": "http://www.vlinderparadijs.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "parc-animalier-de-bouillon-be",
+    "name": "Parc animalier de Bouillon",
+    "nameLocal": null,
+    "citySlug": "buyon-be",
+    "countryIso2": "BE",
+    "foundedYear": 1980,
+    "lat": 49.791666666,
+    "lng": 5.076666666,
+    "website": "https://www.parcanimalierdebouillon.be/en",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "okeanograficheskiy-park-valensii-es",
+    "name": "Океанографический парк Валенсии",
+    "nameLocal": null,
+    "citySlug": "valencia",
+    "countryIso2": "ES",
+    "foundedYear": 2003,
+    "lat": 39.452866666,
+    "lng": -0.348047222,
+    "website": "https://www.cac.es/en/oceanografic/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-hundshaupten-de",
+    "name": "Wildpark Hundshaupten",
+    "nameLocal": null,
+    "citySlug": "eglofshtayn-de",
+    "countryIso2": "DE",
+    "foundedYear": 1971,
+    "lat": 49.717,
+    "lng": 11.23,
+    "website": "https://www.wildpark-hundshaupten.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-schloss-tambach-de",
+    "name": "Wildpark Schloss Tambach",
+    "nameLocal": null,
+    "citySlug": "vaytramsdorf-de",
+    "countryIso2": "DE",
+    "foundedYear": 1969,
+    "lat": 50.2328,
+    "lng": 10.8656,
+    "website": "http://www.wildpark-tambach.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "natuurcentrum-ameland-nl",
+    "name": "Natuurcentrum Ameland",
+    "nameLocal": null,
+    "citySlug": "ameland-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1972,
+    "lat": 53.45028,
+    "lng": 5.775,
+    "website": "http://www.natuurcentrumameland.nl/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "vogelpark-turnersee-at",
+    "name": "Vogelpark Turnersee",
+    "nameLocal": null,
+    "citySlug": "karintiya-at",
+    "countryIso2": "AT",
+    "foundedYear": 1982,
+    "lat": 46.5819,
+    "lng": 14.5618,
+    "website": "http://vogelpark.at/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-volklingen-de",
+    "name": "Wildpark Völklingen",
+    "nameLocal": null,
+    "citySlug": "felklingen-de",
+    "countryIso2": "DE",
+    "foundedYear": 1960,
+    "lat": 49.2687,
+    "lng": 6.8692,
+    "website": "https://www.voelklingen.de/oeffentliche-einrichtungen/wald-wildparks-forstwirtschaft/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "ferme-du-parc-maximilien-boerderij-van-het-maximiliaanpark-be",
+    "name": "Ferme du Parc Maximilien - Boerderij van het Maximiliaanpark",
+    "nameLocal": null,
+    "citySlug": "brussels",
+    "countryIso2": "BE",
+    "foundedYear": 1991,
+    "lat": 50.85856,
+    "lng": 4.35007,
+    "website": "http://www.lafermeduparcmaximilien.be/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "wildpark-malente-de",
+    "name": "Wildpark Malente",
+    "nameLocal": null,
+    "citySlug": "malente-de",
+    "countryIso2": "DE",
+    "foundedYear": 1965,
+    "lat": 54.1701,
+    "lng": 10.54611,
+    "website": "http://www.wildpark-malente.de/wildpark.html",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "domaine-des-oiseaux-fr",
+    "name": "Domaine des Oiseaux",
+    "nameLocal": null,
+    "citySlug": "mazer-fr",
+    "countryIso2": "FR",
+    "foundedYear": 2005,
+    "lat": 43.264,
+    "lng": 1.6612,
+    "website": "https://www.ville-mazeres.fr/Domaine-des-Oiseaux/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "kinderboerderij-ijsselstee-nl",
+    "name": "Kinderboerderij IJsselstee",
+    "nameLocal": null,
+    "citySlug": "nivegeyn-nl",
+    "countryIso2": "NL",
+    "foundedYear": 1979,
+    "lat": 52.0225,
+    "lng": 5.082777777,
+    "website": "https://www.natuurkwartier.nl/wie-zijn-wij/kinderboerderij-ijsselstee",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "tierpark-oberwald-de",
+    "name": "Tierpark Oberwald",
+    "nameLocal": null,
+    "citySlug": "karlsrue-de",
+    "countryIso2": "DE",
+    "foundedYear": 1965,
+    "lat": 48.98946,
+    "lng": 8.4213,
+    "website": "https://zoo-karlsruhe.de/erlebniswelten/tierpark-oberwald/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "slug": "allgauer-schmetterling-erlebniswelt-de",
+    "name": "Allgäuer Schmetterling Erlebniswelt",
+    "nameLocal": null,
+    "citySlug": "pfronten-de",
+    "countryIso2": "DE",
+    "foundedYear": 2006,
+    "lat": 47.597833333,
+    "lng": 10.560972222,
+    "website": "https://schmetterling-erlebniswelt.de/",
+    "description": null,
+    "publishStatus": "published",
+    "sourceRefs": [
+      "wikidata-zoos"
+    ],
+    "verifiedAt": "2026-11-22"
+  }
+]

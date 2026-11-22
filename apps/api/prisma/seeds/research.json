@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "zoo-berlin-research-1",
+    "title": "Bearded vulture reintroduction (Vulture Conservation Foundation)",
+    "summary": "Zoo and Tierpark Berlin are reintroducing bearded vultures into their original European habitats through coordinated zoo breeding and release with the Vulture Conservation Foundation.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-berlin"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "tierpark-berlin-research-2",
+    "title": "Return of the Wild Horses (Przewalski's horse, Kazakhstan)",
+    "summary": "Tierpark Berlin is helping reintroduce zoo-born Przewalski's horses to the Altyn Dala steppe in Kazakhstan with Prague Zoo, Kazakh authorities and the Frankfurt Zoological Society.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "tierpark-berlin"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-praha-research-3",
+    "title": "Eastern bongo reintroduction in Kenya",
+    "summary": "Prague Zoo supports reforestation and monitoring of eastern bongos at the Mawingu Mountain Bongo Sanctuary on Mount Kenya, where zoo-born bongos are rewilded for a self-sustaining population.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-praha"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-praha-research-4",
+    "title": "The return of the European bison to the wild",
+    "summary": "Prague Zoo, which has bred European bison since 1948, participates in reintroducing the species to the wild and has so far released ten animals.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-praha"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-leipzig-research-5",
+    "title": "Endangered Primate Rescue Center (EPRC), Vietnam",
+    "summary": "Zoo Leipzig supports the Endangered Primate Rescue Center in Cuc Phuong National Park, which rescues confiscated primates and breeds and researches langurs and gibbons for later reintroduction.",
+    "startedYear": 2002,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-leipzig"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-leipzig-research-6",
+    "title": "Saving the common hamster in Central Germany",
+    "summary": "Zoo Leipzig runs a common hamster breeding station in Saxony and carries out reinforcement and reintroduction work to secure the species in the cultural landscape of Middle Germany.",
+    "startedYear": 2021,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-leipzig"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "tiergarten-schoenbrunn-research-7",
+    "title": "Northern bald ibis species protection project",
+    "summary": "Schönbrunn Zoo has supported study and reintroduction of the northern bald ibis since 2002 and coordinates an EU LIFE project establishing new breeding colonies in Austria and Italy.",
+    "startedYear": 2002,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "tiergarten-schoenbrunn"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-zurich-research-8",
+    "title": "Masoala conservation project",
+    "summary": "Zoo Zurich has worked since 1995 with local partners on Madagascar's Masoala Peninsula to protect rainforest, restore destroyed forest and support community education and sustainable livelihoods.",
+    "startedYear": 1995,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-zurich"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-8"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-frankfurt-research-9",
+    "title": "Komodo Survival Program (Wael Wuul Nature Reserve)",
+    "summary": "Frankfurt Zoo supports the Komodo Survival Program's population monitoring in Komodo National Park and its community work and environmental education around the Wael Wuul Nature Reserve.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-frankfurt"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-9"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-frankfurt-research-10",
+    "title": "Lion Tamarins of Brazil Fund (LTBF)",
+    "summary": "Frankfurt Zoo supports the Lion Tamarins of Brazil Fund, which works to protect the four lion tamarin species threatened by habitat loss in Brazil.",
+    "startedYear": null,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-frankfurt"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-9"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "zoo-barcelona-research-11",
+    "title": "Conservation and Research Programme (PRIC)",
+    "summary": "Barcelona Zoo has run its Conservation and Research Programme (PRIC) since 2009, funding institutional collaboration and research and conservation projects, many focused on local species.",
+    "startedYear": 2009,
+    "endedYear": null,
+    "status": "active",
+    "publishStatus": "published",
+    "leadOrganizationSlug": null,
+    "zooSlugs": [
+      "zoo-barcelona"
+    ],
+    "speciesScientificNames": [],
+    "sourceRefs": [
+      "research-11"
+    ],
+    "verifiedAt": "2026-11-19"
+  }
+]

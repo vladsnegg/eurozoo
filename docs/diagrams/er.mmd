@@ -1,0 +1,110 @@
+erDiagram
+    COUNTRY ||--o{ REGION : has
+    COUNTRY ||--o{ CITY : has
+    REGION o|--o{ CITY : groups
+    CITY ||--o{ ZOO : hosts
+    COUNTRY ||--o{ ORGANIZATION : based_in
+
+    ZOO ||--o{ ZOO_EVENT : has
+    ZOO ||--o{ ENCLOSURE : has
+    ZOO ||--o{ EDUCATION_PROGRAM : offers
+    ZOO }o--o{ FACILITY : provides
+    ZOO }o--o{ ORGANIZATION : member_of
+    ZOO }o--o{ TAXON : keeps
+    ZOO }o--o{ CONSERVATION_PROGRAM : participates_in
+    ZOO }o--o{ RESEARCH_PROJECT : conducts
+
+    ENCLOSURE }o--o| HABITAT : models
+
+    TAXONOMIC_RANK ||--o{ TAXON : classifies
+    TAXON ||--o{ TAXON : parent_of
+    TAXON ||--o| SPECIES_PROFILE : has_profile
+    IUCN_STATUS ||--o{ SPECIES_PROFILE : status_of
+    TAXON }o--o{ HABITAT : inhabits
+
+    ORGANIZATION ||--o{ CONSERVATION_PROGRAM : operates
+    CONSERVATION_PROGRAM }o--o{ TAXON : targets
+    ORGANIZATION ||--o{ RESEARCH_PROJECT : leads
+
+    RESEARCH_PROJECT }o--o{ TAXON : studies
+
+    SOURCE ||--o{ ENTITY_SOURCE : cited_by
+    PREDICATE ||--o{ KNOWLEDGE_EDGE : types
+    SOURCE ||--o{ KNOWLEDGE_EDGE : supports
+
+    APP_USER ||--o{ SESSION : owns
+    APP_USER ||--o{ KNOWLEDGE_REVISION : authors
+
+    COUNTRY {
+        uuid id PK
+        char iso2 UK
+        char iso3 UK
+        text name
+        text slug UK
+    }
+    CITY {
+        uuid id PK
+        uuid country_id FK
+        uuid region_id FK
+        text slug
+        numeric lat
+        numeric lng
+    }
+    ZOO {
+        uuid id PK
+        text slug UK
+        uuid city_id FK
+        int founded_year
+        numeric area_ha
+        text status
+        text publish_status
+    }
+    TAXON {
+        uuid id PK
+        smallint rank_id FK
+        uuid parent_id FK
+        text scientific_name UK
+        text common_name_ru
+        text common_name_en
+    }
+    SPECIES_PROFILE {
+        uuid taxon_id PK
+        smallint iucn_status_id FK
+        text population_trend
+        numeric lifespan_years
+    }
+    CONSERVATION_PROGRAM {
+        uuid id PK
+        text slug UK
+        text code
+        uuid organization_id FK
+        int started_year
+        text status
+    }
+    KNOWLEDGE_EDGE {
+        uuid id PK
+        text src_type
+        uuid src_id
+        text predicate FK
+        text dst_type
+        uuid dst_id
+        numeric confidence
+        uuid source_id FK
+    }
+    ENTITY_SOURCE {
+        uuid id PK
+        text entity_type
+        uuid entity_id
+        uuid source_id FK
+        numeric confidence
+        date verified_at
+        text status
+    }
+    SOURCE {
+        uuid id PK
+        text type
+        text title
+        text url
+        text reliability
+        date accessed_at
+    }

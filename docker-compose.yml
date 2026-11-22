@@ -1,0 +1,40 @@
+services:
+  db:
+    image: postgres:17-alpine
+    container_name: eurozoo-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: eurozoo
+      POSTGRES_USER: eurozoo
+      POSTGRES_PASSWORD: eurozoo_dev_password
+    ports:
+      - '5433:5432'
+    volumes:
+      - eurozoo_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U eurozoo -d eurozoo']
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  db-test:
+    image: postgres:17-alpine
+    container_name: eurozoo-db-test
+    profiles: ['test']
+    environment:
+      POSTGRES_DB: eurozoo_test
+      POSTGRES_USER: eurozoo
+      POSTGRES_PASSWORD: eurozoo_dev_password
+    ports:
+      - '5434:5432'
+    volumes:
+      - eurozoo_pgdata_test:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U eurozoo -d eurozoo_test']
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  eurozoo_pgdata:
+  eurozoo_pgdata_test:

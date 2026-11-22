@@ -1,0 +1,48 @@
+{
+  "name": "@eurozoo/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "start": "node dist/main.js",
+    "lint": "eslint src test",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate deploy",
+    "db:reset": "prisma migrate reset --force",
+    "db:seed": "tsx prisma/seed.ts",
+    "data:check": "tsx scripts/data-check.ts",
+    "data:verify": "tsx scripts/data-verify.ts",
+    "data:verify:online": "tsx scripts/data-verify.ts --online",
+    "data:stale": "tsx scripts/data-stale.ts",
+    "search:refresh": "tsx scripts/search-refresh.ts"
+  },
+  "dependencies": {
+    "@eurozoo/shared": "workspace:*",
+    "@nestjs/common": "11.0.5",
+    "@nestjs/core": "11.0.5",
+    "@nestjs/platform-express": "11.0.5",
+    "@prisma/client": "6.1.0",
+    "cookie-parser": "1.4.7",
+    "dotenv": "16.4.7",
+    "hash-wasm": "4.12.0",
+    "helmet": "8.0.0",
+    "reflect-metadata": "0.2.2",
+    "rxjs": "7.8.1",
+    "zod": "3.24.1"
+  },
+  "devDependencies": {
+    "@nestjs/testing": "11.0.5",
+    "@types/cookie-parser": "1.4.8",
+    "@types/express": "5.0.0",
+    "@types/node": "22.10.5",
+    "@types/supertest": "6.0.2",
+    "prisma": "6.1.0",
+    "supertest": "7.0.0",
+    "tsx": "4.19.2",
+    "typescript": "5.7.3",
+    "vitest": "2.1.8"
+  }
+}

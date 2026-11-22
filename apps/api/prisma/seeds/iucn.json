@@ -1,0 +1,11 @@
+[
+  { "id": 0, "code": "NE", "nameRu": "Не оценён", "severity": 0, "color": "#8a8a8a" },
+  { "id": 1, "code": "DD", "nameRu": "Данных недостаточно", "severity": 0, "color": "#6b675e" },
+  { "id": 2, "code": "LC", "nameRu": "Вызывающий наименьшие опасения", "severity": 1, "color": "#2f7d4a" },
+  { "id": 3, "code": "NT", "nameRu": "Близкий к уязвимому положению", "severity": 2, "color": "#5b7f2a" },
+  { "id": 4, "code": "VU", "nameRu": "Уязвимый", "severity": 3, "color": "#a37a00" },
+  { "id": 5, "code": "EN", "nameRu": "Исчезающий", "severity": 4, "color": "#c25e00" },
+  { "id": 6, "code": "CR", "nameRu": "Находящийся на грани исчезновения", "severity": 5, "color": "#b3261e" },
+  { "id": 7, "code": "EW", "nameRu": "Исчез в дикой природе", "severity": 6, "color": "#4a4a4a" },
+  { "id": 8, "code": "EX", "nameRu": "Исчез", "severity": 7, "color": "#1c1b18" }
+]

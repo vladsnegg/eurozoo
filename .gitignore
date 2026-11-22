@@ -1,0 +1,57 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# builds
+dist/
+build/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# env
+.env
+.env.*
+!.env.example
+
+# uploads / local data
+var/
+uploads/
+*.sqlite
+*.sqlite3
+*.db
+
+# tests / coverage
+coverage/
+playwright-report/
+test-results/
+blob-report/
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# python (legacy caches)
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.ruff_cache/
+
+# auxiliary documents (coursework, reports, generated figures)
+docs/report/
+docs/figures/
+docs/build_report.py
+docs/fix_toc.py
+docs/update_ascii.ps1
+docs/*.docx
+docs/*.pdf
+docs/~$*

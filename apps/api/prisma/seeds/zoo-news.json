@@ -1,0 +1,62 @@
+[
+  {
+    "zooSlug": "zoo-berlin",
+    "title": "Herbstzeit ist Zoozeit",
+    "summary": "Берлинский зоопарк приглашает на осенние прогулки: медведи-бадди, вечерние туры с фонариками и необычные соседства животных.",
+    "url": "https://www.zoo-berlin.de/de/aktuelles/news/artikel/herbstzeit-ist-zoozeit",
+    "sourceName": "Zoo Berlin",
+    "publishedAt": "2026-10-16",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "title": "COP17: globale Ziele, konkrete Maßnahmen im Naturschutz",
+    "summary": "Зоопарки Берлина названы положительным примером практической работы в области сохранения биоразнообразия на COP17.",
+    "url": "https://www.zoo-berlin.de/de/aktuelles/news/artikel/cop17-globale-ziele-konkrete-massnahmen-im-naturschutz-zoologische-gaerten-berlin-als-positives-beispiel-genannt",
+    "sourceName": "Zoo Berlin",
+    "publishedAt": "2026-10-29",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "title": "Abschied von Gorilla-Dame Mpenzi",
+    "summary": "Берлинский зоопарк прощается с Мпензи — многолетней участницей семьи горилл.",
+    "url": "https://www.zoo-berlin.de/de/aktuelles/news/artikel/abschied-von-gorilla-dame-mpenzi",
+    "sourceName": "Zoo Berlin",
+    "publishedAt": "2026-09-23",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "title": "KI für den Eisbärenschutz",
+    "summary": "Шёнбрунн передаёт видео своего белого медведя для разработки системы раннего предупреждения конфликтов между людьми и животными.",
+    "url": "https://www.zoovienna.at/news/ki-fur-den-eisbarenschutz/",
+    "sourceName": "Tiergarten Schönbrunn",
+    "publishedAt": "2026-11-02",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "title": "Große Pandas in Herbstlaune",
+    "summary": "Большие панды в Шёнбрунне наслаждаются осенней погодой.",
+    "url": "https://www.zoovienna.at/news/grosse-pandas-herbstlaune/",
+    "sourceName": "Tiergarten Schönbrunn",
+    "publishedAt": "2026-10-27",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "title": "Affennachwuchs ist huckepack unterwegs",
+    "summary": "В Шёнбрунне появился малыш обезьяны, который путешествует на спине матери.",
+    "url": "https://www.zoovienna.at/news/affennachwuchs-ist-huckepack-unterwegs/",
+    "sourceName": "Tiergarten Schönbrunn",
+    "publishedAt": "2026-10-20",
+    "publishStatus": "published",
+    "verifiedAt": "2026-11-22"
+  }
+]

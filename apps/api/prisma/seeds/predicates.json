@@ -1,0 +1,21 @@
+[
+  { "code": "LOCATED_IN", "labelRu": "находится в", "domainType": "zoo", "rangeType": "city", "cardinality": "N:1", "isTransitive": false, "isInferred": false, "description": "Зоопарк расположен в городе." },
+  { "code": "CITY_IN_COUNTRY", "labelRu": "город в стране", "domainType": "city", "rangeType": "country", "cardinality": "N:1", "isTransitive": false, "isInferred": false, "description": "Город относится к стране." },
+  { "code": "CITY_IN_REGION", "labelRu": "город в регионе", "domainType": "city", "rangeType": "region", "cardinality": "N:1", "isTransitive": false, "isInferred": false, "description": "Необязательная связь города с регионом." },
+  { "code": "PART_OF", "labelRu": "входит в таксон", "domainType": "taxon", "rangeType": "taxon", "cardinality": "N:1", "isTransitive": true, "isInferred": false, "description": "Таксономическая иерархия." },
+  { "code": "KEEPS", "labelRu": "содержит", "domainType": "zoo", "rangeType": "species", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Зоопарк содержит вид." },
+  { "code": "PARTICIPATES_IN", "labelRu": "участвует в программе", "domainType": "zoo", "rangeType": "program", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Участие зоопарка в программе сохранения." },
+  { "code": "TARGETS", "labelRu": "нацелена на вид", "domainType": "program", "rangeType": "species", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Целевой вид программы." },
+  { "code": "MEMBER_OF", "labelRu": "член организации", "domainType": "zoo", "rangeType": "organization", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Членство зоопарка в организации." },
+  { "code": "OPERATES", "labelRu": "координирует", "domainType": "organization", "rangeType": "program", "cardinality": "1:N", "isTransitive": false, "isInferred": false, "description": "Организация-оператор программы." },
+  { "code": "CONDUCTS", "labelRu": "проводит исследование", "domainType": "zoo", "rangeType": "research", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Зоопарк участвует в исследовании." },
+  { "code": "STUDIES", "labelRu": "изучает вид", "domainType": "research", "rangeType": "species", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Предмет исследования." },
+  { "code": "OFFERS", "labelRu": "проводит программу", "domainType": "zoo", "rangeType": "education", "cardinality": "1:N", "isTransitive": false, "isInferred": false, "description": "Образовательная программа зоопарка." },
+  { "code": "HAS_FACILITY", "labelRu": "имеет объект", "domainType": "zoo", "rangeType": "facility", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Инфраструктура посетителя." },
+  { "code": "HAS_EVENT", "labelRu": "событие истории", "domainType": "zoo", "rangeType": "event", "cardinality": "1:N", "isTransitive": false, "isInferred": false, "description": "Событие в истории зоопарка." },
+  { "code": "PROVEN_BY", "labelRu": "подтверждено источником", "domainType": "species", "rangeType": "source", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Провенанс; в API представлен entity_source." },
+  { "code": "RELATED_TO", "labelRu": "связано с", "domainType": "zoo", "rangeType": "zoo", "cardinality": "N:M", "isTransitive": false, "isInferred": false, "description": "Произвольная сквозная связь." },
+  { "code": "SUCCEEDED_BY", "labelRu": "заменена программой", "domainType": "program", "rangeType": "program", "cardinality": "N:1", "isTransitive": true, "isInferred": false, "description": "Преемственность программ." },
+  { "code": "INFERRED_PROGRAM_SPECIES", "labelRu": "участвует в программе по виду", "domainType": "zoo", "rangeType": "species", "cardinality": "N:M", "isTransitive": false, "isInferred": true, "description": "Вывод R3." },
+  { "code": "SIMILAR_TO", "labelRu": "похож на", "domainType": "zoo", "rangeType": "zoo", "cardinality": "N:M", "isTransitive": false, "isInferred": true, "description": "Вывод R5 по пересечению коллекций." }
+]

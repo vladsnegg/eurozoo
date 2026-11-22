@@ -1,0 +1,1299 @@
+[
+  {
+    "slug": "eep-pan-troglodytes",
+    "name": "EEP: обыкновенный шимпанзе",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Pan troglodytes.",
+    "targetSpecies": [
+      "Pan troglodytes"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-pan-paniscus",
+    "name": "EEP: бонобо",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Pan paniscus.",
+    "targetSpecies": [
+      "Pan paniscus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-pongo",
+    "name": "EEP: орангутаны",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Pongo abelii.",
+    "targetSpecies": [
+      "Pongo abelii",
+      "Pongo pygmaeus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-gorilla-gorilla",
+    "name": "EEP: западная горилла",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Gorilla gorilla.",
+    "targetSpecies": [
+      "Gorilla gorilla"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-neofelis-nebulosa",
+    "name": "EEP: дымчатый леопард",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Neofelis nebulosa.",
+    "targetSpecies": [
+      "Neofelis nebulosa"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-ailurus-fulgens",
+    "name": "EEP: малая панда",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Ailurus fulgens.",
+    "targetSpecies": [
+      "Ailurus fulgens"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-crocuta-crocuta",
+    "name": "EEP: пятнистая гиена",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Crocuta crocuta.",
+    "targetSpecies": [
+      "Crocuta crocuta"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-hyaena-hyaena",
+    "name": "EEP: полосатая гиена",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Hyaena hyaena.",
+    "targetSpecies": [
+      "Hyaena hyaena"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-diceros-bicornis",
+    "name": "EEP: чёрный носорог",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Diceros bicornis.",
+    "targetSpecies": [
+      "Diceros bicornis"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-bison-bonasus",
+    "name": "EEP: зубр",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Bison bonasus.",
+    "targetSpecies": [
+      "Bison bonasus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-rangifer-tarandus",
+    "name": "EEP: лесной северный олень",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Rangifer tarandus.",
+    "targetSpecies": [
+      "Rangifer tarandus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-giraffa-camelopardalis",
+    "name": "EEP: жираф",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Giraffa camelopardalis.",
+    "targetSpecies": [
+      "Giraffa camelopardalis"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-nanger-dama",
+    "name": "EEP: газель дама",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Nanger dama.",
+    "targetSpecies": [
+      "Nanger dama"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-okapia-johnstoni",
+    "name": "EEP: окапи",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Okapia johnstoni.",
+    "targetSpecies": [
+      "Okapia johnstoni"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-equus-przewalskii",
+    "name": "EEP: лошадь Пржевальского",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Equus przewalskii.",
+    "targetSpecies": [
+      "Equus przewalskii"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-ceratotherium-simum",
+    "name": "EEP: белый носорог",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Ceratotherium simum.",
+    "targetSpecies": [
+      "Ceratotherium simum"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-spheniscus-humboldti",
+    "name": "EEP: пингвин Гумбольдта",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Spheniscus humboldti.",
+    "targetSpecies": [
+      "Spheniscus humboldti"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-aptenodytes-patagonicus",
+    "name": "EEP: королевский пингвин",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Aptenodytes patagonicus.",
+    "targetSpecies": [
+      "Aptenodytes patagonicus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-spheniscus-demersus",
+    "name": "EEP: очковый пингвин",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Spheniscus demersus.",
+    "targetSpecies": [
+      "Spheniscus demersus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-bubo-scandiacus",
+    "name": "EEP: белая сова",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Bubo scandiacus.",
+    "targetSpecies": [
+      "Bubo scandiacus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-capra-falconeri",
+    "name": "EEP: винторогий козёл",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Capra falconeri.",
+    "targetSpecies": [
+      "Capra falconeri"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tragulus-javanicus",
+    "name": "EEP: яванский оленёк",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Tragulus javanicus.",
+    "targetSpecies": [
+      "Tragulus javanicus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-macaca-silenus",
+    "name": "EEP: львинохвостый макак",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Macaca silenus.",
+    "targetSpecies": [
+      "Macaca silenus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-propithecus-coquereli",
+    "name": "EEP: сифака Кокереля",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Propithecus coquereli.",
+    "targetSpecies": [
+      "Propithecus coquereli"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tapirus-indicus",
+    "name": "EEP: малайский тапир",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Tapirus indicus.",
+    "targetSpecies": [
+      "Tapirus indicus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-equus-grevyi",
+    "name": "EEP: зебра Греви",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Equus grevyi.",
+    "targetSpecies": [
+      "Equus grevyi"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-gazella-cuvieri",
+    "name": "EEP: газель Кювье",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Gazella cuvieri.",
+    "targetSpecies": [
+      "Gazella cuvieri"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-ammotragus-lervia",
+    "name": "EEP: гривистый баран",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Ammotragus lervia.",
+    "targetSpecies": [
+      "Ammotragus lervia"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-ovibos-moschatus",
+    "name": "EEP: овцебык",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "Европейская программа разведения (EEP) под координацией EAZA для вида Ovibos moschatus.",
+    "targetSpecies": [
+      "Ovibos moschatus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-panthera-tigris",
+    "name": "EEP: Panthera tigris",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "draft",
+    "description": "Европейская программа разведения тигра; участие и статус требуют проверки по EAZA.",
+    "targetSpecies": [
+      "Panthera tigris"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-capra-falconeri",
+    "name": "STUDBOOK: Винторогий козёл",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Capra falconeri, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Capra falconeri"
+    ],
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-rangifer-tarandus",
+    "name": "STUDBOOK: Северный олень",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Rangifer tarandus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Rangifer tarandus"
+    ],
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-bubo-scandiacus",
+    "name": "STUDBOOK: Белая сова",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Bubo scandiacus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Bubo scandiacus"
+    ],
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-mustela-lutreola",
+    "name": "EEP: Европейская норка",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Mustela lutreola, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Mustela lutreola"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-equus-przewalskii",
+    "name": "STUDBOOK: Лошадь Пржевальского",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Equus przewalskii, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Equus przewalskii"
+    ],
+    "sourceRefs": [
+      "zoo-zoo-praha-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-neophron-percnopterus",
+    "name": "EEP: Стервятник",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Neophron percnopterus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Neophron percnopterus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-bison-bonasus",
+    "name": "STUDBOOK: Зубр",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Bison bonasus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Bison bonasus"
+    ],
+    "sourceRefs": [
+      "zoo-zoo-berlin-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-ursus-maritimus",
+    "name": "EEP: Белый медведь",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Ursus maritimus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Ursus maritimus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-moschus-moschiferus",
+    "name": "EEP: Сибирская кабарга",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Moschus moschiferus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Moschus moschiferus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-panthera-leo",
+    "name": "EEP: Лев",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Panthera leo, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Panthera leo"
+    ],
+    "sourceRefs": [
+      "zref-koelner-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-gorilla-gorilla",
+    "name": "STUDBOOK: Западная горилла",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Gorilla gorilla, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Gorilla gorilla"
+    ],
+    "sourceRefs": [
+      "zref-zoo-frankfurt"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-hippopotamus-amphibius",
+    "name": "EEP: Обыкновенный бегемот",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Hippopotamus amphibius, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Hippopotamus amphibius"
+    ],
+    "sourceRefs": [
+      "zref-zoo-frankfurt-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tremarctos-ornatus",
+    "name": "EEP: Очковый медведь",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Tremarctos ornatus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Tremarctos ornatus"
+    ],
+    "sourceRefs": [
+      "zref-zoo-frankfurt-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tragelaphus-eurycerus",
+    "name": "EEP: Бонго",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Tragelaphus eurycerus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Tragelaphus eurycerus"
+    ],
+    "sourceRefs": [
+      "zref-zoo-frankfurt-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "esb-orycteropus-afer",
+    "name": "ESB: Трубкозуб",
+    "code": "ESB",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "ESB для вида Orycteropus afer, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Orycteropus afer"
+    ],
+    "sourceRefs": [
+      "zref-zoo-frankfurt-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-elephas-maximus",
+    "name": "EEP: Азиатский слон",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Elephas maximus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Elephas maximus"
+    ],
+    "sourceRefs": [
+      "zref-hellabrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-rhinoceros-unicornis",
+    "name": "EEP: Индийский носорог",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Rhinoceros unicornis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Rhinoceros unicornis"
+    ],
+    "sourceRefs": [
+      "zref-hellabrunn-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-phascolarctos-cinereus",
+    "name": "EEP: Коала",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Phascolarctos cinereus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Phascolarctos cinereus"
+    ],
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-geronticus-eremita",
+    "name": "EEP: Лесной ибис",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Geronticus eremita, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Geronticus eremita"
+    ],
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tragelaphus-imberbis",
+    "name": "EEP: Малый куду",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Tragelaphus imberbis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Tragelaphus imberbis"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-choeropsis-liberiensis",
+    "name": "EEP: Карликовый бегемот",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Choeropsis liberiensis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Choeropsis liberiensis"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-equus-africanus",
+    "name": "EEP: Африканский дикий осёл",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Equus africanus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Equus africanus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-choeropsis-liberiensis",
+    "name": "STUDBOOK: Карликовый бегемот",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Choeropsis liberiensis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Choeropsis liberiensis"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-rhinoceros-unicornis",
+    "name": "STUDBOOK: Индийский носорог",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Rhinoceros unicornis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Rhinoceros unicornis"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-equus-africanus",
+    "name": "STUDBOOK: Африканский дикий осёл",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Equus africanus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Equus africanus"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-panthera-uncia",
+    "name": "EEP: Ирбис",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Panthera uncia, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Panthera uncia"
+    ],
+    "sourceRefs": [
+      "zref-zoo-zurich-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-gyps-rueppellii",
+    "name": "EEP: Африканский гриф",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Gyps rueppellii, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Gyps rueppellii"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-pelecanus-crispus",
+    "name": "EEP: Кудрявый пеликан",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Pelecanus crispus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Pelecanus crispus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-testudo-kleinmanni",
+    "name": "EEP: Египетская черепаха",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Testudo kleinmanni, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Testudo kleinmanni"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-panthera-pardus",
+    "name": "EEP: Леопард",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Panthera pardus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Panthera pardus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tragelaphus-angasi",
+    "name": "EEP: Ньяла",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Tragelaphus angasi, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Tragelaphus angasi"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-zalophus-californianus",
+    "name": "EEP: Калифорнийский морской лев",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Zalophus californianus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Zalophus californianus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-heosemys-spinosa",
+    "name": "EEP: Колючая черепаха",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Heosemys spinosa, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Heosemys spinosa"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-varanus-komodoensis",
+    "name": "EEP: Комодский варан",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Varanus komodoensis, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Varanus komodoensis"
+    ],
+    "sourceRefs": [
+      "zref-zoo-barcelona-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-loxodonta-africana",
+    "name": "EEP: Саванный слон",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Loxodonta africana, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Loxodonta africana"
+    ],
+    "sourceRefs": [
+      "zref-bioparc-valencia-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-mandrillus-leucophaeus",
+    "name": "EEP: Дрил",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Mandrillus leucophaeus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Mandrillus leucophaeus"
+    ],
+    "sourceRefs": [
+      "zref-bioparc-valencia-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-cacatua-sulphurea",
+    "name": "EEP: Малый желтохохлый какаду",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Cacatua sulphurea, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Cacatua sulphurea"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-callimico-goeldii",
+    "name": "EEP: Каллимико",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Callimico goeldii, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Callimico goeldii"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-canis-lupus",
+    "name": "EEP: Волк",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Canis lupus, подтверждено официальным сайтом зоопарка.",
+    "targetSpecies": [
+      "Canis lupus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-diceros-bicornis",
+    "name": "STUDBOOK: Чёрный носорог",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Diceros bicornis; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Diceros bicornis"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-panthera-tigris",
+    "name": "STUDBOOK: Тигр",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Panthera tigris; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Panthera tigris"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-chrysocyon-brachyurus",
+    "name": "EEP: Гривистый волк",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Chrysocyon brachyurus; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Chrysocyon brachyurus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-tragelaphus-imberbis",
+    "name": "STUDBOOK: Малый куду",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Tragelaphus imberbis; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Tragelaphus imberbis"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-oryx-leucoryx",
+    "name": "STUDBOOK: Аравийский орикс",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Oryx leucoryx; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Oryx leucoryx"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "studbook-orycteropus-afer",
+    "name": "STUDBOOK: Трубкозуб",
+    "code": "STUDBOOK",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "STUDBOOK для вида Orycteropus afer; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Orycteropus afer"
+    ],
+    "sourceRefs": [
+      "eaza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-varecia-rubra",
+    "name": "EEP: Рыжий вари",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Varecia rubra; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Varecia rubra"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-varecia-variegata",
+    "name": "EEP: Лемур вари",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Varecia variegata; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Varecia variegata"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-mandrillus-sphinx",
+    "name": "EEP: Мандрил",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Mandrillus sphinx; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Mandrillus sphinx"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-tapirus-terrestris",
+    "name": "EEP: Равнинный тапир",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Tapirus terrestris; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Tapirus terrestris"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-oryx-dammah",
+    "name": "EEP: Саблерогий орикс",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Oryx dammah; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Oryx dammah"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "slug": "eep-helarctos-malayanus",
+    "name": "EEP: Малайский медведь",
+    "code": "EEP",
+    "organizationSlug": "eaza",
+    "status": "active",
+    "publishStatus": "published",
+    "description": "EEP для вида Helarctos malayanus; участие зоопарка подтверждено официальным сайтом.",
+    "targetSpecies": [
+      "Helarctos malayanus"
+    ],
+    "sourceRefs": [
+      "eaza-eep-list"
+    ],
+    "verifiedAt": "2026-11-19"
+  }
+]

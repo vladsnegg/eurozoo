@@ -1,0 +1,747 @@
+// EuroZoo Atlas — схема данных (ЭТАП 1, черновик; миграции — ЭТАП 3)
+// Инварианты, не выразимые в Prisma (CHECK, циклы, частичные индексы),
+// реализуются raw-SQL миграцией на ЭТАПЕ 3.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ---------- enums ----------
+
+enum ZooStatus {
+  active
+  closed
+  planned
+}
+
+enum PublishStatus {
+  draft
+  review
+  published
+}
+
+enum EventType {
+  founded
+  opened
+  reopened
+  closed
+  expansion
+  renovation
+  award
+}
+
+enum EnclosureType {
+  indoor
+  outdoor
+  mixed
+  aquarium
+  aviary
+}
+
+enum Biome {
+  forest
+  grassland
+  desert
+  tundra
+  aquatic
+  wetland
+  mountain
+  savanna
+  coastal
+}
+
+enum Trend {
+  increasing
+  decreasing
+  stable
+  unknown
+}
+
+enum ProgramCode {
+  EEP
+  ESB
+  STUDBOOK
+  OTHER
+}
+
+enum ProgramStatus {
+  active
+  completed
+  suspended
+}
+
+enum ParticipationRole {
+  coordinator
+  participant
+  former
+}
+
+enum ProgramRole {
+  target
+  flagship
+  candidate
+}
+
+enum OrgType {
+  association
+  program_operator
+  conservation
+  research
+  government
+}
+
+enum ResearchStatus {
+  active
+  completed
+  planned
+  cancelled
+}
+
+enum Audience {
+  children
+  schools
+  adults
+  families
+  professionals
+}
+
+enum EducationFormat {
+  tour
+  workshop
+  lecture
+  course
+  exhibition
+}
+
+enum FacilityCategory {
+  parking
+  cafe
+  playground
+  accessibility
+  shop
+  medical
+  transport
+}
+
+enum SourceType {
+  official_site
+  scientific
+  database
+  media
+  community
+}
+
+enum Reliability {
+  official
+  scientific
+  database
+  media
+  community
+}
+
+enum ProvenanceStatus {
+  current
+  stale
+  disputed
+}
+
+enum UserRole {
+  viewer
+  editor
+  admin
+}
+
+enum EntityType {
+  zoo
+  species
+  taxon
+  country
+  region
+  city
+  program
+  organization
+  research
+  event
+  education
+  facility
+  source
+}
+
+// ---------- geography ----------
+
+model Country {
+  id        String   @id @default(uuid()) @db.Uuid
+  iso2      String   @unique @db.Char(2)
+  iso3      String   @unique @db.Char(3)
+  name      String
+  nameLocal String?  @map("name_local")
+  slug      String   @unique
+  euMember  Boolean  @default(false) @map("eu_member")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  regions       Region[]
+  cities        City[]
+  organizations Organization[]
+
+  @@map("country")
+}
+
+model Region {
+  id        String   @id @default(uuid()) @db.Uuid
+  countryId String   @map("country_id") @db.Uuid
+  name      String
+  slug      String
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  country Country @relation(fields: [countryId], references: [id], onDelete: Restrict)
+  cities  City[]
+
+  @@unique([countryId, slug])
+  @@map("region")
+}
+
+model City {
+  id         String   @id @default(uuid()) @db.Uuid
+  countryId  String   @map("country_id") @db.Uuid
+  regionId   String?  @map("region_id") @db.Uuid
+  name       String
+  slug       String   @unique
+  lat        Float?
+  lng        Float?
+  population Int?
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+
+  country Country  @relation(fields: [countryId], references: [id], onDelete: Restrict)
+  region  Region?  @relation(fields: [regionId], references: [id], onDelete: SetNull)
+  zoos    Zoo[]
+
+  @@unique([countryId, slug])
+  @@index([regionId])
+  @@map("city")
+}
+
+// ---------- zoos ----------
+
+model Zoo {
+  id             String        @id @default(uuid()) @db.Uuid
+  slug           String        @unique
+  name           String
+  nameLocal      String?       @map("name_local")
+  cityId         String        @map("city_id") @db.Uuid
+  foundedYear    Int?          @map("founded_year")
+  areaHa         Float?        @map("area_ha")
+  annualVisitors Int?          @map("annual_visitors")
+  website        String?
+  lat            Float?
+  lng            Float?
+  description    String?
+  locationLabel  String?       @map("location_label")
+  status         ZooStatus     @default(active)
+  publishStatus  PublishStatus @default(draft) @map("publish_status")
+  createdAt      DateTime      @default(now()) @map("created_at")
+  updatedAt      DateTime      @updatedAt @map("updated_at")
+
+  city          City             @relation(fields: [cityId], references: [id], onDelete: Restrict)
+  events        ZooEvent[]
+  enclosures    Enclosure[]
+  species       ZooSpecies[]
+  programs      ZooProgram[]
+  organizations ZooOrganization[]
+  facilities    ZooFacility[]
+  research      ZooResearch[]
+  education     EducationProgram[]
+  news          ZooNews[]
+
+  @@index([cityId])
+  @@index([publishStatus])
+  @@map("zoo")
+}
+
+model ZooNews {
+  id            String        @id @default(uuid()) @db.Uuid
+  zooId         String        @map("zoo_id") @db.Uuid
+  title         String
+  summary       String?
+  url           String
+  sourceName    String?       @map("source_name")
+  publishedAt   DateTime      @map("published_at") @db.Date
+  publishStatus PublishStatus @default(draft) @map("publish_status")
+  verifiedAt    DateTime?     @map("verified_at")
+  createdAt     DateTime      @default(now()) @map("created_at")
+  updatedAt     DateTime      @updatedAt @map("updated_at")
+
+  zoo Zoo @relation(fields: [zooId], references: [id], onDelete: Cascade)
+
+  @@index([zooId, publishedAt])
+  @@index([publishStatus, publishedAt])
+  @@map("zoo_news")
+}
+
+model ZooEvent {
+  id          String    @id @default(uuid()) @db.Uuid
+  zooId       String    @map("zoo_id") @db.Uuid
+  year        Int
+  exactDate   DateTime? @map("exact_date") @db.Date
+  type        EventType
+  title       String
+  description String?
+
+  zoo Zoo @relation(fields: [zooId], references: [id], onDelete: Cascade)
+
+  @@index([zooId, year])
+  @@map("zoo_event")
+}
+
+model Enclosure {
+  id          String        @id @default(uuid()) @db.Uuid
+  zooId       String        @map("zoo_id") @db.Uuid
+  name        String
+  type        EnclosureType?
+  areaM2      Float?        @map("area_m2")
+  habitatId   String?       @map("habitat_id") @db.Uuid
+  description String?
+
+  zoo       Zoo          @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  habitat   Habitat?     @relation(fields: [habitatId], references: [id], onDelete: SetNull)
+  zooSpecies ZooSpecies[]
+
+  @@index([zooId])
+  @@map("enclosure")
+}
+
+model Facility {
+  id       String           @id @default(uuid()) @db.Uuid
+  slug     String           @unique
+  name     String
+  category FacilityCategory
+
+  zoos ZooFacility[]
+
+  @@map("facility")
+}
+
+model ZooFacility {
+  zooId      String  @map("zoo_id") @db.Uuid
+  facilityId String  @map("facility_id") @db.Uuid
+  note       String?
+
+  zoo      Zoo      @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  facility Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+
+  @@id([zooId, facilityId])
+  @@map("zoo_facility")
+}
+
+// ---------- taxonomy ----------
+
+model TaxonomicRank {
+  id     Int    @id @db.SmallInt
+  code   String @unique
+  nameRu String @map("name_ru")
+  level  Int    @unique @db.SmallInt
+
+  taxa Taxon[]
+
+  @@map("taxonomic_rank")
+}
+
+model Taxon {
+  id             String  @id @default(uuid()) @db.Uuid
+  slug           String  @unique
+  rankId         Int     @map("rank_id") @db.SmallInt
+  parentId       String? @map("parent_id") @db.Uuid
+  scientificName String  @unique @map("scientific_name")
+  commonNameRu   String? @map("common_name_ru")
+  commonNameEn   String? @map("common_name_en")
+  authority      String?
+  yearDescribed  Int?    @map("year_described")
+  gbifKey        BigInt? @map("gbif_key")
+  description    String?
+  imageUrl       String? @map("image_url")
+  imageCredit    String? @map("image_credit")
+  imageCreditUrl String? @map("image_credit_url")
+  publishStatus  PublishStatus @default(published) @map("publish_status")
+
+  rank     TaxonomicRank    @relation(fields: [rankId], references: [id], onDelete: Restrict)
+  parent   Taxon?           @relation("TaxonTree", fields: [parentId], references: [id], onDelete: Restrict)
+  children Taxon[]          @relation("TaxonTree")
+  profile  SpeciesProfile?
+  habitats SpeciesHabitat[]
+  zoos     ZooSpecies[]
+  programs ProgramSpecies[]
+  research ResearchSpecies[]
+
+  @@index([parentId])
+  @@index([rankId])
+  @@map("taxon")
+}
+
+model SpeciesProfile {
+  taxonId         String   @id @map("taxon_id") @db.Uuid
+  iucnStatusId    Int?     @map("iucn_status_id") @db.SmallInt
+  populationTrend Trend?   @map("population_trend")
+  habitatSummary  String?  @map("habitat_summary")
+  dietSummary     String?  @map("diet_summary")
+  lifespanYears   Float?   @map("lifespan_years")
+  weightKgMin     Float?   @map("weight_kg_min")
+  weightKgMax     Float?   @map("weight_kg_max")
+  lengthCmMin     Float?   @map("length_cm_min")
+  lengthCmMax     Float?   @map("length_cm_max")
+  description     String?
+
+  taxon      Taxon       @relation(fields: [taxonId], references: [id], onDelete: Cascade)
+  iucnStatus IucnStatus? @relation(fields: [iucnStatusId], references: [id], onDelete: SetNull)
+
+  @@map("species_profile")
+}
+
+model IucnStatus {
+  id       Int    @id @db.SmallInt
+  code     String @unique
+  nameRu   String @map("name_ru")
+  severity Int    @db.SmallInt
+  color    String
+
+  profiles SpeciesProfile[]
+
+  @@map("iucn_status")
+}
+
+model Habitat {
+  id          String @id @default(uuid()) @db.Uuid
+  slug        String @unique
+  name        String
+  biome       Biome
+  description String?
+
+  species    SpeciesHabitat[]
+  enclosures Enclosure[]
+
+  @@map("habitat")
+}
+
+model SpeciesHabitat {
+  taxonId   String @map("taxon_id") @db.Uuid
+  habitatId String @map("habitat_id") @db.Uuid
+
+  taxon   Taxon   @relation(fields: [taxonId], references: [id], onDelete: Cascade)
+  habitat Habitat @relation(fields: [habitatId], references: [id], onDelete: Cascade)
+
+  @@id([taxonId, habitatId])
+  @@map("species_habitat")
+}
+
+// ---------- conservation ----------
+
+model ConservationProgram {
+  id             String        @id @default(uuid()) @db.Uuid
+  slug           String        @unique
+  code           ProgramCode
+  name           String
+  organizationId String?       @map("organization_id") @db.Uuid
+  startedYear    Int?          @map("started_year")
+  endedYear      Int?          @map("ended_year")
+  status         ProgramStatus @default(active)
+  publishStatus  PublishStatus @default(draft) @map("publish_status")
+  description    String?
+
+  organization Organization?    @relation(fields: [organizationId], references: [id], onDelete: SetNull)
+  species      ProgramSpecies[]
+  zoos         ZooProgram[]
+
+  @@index([organizationId])
+  @@map("conservation_program")
+}
+
+model ProgramSpecies {
+  programId String      @map("program_id") @db.Uuid
+  taxonId   String      @map("taxon_id") @db.Uuid
+  role      ProgramRole @default(target)
+
+  program ConservationProgram @relation(fields: [programId], references: [id], onDelete: Cascade)
+  taxon   Taxon               @relation(fields: [taxonId], references: [id], onDelete: Cascade)
+
+  @@id([programId, taxonId])
+  @@index([taxonId])
+  @@map("program_species")
+}
+
+model ZooProgram {
+  zooId     String            @map("zoo_id") @db.Uuid
+  programId String            @map("program_id") @db.Uuid
+  role      ParticipationRole @default(participant)
+  sinceYear Int?              @map("since_year")
+  untilYear Int?              @map("until_year")
+
+  zoo     Zoo                 @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  program ConservationProgram @relation(fields: [programId], references: [id], onDelete: Cascade)
+
+  @@id([zooId, programId])
+  @@index([programId])
+  @@map("zoo_program")
+}
+
+model Organization {
+  id          String   @id @default(uuid()) @db.Uuid
+  slug        String   @unique
+  name        String
+  acronym     String?  @unique
+  type        OrgType
+  countryId   String?  @map("country_id") @db.Uuid
+  foundedYear   Int?          @map("founded_year")
+  website       String?
+  description   String?
+  publishStatus PublishStatus @default(published) @map("publish_status")
+
+  country   Country?               @relation(fields: [countryId], references: [id], onDelete: SetNull)
+  zoos      ZooOrganization[]
+  programs  ConservationProgram[]
+  ledResearch ResearchProject[]
+
+  @@index([countryId])
+  @@map("organization")
+}
+
+model ZooOrganization {
+  zooId          String  @map("zoo_id") @db.Uuid
+  organizationId String  @map("organization_id") @db.Uuid
+  role           String?
+  sinceYear      Int?    @map("since_year")
+  untilYear      Int?    @map("until_year")
+
+  zoo          Zoo          @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  organization Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+
+  @@id([zooId, organizationId])
+  @@index([organizationId])
+  @@map("zoo_organization")
+}
+
+// ---------- zoo species ----------
+
+model ZooSpecies {
+  zooId       String  @map("zoo_id") @db.Uuid
+  taxonId     String  @map("taxon_id") @db.Uuid
+  countMale   Int?    @map("count_male")
+  countFemale Int?    @map("count_female")
+  countUnsexed Int?   @map("count_unsexed")
+  sinceYear   Int?    @map("since_year")
+  breeding    Boolean @default(false)
+  enclosureId String? @map("enclosure_id") @db.Uuid
+  note        String?
+
+  zoo       Zoo        @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  taxon     Taxon      @relation(fields: [taxonId], references: [id], onDelete: Cascade)
+  enclosure Enclosure? @relation(fields: [enclosureId], references: [id], onDelete: SetNull)
+
+  @@id([zooId, taxonId])
+  @@index([taxonId])
+  @@map("zoo_species")
+}
+
+// ---------- research & education ----------
+
+model ResearchProject {
+  id                  String         @id @default(uuid()) @db.Uuid
+  slug                String         @unique
+  title               String
+  summary             String?
+  startedYear         Int?           @map("started_year")
+  endedYear           Int?           @map("ended_year")
+  status              ResearchStatus @default(active)
+  publishStatus       PublishStatus  @default(draft) @map("publish_status")
+  leadOrganizationId  String?        @map("lead_organization_id") @db.Uuid
+
+  leadOrganization Organization?   @relation(fields: [leadOrganizationId], references: [id], onDelete: SetNull)
+  zoos             ZooResearch[]
+  species          ResearchSpecies[]
+
+  @@map("research_project")
+}
+
+model ZooResearch {
+  zooId  String @map("zoo_id") @db.Uuid
+  researchId String @map("research_project_id") @db.Uuid
+
+  zoo      Zoo             @relation(fields: [zooId], references: [id], onDelete: Cascade)
+  research ResearchProject @relation(fields: [researchId], references: [id], onDelete: Cascade)
+
+  @@id([zooId, researchId])
+  @@index([researchId])
+  @@map("zoo_research")
+}
+
+model ResearchSpecies {
+  researchId String @map("research_project_id") @db.Uuid
+  taxonId    String @map("taxon_id") @db.Uuid
+
+  research ResearchProject @relation(fields: [researchId], references: [id], onDelete: Cascade)
+  taxon    Taxon           @relation(fields: [taxonId], references: [id], onDelete: Cascade)
+
+  @@id([researchId, taxonId])
+  @@index([taxonId])
+  @@map("research_species")
+}
+
+model EducationProgram {
+  id          String          @id @default(uuid()) @db.Uuid
+  zooId       String          @map("zoo_id") @db.Uuid
+  title       String
+  audience    Audience
+  format      EducationFormat
+  description String?
+  url         String?
+
+  zoo Zoo @relation(fields: [zooId], references: [id], onDelete: Cascade)
+
+  @@index([zooId])
+  @@map("education_program")
+}
+
+// ---------- provenance ----------
+
+model Source {
+  id          String     @id @default(uuid()) @db.Uuid
+  type        SourceType
+  title       String
+  url         String     @unique
+  publisher   String?
+  publishedAt DateTime?  @map("published_at") @db.Date
+  accessedAt  DateTime   @map("accessed_at") @db.Date
+  license     String?
+  reliability Reliability
+  createdAt   DateTime   @default(now()) @map("created_at")
+
+  entitySources EntitySource[]
+  edges         KnowledgeEdge[]
+
+  @@index([type])
+  @@map("source")
+}
+
+model EntitySource {
+  id          String           @id @default(uuid()) @db.Uuid
+  entityType  EntityType       @map("entity_type")
+  entityId    String           @map("entity_id") @db.Uuid
+  sourceId    String           @map("source_id") @db.Uuid
+  fieldName   String           @default("") @map("field_name")
+  confidence  Float?
+  retrievedAt DateTime?        @map("retrieved_at") @db.Date
+  verifiedAt  DateTime?        @map("verified_at") @db.Date
+  staleAfter  DateTime?        @map("stale_after") @db.Date
+  status      ProvenanceStatus @default(current)
+
+  source Source @relation(fields: [sourceId], references: [id], onDelete: Restrict)
+
+  @@unique([entityType, entityId, sourceId, fieldName])
+  @@index([entityType, entityId])
+  @@map("entity_source")
+}
+
+// ---------- graph ----------
+
+model Predicate {
+  id           String     @id @default(uuid()) @db.Uuid
+  code         String     @unique
+  labelRu      String     @map("label_ru")
+  domainType   EntityType @map("domain_type")
+  rangeType    EntityType @map("range_type")
+  cardinality  String
+  isTransitive Boolean    @default(false) @map("is_transitive")
+  isInferred   Boolean    @default(false) @map("is_inferred")
+  description  String?
+
+  edges KnowledgeEdge[]
+
+  @@map("predicate")
+}
+
+model KnowledgeEdge {
+  id            String     @id @default(uuid()) @db.Uuid
+  srcType       EntityType @map("src_type")
+  srcId         String     @map("src_id") @db.Uuid
+  predicateCode String     @map("predicate")
+  dstType       EntityType @map("dst_type")
+  dstId         String     @map("dst_id") @db.Uuid
+  confidence    Float?
+  sourceId      String?    @map("source_id") @db.Uuid
+  note          String?
+  createdAt     DateTime   @default(now()) @map("created_at")
+
+  predicate Predicate @relation(fields: [predicateCode], references: [code], onDelete: Restrict)
+  source    Source?   @relation(fields: [sourceId], references: [id], onDelete: SetNull)
+
+  @@unique([srcType, srcId, predicateCode, dstType, dstId])
+  @@index([srcType, srcId])
+  @@index([dstType, dstId])
+  @@map("knowledge_edge")
+}
+
+// ---------- users & audit ----------
+
+model AppUser {
+  id           String    @id @default(uuid()) @db.Uuid
+  email        String    @unique
+  passwordHash String    @map("password_hash")
+  displayName  String    @map("display_name")
+  role         UserRole  @default(viewer)
+  isActive     Boolean   @default(true) @map("is_active")
+  createdAt    DateTime  @default(now()) @map("created_at")
+  lastLoginAt  DateTime? @map("last_login_at")
+
+  sessions  Session[]
+  revisions KnowledgeRevision[]
+
+  @@map("app_user")
+}
+
+model Session {
+  id        String   @id @default(uuid()) @db.Uuid
+  userId    String   @map("user_id") @db.Uuid
+  tokenHash String   @unique @map("token_hash")
+  expiresAt DateTime @map("expires_at")
+  createdAt DateTime @default(now()) @map("created_at")
+  userAgent String?  @map("user_agent")
+  ip        String?
+
+  user AppUser @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([expiresAt])
+  @@map("session")
+}
+
+model KnowledgeRevision {
+  id         BigInt     @id @default(autoincrement())
+  entityType EntityType @map("entity_type")
+  entityId   String     @map("entity_id") @db.Uuid
+  action     String
+  diff       Json?
+  actorId    String?    @map("actor_id") @db.Uuid
+  createdAt  DateTime   @default(now()) @map("created_at")
+
+  actor AppUser? @relation(fields: [actorId], references: [id], onDelete: SetNull)
+
+  @@index([entityType, entityId])
+  @@index([actorId])
+  @@map("knowledge_revision")
+}
+
+model SearchSynonym {
+  id       String  @id @default(uuid()) @db.Uuid
+  term     String
+  synonym  String
+  language String  @default("ru") @db.Char(2)
+  weight   Float   @default(1)
+
+  @@unique([term, synonym])
+  @@map("search_synonym")
+}

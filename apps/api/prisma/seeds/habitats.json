@@ -1,0 +1,10 @@
+[
+  { "slug": "forest", "name": "Леса", "biome": "forest", "description": "Лесные местообитания умеренных и тропических широт." },
+  { "slug": "grassland", "name": "Луга и саванны", "biome": "savanna", "description": "Открытые травянистые пространства." },
+  { "slug": "mountain", "name": "Горы", "biome": "mountain", "description": "Горные и высокогорные местообитания." },
+  { "slug": "wetland", "name": "Водно-болотные угодья", "biome": "wetland", "description": "Болота, поймы, мелководья и заболоченные территории." },
+  { "slug": "aquatic", "name": "Водные местообитания", "biome": "aquatic", "description": "Реки, озёра и прибрежные морские воды." },
+  { "slug": "desert", "name": "Пустыни", "biome": "desert", "description": "Засушливые местообитания с редкой растительностью." },
+  { "slug": "tundra", "name": "Тундра", "biome": "tundra", "description": "Холодные безлесные пространства Арктики и высокогорий." },
+  { "slug": "coastal", "name": "Побережья", "biome": "coastal", "description": "Морские побережья и прибрежные острова." }
+]

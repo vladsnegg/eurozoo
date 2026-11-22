@@ -1,0 +1,1091 @@
+[
+  {
+    "zooSlug": "artis-amsterdam",
+    "programSlug": "eep-elephas-maximus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-artis-amsterdam-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "programSlug": "eep-spheniscus-demersus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-artis"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-choeropsis-liberiensis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-loxodonta-africana",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-mandrillus-leucophaeus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-nanger-dama",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-panthera-leo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "programSlug": "eep-tragelaphus-eurycerus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-bioparc-valencia-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "programSlug": "studbook-orycteropus-afer",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-burgers-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "programSlug": "eep-panthera-leo",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-chester-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "programSlug": "eep-cacatua-sulphurea",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-dublin-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "programSlug": "eep-callimico-goeldii",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-dublin-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "programSlug": "eep-canis-lupus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-dublin-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "programSlug": "eep-geronticus-eremita",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-dublin-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "programSlug": "eep-oryx-dammah",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-dublin-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "programSlug": "eep-helarctos-malayanus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "programSlug": "eep-panthera-leo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-edinburgh-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "programSlug": "eep-panthera-pardus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-hagenbeck"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "programSlug": "eep-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hagenbeck-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-elephas-maximus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-equus-przewalskii",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-hellabrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-mandrillus-leucophaeus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-hellabrunn-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-rhinoceros-unicornis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-spheniscus-humboldti",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "programSlug": "eep-ursus-maritimus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-hellabrunn-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "programSlug": "eep-macaca-silenus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-koelner-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "programSlug": "eep-panthera-leo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-koelner-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "programSlug": "eep-panthera-pardus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-koelner-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "programSlug": "eep-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-koelner-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-kolmarden-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "eep-bubo-scandiacus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-korkeasaari"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "eep-capra-falconeri",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-korkeasaari"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "eep-rangifer-tarandus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-korkeasaari"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "studbook-bubo-scandiacus",
+    "role": "participant",
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "studbook-capra-falconeri",
+    "role": "participant",
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "programSlug": "studbook-rangifer-tarandus",
+    "role": "participant",
+    "sourceRefs": [
+      "zoo-korkeasaari-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "programSlug": "eep-canis-lupus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-lisbon-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "programSlug": "eep-heosemys-spinosa",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-lisbon-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "programSlug": "eep-panthera-pardus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-lisbon-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "programSlug": "eep-tragelaphus-angasi",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-lisbon-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "programSlug": "eep-zalophus-californianus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-lisbon-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-pairi-daiza-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "programSlug": "eep-varecia-rubra",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-pairi-daiza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "programSlug": "eep-ceratotherium-simum",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-parc-zoologique-paris"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "programSlug": "eep-tapirus-terrestris",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-parc-zoologique-paris-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-ailurus-fulgens",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-elephas-maximus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-gyps-rueppellii",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-panthera-leo",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-pelecanus-crispus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "programSlug": "eep-testudo-kleinmanni",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "programSlug": "eep-mustela-lutreola",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-tallinn-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-geronticus-eremita",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-phascolarctos-cinereus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-pongo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "programSlug": "eep-ursus-maritimus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "programSlug": "eep-propithecus-coquereli",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-tierpark-berlin-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "programSlug": "eep-ursus-maritimus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-tierpark-berlin"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-antwerp",
+    "programSlug": "eep-choeropsis-liberiensis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-antwerp"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-antwerp",
+    "programSlug": "eep-okapia-johnstoni",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-antwerp-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-ailurus-fulgens",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-barcelona"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-barcelona-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-neophron-percnopterus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-barcelona-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-pongo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-barcelona-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-spheniscus-humboldti",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-barcelona-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "programSlug": "eep-varanus-komodoensis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-barcelona-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "eep-choeropsis-liberiensis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "eep-equus-africanus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "eep-rhinoceros-unicornis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "eep-tragelaphus-imberbis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "studbook-choeropsis-liberiensis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "studbook-equus-africanus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "studbook-rhinoceros-unicornis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "programSlug": "studbook-tragelaphus-imberbis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-basel-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-beauval-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "programSlug": "eep-bison-bonasus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-berlin-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "programSlug": "eep-tragelaphus-eurycerus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-berlin-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "programSlug": "studbook-bison-bonasus",
+    "role": "participant",
+    "sourceRefs": [
+      "zoo-zoo-berlin-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "programSlug": "studbook-diceros-bicornis",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-berlin"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-budapest"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "eep-hippopotamus-amphibius",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "eep-pan-paniscus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "eep-tragelaphus-eurycerus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "eep-tremarctos-ornatus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "esb-orycteropus-afer",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "programSlug": "studbook-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-frankfurt"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "programSlug": "eep-mandrillus-sphinx",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-gdansk-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "programSlug": "eep-pongo",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-gdansk-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "programSlug": "eep-tragelaphus-eurycerus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-gdansk"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-chrysocyon-brachyurus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-leipzig-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-diceros-bicornis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-equus-przewalskii",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-moschus-moschiferus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-leipzig"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-okapia-johnstoni",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-pongo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "eep-tapirus-indicus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-leipzig-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "programSlug": "studbook-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-leipzig-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "programSlug": "eep-neophron-percnopterus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-praha"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "programSlug": "studbook-equus-przewalskii",
+    "role": "participant",
+    "sourceRefs": [
+      "zoo-zoo-praha-history"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "programSlug": "eep-gorilla-gorilla",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-warsaw-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "programSlug": "eep-loxodonta-africana",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-warsaw-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "programSlug": "eep-tragelaphus-eurycerus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-warsaw-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "programSlug": "eep-tragulus-javanicus",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "programSlug": "eep-varecia-variegata",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-wroclaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-elephas-maximus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-giraffa-camelopardalis",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-panthera-tigris",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-panthera-uncia",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-phascolarctos-cinereus",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "eep-pongo",
+    "role": "participant",
+    "sourceRefs": [
+      "zref-zoo-zurich-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "programSlug": "studbook-oryx-leucoryx",
+    "role": "participant",
+    "sourceRefs": [
+      "zprog-zoo-zurich"
+    ],
+    "verifiedAt": "2026-11-19"
+  }
+]

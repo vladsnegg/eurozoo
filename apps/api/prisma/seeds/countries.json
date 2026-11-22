@@ -1,0 +1,402 @@
+[
+  {
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "name": "Чехия",
+    "nameLocal": "Česko",
+    "slug": "czechia",
+    "euMember": true
+  },
+  {
+    "iso2": "DE",
+    "iso3": "DEU",
+    "name": "Германия",
+    "nameLocal": "Deutschland",
+    "slug": "germany",
+    "euMember": true
+  },
+  {
+    "iso2": "AT",
+    "iso3": "AUT",
+    "name": "Австрия",
+    "nameLocal": "Österreich",
+    "slug": "austria",
+    "euMember": true
+  },
+  {
+    "iso2": "CH",
+    "iso3": "CHE",
+    "name": "Швейцария",
+    "nameLocal": "Schweiz",
+    "slug": "switzerland",
+    "euMember": false
+  },
+  {
+    "iso2": "NL",
+    "iso3": "NLD",
+    "name": "Нидерланды",
+    "nameLocal": "Nederland",
+    "slug": "netherlands",
+    "euMember": true
+  },
+  {
+    "iso2": "BE",
+    "iso3": "BEL",
+    "name": "Бельгия",
+    "nameLocal": "België / Belgique",
+    "slug": "belgium",
+    "euMember": true
+  },
+  {
+    "iso2": "DK",
+    "iso3": "DNK",
+    "name": "Дания",
+    "nameLocal": "Danmark",
+    "slug": "denmark",
+    "euMember": true
+  },
+  {
+    "iso2": "FI",
+    "iso3": "FIN",
+    "name": "Финляндия",
+    "nameLocal": "Suomi",
+    "slug": "finland",
+    "euMember": true
+  },
+  {
+    "iso2": "SE",
+    "iso3": "SWE",
+    "name": "Швеция",
+    "nameLocal": "Sverige",
+    "slug": "sweden",
+    "euMember": true
+  },
+  {
+    "iso2": "NO",
+    "iso3": "NOR",
+    "name": "Норвегия",
+    "nameLocal": "Norge",
+    "slug": "norway",
+    "euMember": false
+  },
+  {
+    "iso2": "PL",
+    "iso3": "POL",
+    "name": "Польша",
+    "nameLocal": "Polska",
+    "slug": "poland",
+    "euMember": true
+  },
+  {
+    "iso2": "EE",
+    "iso3": "EST",
+    "name": "Эстония",
+    "nameLocal": "Eesti",
+    "slug": "estonia",
+    "euMember": true
+  },
+  {
+    "iso2": "HU",
+    "iso3": "HUN",
+    "name": "Венгрия",
+    "nameLocal": "Magyarország",
+    "slug": "hungary",
+    "euMember": true
+  },
+  {
+    "iso2": "PT",
+    "iso3": "PRT",
+    "name": "Португалия",
+    "nameLocal": "Portugal",
+    "slug": "portugal",
+    "euMember": true
+  },
+  {
+    "iso2": "ES",
+    "iso3": "ESP",
+    "name": "Испания",
+    "nameLocal": "España",
+    "slug": "spain",
+    "euMember": true
+  },
+  {
+    "iso2": "FR",
+    "iso3": "FRA",
+    "name": "Франция",
+    "nameLocal": "France",
+    "slug": "france",
+    "euMember": true
+  },
+  {
+    "iso2": "IE",
+    "iso3": "IRL",
+    "name": "Ирландия",
+    "nameLocal": "Éire / Ireland",
+    "slug": "ireland",
+    "euMember": true
+  },
+  {
+    "iso2": "GB",
+    "iso3": "GBR",
+    "name": "Великобритания",
+    "nameLocal": "United Kingdom",
+    "slug": "united-kingdom",
+    "euMember": false
+  },
+  {
+    "iso2": "IT",
+    "iso3": "ITA",
+    "name": "Италия",
+    "nameLocal": "Italia",
+    "slug": "italy",
+    "euMember": true
+  },
+  {
+    "iso2": "GR",
+    "iso3": "GRC",
+    "name": "Греция",
+    "nameLocal": "Ελλάδα",
+    "slug": "greece",
+    "euMember": true
+  },
+  {
+    "iso2": "SK",
+    "iso3": "SVK",
+    "name": "Словакия",
+    "nameLocal": "Slovensko",
+    "slug": "slovakia",
+    "euMember": true
+  },
+  {
+    "iso2": "SI",
+    "iso3": "SVN",
+    "name": "Словения",
+    "nameLocal": "Slovenija",
+    "slug": "slovenia",
+    "euMember": true
+  },
+  {
+    "iso2": "HR",
+    "iso3": "HRV",
+    "name": "Хорватия",
+    "nameLocal": "Hrvatska",
+    "slug": "croatia",
+    "euMember": true
+  },
+  {
+    "iso2": "BG",
+    "iso3": "BGR",
+    "name": "Болгария",
+    "nameLocal": "България",
+    "slug": "bulgaria",
+    "euMember": true
+  },
+  {
+    "iso2": "RO",
+    "iso3": "ROU",
+    "name": "Румыния",
+    "nameLocal": "România",
+    "slug": "romania",
+    "euMember": true
+  },
+  {
+    "iso2": "LV",
+    "iso3": "LVA",
+    "name": "Латвия",
+    "nameLocal": "Latvija",
+    "slug": "latvia",
+    "euMember": true
+  },
+  {
+    "iso2": "LT",
+    "iso3": "LTU",
+    "name": "Литва",
+    "nameLocal": "Lietuva",
+    "slug": "lithuania",
+    "euMember": true
+  },
+  {
+    "iso2": "LU",
+    "iso3": "LUX",
+    "name": "Люксембург",
+    "nameLocal": "Lëtzebuerg",
+    "slug": "luxembourg",
+    "euMember": true
+  },
+  {
+    "iso2": "MT",
+    "iso3": "MLT",
+    "name": "Мальта",
+    "nameLocal": "Malta",
+    "slug": "malta",
+    "euMember": true
+  },
+  {
+    "iso2": "CY",
+    "iso3": "CYP",
+    "name": "Кипр",
+    "nameLocal": "Κύπρος",
+    "slug": "cyprus",
+    "euMember": true
+  },
+  {
+    "iso2": "IS",
+    "iso3": "ISL",
+    "name": "Исландия",
+    "nameLocal": "Ísland",
+    "slug": "iceland",
+    "euMember": false
+  },
+  {
+    "iso2": "UA",
+    "iso3": "UKR",
+    "name": "Украина",
+    "nameLocal": "Україна",
+    "slug": "ukraine",
+    "euMember": false
+  },
+  {
+    "iso2": "BY",
+    "iso3": "BLR",
+    "name": "Беларусь",
+    "nameLocal": "Беларусь",
+    "slug": "belarus",
+    "euMember": false
+  },
+  {
+    "iso2": "MD",
+    "iso3": "MDA",
+    "name": "Молдова",
+    "nameLocal": "Moldova",
+    "slug": "moldova",
+    "euMember": false
+  },
+  {
+    "iso2": "RS",
+    "iso3": "SRB",
+    "name": "Сербия",
+    "nameLocal": "Србија",
+    "slug": "serbia",
+    "euMember": false
+  },
+  {
+    "iso2": "BA",
+    "iso3": "BIH",
+    "name": "Босния и Герцеговина",
+    "nameLocal": "Bosna i Hercegovina",
+    "slug": "bosnia-and-herzegovina",
+    "euMember": false
+  },
+  {
+    "iso2": "ME",
+    "iso3": "MNE",
+    "name": "Черногория",
+    "nameLocal": "Crna Gora",
+    "slug": "montenegro",
+    "euMember": false
+  },
+  {
+    "iso2": "AL",
+    "iso3": "ALB",
+    "name": "Албания",
+    "nameLocal": "Shqipëria",
+    "slug": "albania",
+    "euMember": false
+  },
+  {
+    "iso2": "MK",
+    "iso3": "MKD",
+    "name": "Северная Македония",
+    "nameLocal": "Северна Македонија",
+    "slug": "north-macedonia",
+    "euMember": false
+  },
+  {
+    "iso2": "XK",
+    "iso3": "XKX",
+    "name": "Косово",
+    "nameLocal": "Kosova",
+    "slug": "kosovo",
+    "euMember": false
+  },
+  {
+    "iso2": "TR",
+    "iso3": "TUR",
+    "name": "Турция",
+    "nameLocal": "Türkiye",
+    "slug": "turkey",
+    "euMember": false
+  },
+  {
+    "iso2": "GE",
+    "iso3": "GEO",
+    "name": "Грузия",
+    "nameLocal": "საქართველო",
+    "slug": "georgia",
+    "euMember": false
+  },
+  {
+    "iso2": "AM",
+    "iso3": "ARM",
+    "name": "Армения",
+    "nameLocal": "Հայաստան",
+    "slug": "armenia",
+    "euMember": false
+  },
+  {
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "name": "Азербайджан",
+    "nameLocal": "Azərbaycan",
+    "slug": "azerbaijan",
+    "euMember": false
+  },
+  {
+    "iso2": "AD",
+    "iso3": "AND",
+    "name": "Андорра",
+    "nameLocal": "Andorra",
+    "slug": "andorra",
+    "euMember": false
+  },
+  {
+    "iso2": "MC",
+    "iso3": "MCO",
+    "name": "Монако",
+    "nameLocal": "Monaco",
+    "slug": "monaco",
+    "euMember": false
+  },
+  {
+    "iso2": "LI",
+    "iso3": "LIE",
+    "name": "Лихтенштейн",
+    "nameLocal": "Liechtenstein",
+    "slug": "liechtenstein",
+    "euMember": false
+  },
+  {
+    "iso2": "SM",
+    "iso3": "SMR",
+    "name": "Сан-Марино",
+    "nameLocal": "San Marino",
+    "slug": "san-marino",
+    "euMember": false
+  },
+  {
+    "iso2": "VA",
+    "iso3": "VAT",
+    "name": "Ватикан",
+    "nameLocal": "Città del Vaticano",
+    "slug": "vatican-city",
+    "euMember": false
+  },
+  {
+    "iso2": "RU",
+    "iso3": "RUS",
+    "name": "Россия",
+    "nameLocal": "Россия",
+    "slug": "russia",
+    "euMember": false
+  }
+]

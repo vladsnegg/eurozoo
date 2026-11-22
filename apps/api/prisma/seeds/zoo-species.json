@@ -1,0 +1,2252 @@
+[
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis reticulata",
+    "sourceRefs": [
+      "zref-artis-amsterdam-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Lemur catta",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Nomascus gabriellae",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Panthera onca",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "scientificName": "Varecia rubra",
+    "note": null,
+    "sourceRefs": [
+      "zref-artis-amsterdam-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Choeropsis liberiensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-bioparc-valencia-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-bioparc-valencia-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-bioparc-valencia"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Loxodonta africana",
+    "note": null,
+    "sourceRefs": [
+      "zref-bioparc-valencia-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Mandrillus leucophaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-bioparc-valencia-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Nanger dama",
+    "note": "Подвид: Nanger dama mhorr",
+    "sourceRefs": [
+      "zref-bioparc-valencia-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo bleyenberghi",
+    "sourceRefs": [
+      "zref-bioparc-valencia-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "bioparc-valencia",
+    "scientificName": "Tragelaphus eurycerus",
+    "note": "Подвид: Tragelaphus eurycerus isaaci",
+    "sourceRefs": [
+      "zref-bioparc-valencia-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Ceratotherium simum",
+    "note": null,
+    "sourceRefs": [
+      "zref-burgers-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-burgers-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Giraffa camelopardalis",
+    "note": null,
+    "sourceRefs": [
+      "zref-burgers-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-burgers-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-burgers-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "burgers-zoo",
+    "scientificName": "Trichechus manatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-burgers-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Acinonyx jubatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Panthera onca",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Pteronura brasiliensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "chester-zoo",
+    "scientificName": "Varanus komodoensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-chester-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Ailurus fulgens",
+    "note": "Подвид: Ailurus fulgens fulgens",
+    "sourceRefs": [
+      "zref-dublin-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Daubentonia madagascariensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-dublin-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-dublin-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo persica",
+    "sourceRefs": [
+      "zref-dublin-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-dublin-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Tapirus terrestris",
+    "note": null,
+    "sourceRefs": [
+      "zref-dublin-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Tragelaphus eurycerus",
+    "note": "Подвид: Tragelaphus eurycerus isaaci",
+    "sourceRefs": [
+      "zref-dublin-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "scientificName": "Zalophus californianus",
+    "note": null,
+    "sourceRefs": [
+      "zref-dublin-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-edinburgh-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Equus przewalskii",
+    "note": "Подвид: Equus caballus przewalskii",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis camelopardalis",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Helarctos malayanus",
+    "note": null,
+    "sourceRefs": [
+      "zref-edinburgh-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo persicus",
+    "sourceRefs": [
+      "zref-edinburgh-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Phascolarctos cinereus",
+    "note": "Подвид: Phascolarctos cinereus adustus",
+    "sourceRefs": [
+      "zref-edinburgh-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "scientificName": "Pygoscelis papua",
+    "note": null,
+    "sourceRefs": [
+      "zref-edinburgh-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-hagenbeck"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Equus quagga",
+    "note": "Подвид: Equus quagga chapmani",
+    "sourceRefs": [
+      "zref-hagenbeck-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Mandrillus sphinx",
+    "note": null,
+    "sourceRefs": [
+      "zref-hagenbeck-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-hagenbeck-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-hagenbeck-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Tapirus terrestris",
+    "note": null,
+    "sourceRefs": [
+      "zref-hagenbeck-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hagenbeck",
+    "scientificName": "Ursus maritimus",
+    "note": null,
+    "sourceRefs": [
+      "zref-hagenbeck-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-hellabrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis reticulata",
+    "sourceRefs": [
+      "zref-hellabrunn-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-hellabrunn-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-hellabrunn-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-hellabrunn-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Rhinoceros unicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-hellabrunn-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-hellabrunn-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "hellabrunn",
+    "scientificName": "Ursus maritimus",
+    "note": null,
+    "sourceRefs": [
+      "zref-hellabrunn-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Diceros bicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-koelner-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Equus przewalskii",
+    "note": "Подвид: Equus przewalski przewalski",
+    "sourceRefs": [
+      "zref-koelner-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis antiquorum",
+    "sourceRefs": [
+      "zref-koelner-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-koelner-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo persica",
+    "sourceRefs": [
+      "zref-koelner-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-koelner-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Panthera uncia",
+    "note": "Подвид: Uncia uncia",
+    "sourceRefs": [
+      "zref-koelner-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-koelner-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Bison bonasus",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Giraffa camelopardalis",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-kolmarden-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-kolmarden"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kolmarden",
+    "scientificName": "Tapirus terrestris",
+    "note": null,
+    "sourceRefs": [
+      "zref-kolmarden-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Bubo scandiacus",
+    "note": null,
+    "sourceRefs": [
+      "zref-korkeasaari-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Capra falconeri",
+    "note": "Подвид: Capra falconeri heptneri",
+    "sourceRefs": [
+      "zref-korkeasaari-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Lutra lutra",
+    "note": null,
+    "sourceRefs": [
+      "zref-korkeasaari-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Lynx lynx",
+    "note": null,
+    "sourceRefs": [
+      "zref-korkeasaari-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Panthera pardus",
+    "note": "Подвид: Panthera pardus orientalis",
+    "sourceRefs": [
+      "zref-korkeasaari"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-korkeasaari-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Rangifer tarandus",
+    "note": "Подвид: Rangifer tarandus fennicus",
+    "sourceRefs": [
+      "zref-korkeasaari-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "korkeasaari",
+    "scientificName": "Ursus arctos",
+    "note": "Подвид: Ursus arctos arctos",
+    "sourceRefs": [
+      "zref-korkeasaari-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Acinonyx jubatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Canis lupus",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Giraffa camelopardalis",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris tigris",
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "kristiansand-dyrepark",
+    "scientificName": "Tapirus terrestris",
+    "note": null,
+    "sourceRefs": [
+      "zref-kristiansand-dyrepark-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-lisbon-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Choeropsis liberiensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-lisbon-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa giraffa angolensis",
+    "sourceRefs": [
+      "zref-lisbon-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-lisbon-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Lynx pardinus",
+    "note": null,
+    "sourceRefs": [
+      "zref-lisbon-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-lisbon-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-lisbon-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "lisbon-zoo",
+    "scientificName": "Suricata suricatta",
+    "note": null,
+    "sourceRefs": [
+      "zref-lisbon-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Elaphurus davidianus",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Giraffa camelopardalis",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-pairi-daiza-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Pongo abelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Trachypithecus francoisi",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "pairi-daiza",
+    "scientificName": "Varanus komodoensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-pairi-daiza-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Addax nasomaculatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Canis lupus",
+    "note": "Подвид: Canis lupus signatus",
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Ceratotherium simum",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Lama guanicoe",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Lemur catta",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Struthio camelus",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Suricata suricatta",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "parc-zoologique-paris",
+    "scientificName": "Tapirus terrestris",
+    "note": null,
+    "sourceRefs": [
+      "zref-parc-zoologique-paris-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Aptenodytes patagonicus",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Panthera pardus",
+    "note": "Подвид: Panthera pardus orientalis",
+    "sourceRefs": [
+      "zref-rotterdam-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Phoenicopterus roseus",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Rhinoceros unicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "scientificName": "Tapirus indicus",
+    "note": null,
+    "sourceRefs": [
+      "zref-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Loxodonta africana",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Lynx lynx",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Mustela lutreola",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Panthera pardus",
+    "note": "Подвид: Panthera pardus orientalis",
+    "sourceRefs": [
+      "zref-tallinn-zoo-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris tigris",
+    "sourceRefs": [
+      "zref-tallinn-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tallinn-zoo",
+    "scientificName": "Ursus maritimus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tallinn-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Ailuropoda melanoleuca",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Geronticus eremita",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa reticulata",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Phascolarctos cinereus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Phoenicopterus roseus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "scientificName": "Ursus maritimus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tiergarten-schoenbrunn-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Ailurus fulgens",
+    "note": "Подвид: Ailurus fulgens fulgens",
+    "sourceRefs": [
+      "zref-tierpark-berlin-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Equus grevyi",
+    "note": null,
+    "sourceRefs": [
+      "zref-tierpark-berlin-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-tierpark-berlin-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Loxodonta africana",
+    "note": null,
+    "sourceRefs": [
+      "zref-tierpark-berlin"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-tierpark-berlin-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-tierpark-berlin-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tierpark-berlin-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tierpark-berlin",
+    "scientificName": "Ursus maritimus",
+    "note": null,
+    "sourceRefs": [
+      "zref-tierpark-berlin-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-zoo-barcelona-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-barcelona"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Ursus arctos",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "scientificName": "Varanus komodoensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-barcelona-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Choeropsis liberiensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis antiquorum",
+    "sourceRefs": [
+      "zref-zoo-basel-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-basel-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Loxodonta africana",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Pongo abelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-basel",
+    "scientificName": "Rhinoceros unicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-basel-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Ceratotherium simum",
+    "note": "Подвид: Ceratotherium simum simum",
+    "sourceRefs": [
+      "zref-zoo-beauval-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa reticulata",
+    "sourceRefs": [
+      "zref-zoo-beauval-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-beauval-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-beauval-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-zoo-beauval-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Phascolarctos cinereus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-beauval"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-beauval-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "scientificName": "Trichechus manatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-beauval-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Ailuropoda melanoleuca",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Equus grevyi",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-berlin-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Hippopotamus amphibius",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-zoo-berlin-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-berlin-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-budapest-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Hippopotamus amphibius",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-budapest-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Pongo abelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-budapest-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Pteronura brasiliensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-budapest"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-budapest-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-budapest",
+    "scientificName": "Ursus arctos",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-budapest-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Ceratotherium simum",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Hippopotamus amphibius",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Leucopsar rothschildi",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Panthera pardus",
+    "note": "Подвид: Panthera pardus orientalis",
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "scientificName": "Ursus arctos",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-frankfurt"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Hippopotamus amphibius",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Madoqua kirkii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Orycteropus afer",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Pan paniscus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Suricata suricatta",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Tragelaphus eurycerus",
+    "note": "Подвид: Tragelaphus eurycerus isaaci",
+    "sourceRefs": [
+      "zref-zoo-frankfurt-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "scientificName": "Tremarctos ornatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-frankfurt-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Acinonyx jubatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-gdansk-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Bison bonasus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-gdansk-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Equus quagga",
+    "note": "Подвид: Equus quagga chapmanni",
+    "sourceRefs": [
+      "zref-zoo-gdansk-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-zoo-gdansk"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-gdansk-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo bleyenberghi",
+    "sourceRefs": [
+      "zref-zoo-gdansk-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Pongo pygmaeus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-gdansk-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-gdansk",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-gdansk-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Alligator mississippiensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-leipzig-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Diceros bicornis",
+    "note": "Подвид: Diceros bicornis michaeli",
+    "sourceRefs": [
+      "zref-zoo-leipzig-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Equus przewalskii",
+    "note": "Подвид: Equus caballus przewalskii",
+    "sourceRefs": [
+      "zref-zoo-leipzig-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-zoo-leipzig-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-leipzig"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Pongo abelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-leipzig-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Tapirus indicus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-leipzig-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "scientificName": "Tomistoma schlegelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-leipzig-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Ailurus fulgens",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-praha-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-praha-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Equus przewalskii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-praha-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis camelopardalis",
+    "sourceRefs": [
+      "zref-zoo-praha-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-praha"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Panthera leo",
+    "note": "Подвид: Panthera leo persica",
+    "sourceRefs": [
+      "zref-zoo-praha-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-zoo-praha-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "scientificName": "Spheniscus humboldti",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-praha-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis rothschildi",
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Gorilla gorilla",
+    "note": "Подвид: Gorilla gorilla gorilla",
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Hippopotamus amphibius",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Loxodonta africana",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Panthera leo",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Phoenicopterus chilensis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Rhinoceros unicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "scientificName": "Spheniscus demersus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa camelopardalis reticulata",
+    "sourceRefs": [
+      "zref-zoo-wroclaw-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Okapia johnstoni",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Pan troglodytes",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris sumatrae",
+    "sourceRefs": [
+      "zref-zoo-wroclaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Rhinoceros unicornis",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-wroclaw",
+    "scientificName": "Trichechus manatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-wroclaw-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Ailurus fulgens",
+    "note": "Подвид: Ailurus fulgens fulgens",
+    "sourceRefs": [
+      "zref-zoo-zurich-7"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Elephas maximus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-zurich"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Giraffa camelopardalis",
+    "note": "Подвид: Giraffa reticulata",
+    "sourceRefs": [
+      "zref-zoo-zurich-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Panthera tigris",
+    "note": "Подвид: Panthera tigris altaica",
+    "sourceRefs": [
+      "zref-zoo-zurich-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Panthera uncia",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-zurich-3"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Phascolarctos cinereus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-zurich-5"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Pongo abelii",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-zurich-4"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "scientificName": "Tremarctos ornatus",
+    "note": null,
+    "sourceRefs": [
+      "zref-zoo-zurich-6"
+    ],
+    "verifiedAt": "2026-11-19"
+  }
+]

@@ -1,0 +1,2781 @@
+[
+  {
+    "countryIso2": "CZ",
+    "name": "Прага",
+    "slug": "praha",
+    "lat": 50.0755,
+    "lng": 14.4378
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Берлин",
+    "slug": "berlin",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Лейпциг",
+    "slug": "leipzig",
+    "lat": 51.3397,
+    "lng": 12.3731
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Кёльн",
+    "slug": "koeln",
+    "lat": 50.9375,
+    "lng": 6.9603
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Франкфурт-на-Майне",
+    "slug": "frankfurt-am-main",
+    "lat": 50.1109,
+    "lng": 8.6821
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Мюнхен",
+    "slug": "muenchen",
+    "lat": 48.1351,
+    "lng": 11.582
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Гамбург",
+    "slug": "hamburg",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Вена",
+    "slug": "wien",
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Базель",
+    "slug": "basel",
+    "lat": 47.5596,
+    "lng": 7.5886
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Цюрих",
+    "slug": "zurich",
+    "lat": 47.3769,
+    "lng": 8.5417
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Берн",
+    "slug": "bern",
+    "lat": 46.948,
+    "lng": 7.4474
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Амстердам",
+    "slug": "amsterdam",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Арнем",
+    "slug": "arnhem",
+    "lat": 51.9851,
+    "lng": 5.8987
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Роттердам",
+    "slug": "rotterdam",
+    "lat": 51.9244,
+    "lng": 4.4777
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Антверпен",
+    "slug": "antwerpen",
+    "lat": 51.2194,
+    "lng": 4.4025
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Брюжелет",
+    "slug": "brugelette",
+    "lat": 50.5958,
+    "lng": 3.8539
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Брюссель",
+    "slug": "brussels",
+    "lat": 50.8503,
+    "lng": 4.3517
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Копенгаген",
+    "slug": "copenhagen",
+    "lat": 55.6761,
+    "lng": 12.5683
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Хельсинки",
+    "slug": "helsinki",
+    "lat": 60.1699,
+    "lng": 24.9384
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Норрчёпинг",
+    "slug": "norrkoping",
+    "lat": 58.5877,
+    "lng": 16.1924
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Стокгольм",
+    "slug": "stockholm",
+    "lat": 59.3293,
+    "lng": 18.0686
+  },
+  {
+    "countryIso2": "NO",
+    "name": "Кристиансанн",
+    "slug": "kristiansand",
+    "lat": 58.1467,
+    "lng": 7.9956
+  },
+  {
+    "countryIso2": "NO",
+    "name": "Осло",
+    "slug": "oslo",
+    "lat": 59.9139,
+    "lng": 10.7522
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Варшава",
+    "slug": "warsaw",
+    "lat": 52.2297,
+    "lng": 21.0122
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Вроцлав",
+    "slug": "wroclaw",
+    "lat": 51.1079,
+    "lng": 17.0385
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Гданьск",
+    "slug": "gdansk",
+    "lat": 54.352,
+    "lng": 18.6466
+  },
+  {
+    "countryIso2": "EE",
+    "name": "Таллин",
+    "slug": "tallinn",
+    "lat": 59.437,
+    "lng": 24.7536
+  },
+  {
+    "countryIso2": "HU",
+    "name": "Будапешт",
+    "slug": "budapest",
+    "lat": 47.4979,
+    "lng": 19.0402
+  },
+  {
+    "countryIso2": "PT",
+    "name": "Лиссабон",
+    "slug": "lisboa",
+    "lat": 38.7223,
+    "lng": -9.1393
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Барселона",
+    "slug": "barcelona",
+    "lat": 41.3874,
+    "lng": 2.1686
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Валенсия",
+    "slug": "valencia",
+    "lat": 39.4699,
+    "lng": -0.3763
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Мадрид",
+    "slug": "madrid",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Париж",
+    "slug": "paris",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сент-Эньян",
+    "slug": "saint-aignan",
+    "lat": 47.2681,
+    "lng": 1.3761
+  },
+  {
+    "countryIso2": "IE",
+    "name": "Дублин",
+    "slug": "dublin",
+    "lat": 53.3498,
+    "lng": -6.2603
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Честер",
+    "slug": "chester",
+    "lat": 53.1934,
+    "lng": -2.8931
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Эдинбург",
+    "slug": "edinburgh",
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Лондон",
+    "slug": "london",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Рим",
+    "slug": "rome",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "countryIso2": "GR",
+    "name": "Афины",
+    "slug": "athens",
+    "lat": 37.9838,
+    "lng": 23.7275
+  },
+  {
+    "countryIso2": "SK",
+    "name": "Братислава",
+    "slug": "bratislava",
+    "lat": 48.1486,
+    "lng": 17.1077
+  },
+  {
+    "countryIso2": "SI",
+    "name": "Любляна",
+    "slug": "ljubljana",
+    "lat": 46.0569,
+    "lng": 14.5058
+  },
+  {
+    "countryIso2": "HR",
+    "name": "Загреб",
+    "slug": "zagreb",
+    "lat": 45.815,
+    "lng": 15.9819
+  },
+  {
+    "countryIso2": "BG",
+    "name": "София",
+    "slug": "sofia",
+    "lat": 42.6977,
+    "lng": 23.3219
+  },
+  {
+    "countryIso2": "RO",
+    "name": "Бухарест",
+    "slug": "bucharest",
+    "lat": 44.4268,
+    "lng": 26.1025
+  },
+  {
+    "countryIso2": "LV",
+    "name": "Рига",
+    "slug": "riga",
+    "lat": 56.9496,
+    "lng": 24.1052
+  },
+  {
+    "countryIso2": "LT",
+    "name": "Вильнюс",
+    "slug": "vilnius",
+    "lat": 54.6872,
+    "lng": 25.2797
+  },
+  {
+    "countryIso2": "LT",
+    "name": "Каунас",
+    "slug": "kaunas",
+    "lat": 54.8985,
+    "lng": 23.9036
+  },
+  {
+    "countryIso2": "LU",
+    "name": "Люксембург",
+    "slug": "luxembourg",
+    "lat": 49.6116,
+    "lng": 6.1319
+  },
+  {
+    "countryIso2": "MT",
+    "name": "Валлетта",
+    "slug": "valletta",
+    "lat": 35.8989,
+    "lng": 14.5146
+  },
+  {
+    "countryIso2": "CY",
+    "name": "Никосия",
+    "slug": "nicosia",
+    "lat": 35.1856,
+    "lng": 33.3823
+  },
+  {
+    "countryIso2": "IS",
+    "name": "Рейкьявик",
+    "slug": "reykjavik",
+    "lat": 64.1466,
+    "lng": -21.9426
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Киев",
+    "slug": "kyiv",
+    "lat": 50.4501,
+    "lng": 30.5234
+  },
+  {
+    "countryIso2": "BY",
+    "name": "Минск",
+    "slug": "minsk",
+    "lat": 53.9006,
+    "lng": 27.559
+  },
+  {
+    "countryIso2": "MD",
+    "name": "Кишинёв",
+    "slug": "chisinau",
+    "lat": 47.0105,
+    "lng": 28.8638
+  },
+  {
+    "countryIso2": "RS",
+    "name": "Белград",
+    "slug": "belgrade",
+    "lat": 44.7866,
+    "lng": 20.4489
+  },
+  {
+    "countryIso2": "BA",
+    "name": "Сараево",
+    "slug": "sarajevo",
+    "lat": 43.8563,
+    "lng": 18.4131
+  },
+  {
+    "countryIso2": "ME",
+    "name": "Подгорица",
+    "slug": "podgorica",
+    "lat": 42.4304,
+    "lng": 19.2594
+  },
+  {
+    "countryIso2": "AL",
+    "name": "Тирана",
+    "slug": "tirana",
+    "lat": 41.3275,
+    "lng": 19.8187
+  },
+  {
+    "countryIso2": "MK",
+    "name": "Скопье",
+    "slug": "skopje",
+    "lat": 41.9973,
+    "lng": 21.428
+  },
+  {
+    "countryIso2": "XK",
+    "name": "Приштина",
+    "slug": "pristina",
+    "lat": 42.6629,
+    "lng": 21.1655
+  },
+  {
+    "countryIso2": "TR",
+    "name": "Анкара",
+    "slug": "ankara",
+    "lat": 39.9334,
+    "lng": 32.8597
+  },
+  {
+    "countryIso2": "GE",
+    "name": "Тбилиси",
+    "slug": "tbilisi",
+    "lat": 41.7151,
+    "lng": 44.8271
+  },
+  {
+    "countryIso2": "AM",
+    "name": "Ереван",
+    "slug": "yerevan",
+    "lat": 40.1792,
+    "lng": 44.4991
+  },
+  {
+    "countryIso2": "AZ",
+    "name": "Баку",
+    "slug": "baku",
+    "lat": 40.4093,
+    "lng": 49.8671
+  },
+  {
+    "countryIso2": "AD",
+    "name": "Андорра-ла-Велья",
+    "slug": "andorra-la-vella",
+    "lat": 42.5063,
+    "lng": 1.5218
+  },
+  {
+    "countryIso2": "MC",
+    "name": "Монако",
+    "slug": "monaco",
+    "lat": 43.7384,
+    "lng": 7.4246
+  },
+  {
+    "countryIso2": "LI",
+    "name": "Вадуц",
+    "slug": "vaduz",
+    "lat": 47.141,
+    "lng": 9.5209
+  },
+  {
+    "countryIso2": "SM",
+    "name": "Сан-Марино",
+    "slug": "san-marino",
+    "lat": 43.9424,
+    "lng": 12.4578
+  },
+  {
+    "countryIso2": "VA",
+    "name": "Ватикан",
+    "slug": "vatican-city",
+    "lat": 41.9029,
+    "lng": 12.4534
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Ялта",
+    "slug": "yalta",
+    "lat": 44.4952,
+    "lng": 34.1663
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Белогорск",
+    "slug": "belogorsk",
+    "lat": 45.0544,
+    "lng": 34.6014
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Харьков",
+    "slug": "kharkiv",
+    "lat": 49.9935,
+    "lng": 36.2304
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Одесса",
+    "slug": "odesa",
+    "lat": 46.4825,
+    "lng": 30.7233
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Львов",
+    "slug": "lviv",
+    "lat": 49.8397,
+    "lng": 24.0297
+  },
+  {
+    "countryIso2": "BY",
+    "name": "Гродно",
+    "slug": "grodno",
+    "lat": 53.6667,
+    "lng": 23.8333
+  },
+  {
+    "countryIso2": "GR",
+    "name": "Спата",
+    "slug": "spata",
+    "lat": 37.961,
+    "lng": 23.914
+  },
+  {
+    "countryIso2": "CY",
+    "name": "Пафос",
+    "slug": "paphos",
+    "lat": 34.7754,
+    "lng": 32.4245
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Москва",
+    "slug": "moscow",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Санкт-Петербург",
+    "slug": "saint-petersburg",
+    "lat": 59.9343,
+    "lng": 30.3351
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Калининград",
+    "slug": "kaliningrad",
+    "lat": 54.7104,
+    "lng": 20.4522
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Казань",
+    "slug": "kazan",
+    "lat": 55.7963,
+    "lng": 49.1088
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Пермь",
+    "slug": "perm",
+    "lat": 58.0105,
+    "lng": 56.2502
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Гельзенкирхен",
+    "slug": "gelzenkirkhen-de",
+    "lat": 51.5441,
+    "lng": 7.11094
+  },
+  {
+    "countryIso2": "MK",
+    "name": "Битола",
+    "slug": "bitola-mk",
+    "lat": 41.0146,
+    "lng": 21.3415
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Sotenäs Municipality",
+    "slug": "sotenas-municipality-se",
+    "lat": 58.441111111,
+    "lng": 11.435
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Мангейм",
+    "slug": "mangeym-de",
+    "lat": 49.4827,
+    "lng": 8.4974
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дуйсбург",
+    "slug": "duysburg-de",
+    "lat": 51.4353,
+    "lng": 6.80528
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Митте",
+    "slug": "mitte-de",
+    "lat": 52.380537,
+    "lng": 9.771062
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Кайзерслаутерн",
+    "slug": "kayzerslautern-de",
+    "lat": 49.4661,
+    "lng": 7.68056
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Рейнланд-Пфальц",
+    "slug": "reynland-pfalts-de",
+    "lat": 49.2028,
+    "lng": 8.11083
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Мюлуз",
+    "slug": "myuluz-fr",
+    "lat": 47.73616667,
+    "lng": 7.34794444
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Оснабрюк",
+    "slug": "osnabryuk-de",
+    "lat": 52.25,
+    "lng": 8.07028
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Nadodrze",
+    "slug": "nadodrze-pl",
+    "lat": 50.65504,
+    "lng": 17.92447
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Q1333329",
+    "slug": "q1333329-de",
+    "lat": 54.0781,
+    "lng": 12.0904
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Зальцбург",
+    "slug": "zaltsburg-at",
+    "lat": 47.756824,
+    "lng": 13.064075
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Вупперталь",
+    "slug": "vuppertal-de",
+    "lat": 51.2397,
+    "lng": 7.11222
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Magliaso",
+    "slug": "magliaso-ch",
+    "lat": 45.985,
+    "lng": 8.87666667
+  },
+  {
+    "countryIso2": "PT",
+    "name": "Лагуш",
+    "slug": "lagush-pt",
+    "lat": 37.145172209,
+    "lng": -8.766347932
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Бремерхафен",
+    "slug": "bremerkhafen-de",
+    "lat": 53.5447,
+    "lng": 8.57028
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Во",
+    "slug": "vo-ch",
+    "lat": 46.565,
+    "lng": 6.77388889
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Амневиль",
+    "slug": "amnevil-fr",
+    "lat": 49.24611111,
+    "lng": 6.13916667
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ле-Мат",
+    "slug": "le-mat-fr",
+    "lat": 45.68752778,
+    "lng": -1.16691667
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Неаполь",
+    "slug": "neapol-it",
+    "lat": 40.8327,
+    "lng": 14.23577
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Эберсвальде",
+    "slug": "ebersvalde-de",
+    "lat": 52.8222,
+    "lng": 13.7822
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Дзельница VII Звежинец",
+    "slug": "dzelnitsa-vii-zvezhinets-pl",
+    "lat": 50.054581,
+    "lng": 19.853196
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Магдебург",
+    "slug": "magdeburg-de",
+    "lat": 52.168056,
+    "lng": 11.641111
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Нойнкирхен",
+    "slug": "noynkirkhen-de",
+    "lat": 49.3453,
+    "lng": 7.20583
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Карлсруэ",
+    "slug": "karlsrue-de",
+    "lat": 48.9978,
+    "lng": 8.40167
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Уайт",
+    "slug": "uayt-gb",
+    "lat": 50.6558,
+    "lng": -1.22
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Мёрбюлонга",
+    "slug": "merbyulonga-se",
+    "lat": 56.670555555,
+    "lng": 16.490277777
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Ахен-Митте",
+    "slug": "akhen-mitte-de",
+    "lat": 50.76311,
+    "lng": 6.1153
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Зегеберг",
+    "slug": "zegeberg-de",
+    "lat": 53.9492,
+    "lng": 10.0288
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Данстейбл",
+    "slug": "dansteybl-gb",
+    "lat": 51.849722222,
+    "lng": -0.544166666
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Клагенфурт-ам-Вёртерзе",
+    "slug": "klagenfurt-am-verterze-at",
+    "lat": 46.6199,
+    "lng": 14.2656
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Лилль",
+    "slug": "lill-fr",
+    "lat": 50.6381,
+    "lng": 3.04694
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Хилваренбек",
+    "slug": "khilvarenbek-nl",
+    "lat": 51.519444,
+    "lng": 5.109444
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Гелдроп-Мирло",
+    "slug": "geldrop-mirlo-nl",
+    "lat": 51.454435,
+    "lng": 5.582943
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Саарбрюккен",
+    "slug": "saarbryukken-de",
+    "lat": 49.2308,
+    "lng": 7.03958
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Пьеррлатт",
+    "slug": "perrlatt-fr",
+    "lat": 44.356944444,
+    "lng": 4.704444444
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Лието",
+    "slug": "lieto-fi",
+    "lat": 60.5671,
+    "lng": 22.4343
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Амерсфорт",
+    "slug": "amersfort-nl",
+    "lat": 52.150556,
+    "lng": 5.345
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Ренен",
+    "slug": "renen-nl",
+    "lat": 51.956111,
+    "lng": 5.590833
+  },
+  {
+    "countryIso2": "FR",
+    "name": "6-й округ Лиона",
+    "slug": "6-y-okrug-liona-fr",
+    "lat": 45.7774,
+    "lng": 4.85543
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Twycross",
+    "slug": "twycross-gb",
+    "lat": 52.652777777,
+    "lng": -1.529722222
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Эрфурт",
+    "slug": "erfurt-de",
+    "lat": 51.0233,
+    "lng": 11.0278
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Бернбург",
+    "slug": "bernburg-de",
+    "lat": 51.7942,
+    "lng": 11.7281
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Делич",
+    "slug": "delich-de",
+    "lat": 51.527833333,
+    "lng": 12.3175
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Клеве",
+    "slug": "kleve-de",
+    "lat": 51.7991,
+    "lng": 6.12186
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Ноймюнстер",
+    "slug": "noymyunster-de",
+    "lat": 54.0917,
+    "lng": 9.945
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Хаг",
+    "slug": "khag-at",
+    "lat": 48.1023,
+    "lng": 14.5574
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Вагенфельд",
+    "slug": "vagenfeld-de",
+    "lat": 52.5364,
+    "lng": 8.70944
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Истад",
+    "slug": "istad-se",
+    "lat": 55.486272,
+    "lng": 13.719252
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дармштадт",
+    "slug": "darmshtadt-de",
+    "lat": 49.8664,
+    "lng": 8.68278
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Пльзень",
+    "slug": "plzen-cz",
+    "lat": 49.7578,
+    "lng": 13.36
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Ньюки",
+    "slug": "nyuki-gb",
+    "lat": 50.4114,
+    "lng": -5.0694
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Гондорф",
+    "slug": "gondorf-de",
+    "lat": 49.9628,
+    "lng": 6.6175
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Инсбрук",
+    "slug": "insbruk-at",
+    "lat": 47.2806,
+    "lng": 11.3981
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Арт",
+    "slug": "art-ch",
+    "lat": 47.0503,
+    "lng": 8.55306
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Котбус",
+    "slug": "kotbus-de",
+    "lat": 51.7444,
+    "lng": 14.3531
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Шлезвиг-Гольштейн",
+    "slug": "shlezvig-golshteyn-de",
+    "lat": 54.40305556,
+    "lng": 9.97638889
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сижан",
+    "slug": "sizhan-fr",
+    "lat": 43.068135,
+    "lng": 2.953563
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Хиршфельд",
+    "slug": "khirshfeld-de",
+    "lat": 50.6278,
+    "lng": 12.4403
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Райхенбранд",
+    "slug": "raykhenbrand-de",
+    "lat": 50.8183,
+    "lng": 12.835
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Хайленд",
+    "slug": "khaylend-gb",
+    "lat": 57.1111,
+    "lng": -3.97472
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Ханкенсбюттель",
+    "slug": "khankensbyuttel-de",
+    "lat": 52.7314,
+    "lng": 10.62
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Перлеберг",
+    "slug": "perleberg-de",
+    "lat": 53.0639,
+    "lng": 11.8583
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Иккермюнде",
+    "slug": "ikkermyunde-de",
+    "lat": 53.7313,
+    "lng": 14.028
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ла-Лонд-ле-Мор",
+    "slug": "la-lond-le-mor-fr",
+    "lat": 43.147904,
+    "lng": 6.254461
+  },
+  {
+    "countryIso2": "NO",
+    "name": "Барду",
+    "slug": "bardu-no",
+    "lat": 68.6917,
+    "lng": 18.1098
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Вайле",
+    "slug": "vayle-dk",
+    "lat": 55.81166667,
+    "lng": 9.35194444
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Бален",
+    "slug": "balen-be",
+    "lat": 51.12756,
+    "lng": 5.14678
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Торки",
+    "slug": "torki-gb",
+    "lat": 50.458,
+    "lng": -3.525
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Антиб",
+    "slug": "antib-fr",
+    "lat": 43.615,
+    "lng": 7.125
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Дорсет",
+    "slug": "dorset-gb",
+    "lat": 50.6973,
+    "lng": -2.2177
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Кронберг",
+    "slug": "kronberg-de",
+    "lat": 50.183333333,
+    "lng": 8.486388888
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Land van Cuijk",
+    "slug": "land-van-cuijk-nl",
+    "lat": 51.57722,
+    "lng": 5.94
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Северная Ирландия",
+    "slug": "severnaya-irlandiya-gb",
+    "lat": 54.656,
+    "lng": -5.942
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дилленбург",
+    "slug": "dillenburg-de",
+    "lat": 50.7186,
+    "lng": 8.24083
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Бад-Мергентхайм",
+    "slug": "bad-mergentkhaym-de",
+    "lat": 49.4683,
+    "lng": 9.79694
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Пойнг",
+    "slug": "poyng-de",
+    "lat": 48.1756,
+    "lng": 11.8303
+  },
+  {
+    "countryIso2": "SK",
+    "name": "Кошице",
+    "slug": "koshitse-sk",
+    "lat": 48.78361111,
+    "lng": 21.20388889
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Кантабрия",
+    "slug": "kantabriya-es",
+    "lat": 43.35,
+    "lng": -3.85222222
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Двур-Кралове-над-Лабем",
+    "slug": "dvur-kralove-nad-labem-cz",
+    "lat": 50.43028,
+    "lng": 15.80139
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Лере",
+    "slug": "lere-de",
+    "lat": 52.3061,
+    "lng": 10.665
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Le Monde Sauvage",
+    "slug": "le-monde-sauvage-be",
+    "lat": 50.5,
+    "lng": 5.741666666
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Туари",
+    "slug": "tuari-fr",
+    "lat": 48.86388889,
+    "lng": 1.79583333
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Стаффордшир",
+    "slug": "staffordshir-gb",
+    "lat": 52.6108,
+    "lng": -1.71333
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Сюддюрс",
+    "slug": "syuddyurs-dk",
+    "lat": 56.344539,
+    "lng": 10.65395
+  },
+  {
+    "countryIso2": "SK",
+    "name": "Стропков",
+    "slug": "stropkov-sk",
+    "lat": 49.2047,
+    "lng": 21.6514
+  },
+  {
+    "countryIso2": "SK",
+    "name": "Бойнице",
+    "slug": "boynitse-sk",
+    "lat": 48.78055556,
+    "lng": 18.57694444
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Хёэр",
+    "slug": "kheer-se",
+    "lat": 55.9630984,
+    "lng": 13.5366583
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Тулон",
+    "slug": "tulon-fr",
+    "lat": 43.153,
+    "lng": 5.94049
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Помеция",
+    "slug": "pometsiya-it",
+    "lat": 41.633611111,
+    "lng": 12.456666666
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Трегомёр",
+    "slug": "tregomer-fr",
+    "lat": 48.584444444,
+    "lng": -2.882222222
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Эхтяри",
+    "slug": "ekhtyari-fi",
+    "lat": 62.53888889,
+    "lng": 24.17611111
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Пистоя",
+    "slug": "pistoya-it",
+    "lat": 43.929621468,
+    "lng": 10.865653415
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Вальбрембо",
+    "slug": "valbrembo-it",
+    "lat": 45.715915,
+    "lng": 9.598307
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Белгородский зоопарк",
+    "slug": "belgorodskiy-zoopark-ru",
+    "lat": 50.553,
+    "lng": 36.641333333
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Воронеж",
+    "slug": "voronezh-ru",
+    "lat": 51.63944444,
+    "lng": 39.24361111
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Октябрьский район",
+    "slug": "oktyabrskiy-rayon-ru",
+    "lat": 56.86583,
+    "lng": 53.17291
+  },
+  {
+    "countryIso2": "LV",
+    "name": "Даугавпилс",
+    "slug": "daugavpils-lv",
+    "lat": 55.873859,
+    "lng": 26.509769
+  },
+  {
+    "countryIso2": "BY",
+    "name": "Могилёвский зоосад",
+    "slug": "mogilevskiy-zoosad-by",
+    "lat": 53.86333333,
+    "lng": 30.26777778
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Бест",
+    "slug": "best-nl",
+    "lat": 51.5292,
+    "lng": 5.4005
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Рануа",
+    "slug": "ranua-fi",
+    "lat": 65.94222222,
+    "lng": 26.46833333
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Ростов-на-Дону",
+    "slug": "rostov-na-donu-ru",
+    "lat": 47.2526,
+    "lng": 39.671
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Zdrowie-Mania",
+    "slug": "zdrowie-mania-pl",
+    "lat": 51.761094444,
+    "lng": 19.412197222
+  },
+  {
+    "countryIso2": "RO",
+    "name": "Timișoara Zoological Garden",
+    "slug": "timisoara-zoological-garden-ro",
+    "lat": 45.781771,
+    "lng": 21.267815
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Гибралтар",
+    "slug": "gibraltar-gb",
+    "lat": 36.130576,
+    "lng": -5.350263
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Brynsiencyn",
+    "slug": "brynsiencyn-gb",
+    "lat": 53.1642,
+    "lng": -4.27883
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Аграте-Контурбия",
+    "slug": "agrate-konturbiya-it",
+    "lat": 45.67497,
+    "lng": 8.58841
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Рокамадур",
+    "slug": "rokamadur-fr",
+    "lat": 44.801858719,
+    "lng": 1.612450791
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Ольборг",
+    "slug": "olborg-dk",
+    "lat": 57.0368,
+    "lng": 9.8982
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Китеэ",
+    "slug": "kitee-fi",
+    "lat": 62.04583333,
+    "lng": 29.89833333
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Бурос",
+    "slug": "buros-se",
+    "lat": 57.74138889,
+    "lng": 12.94916667
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сен-Леон",
+    "slug": "sen-leon-fr",
+    "lat": 44.215111111,
+    "lng": 2.988805555
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Courzieu",
+    "slug": "courzieu-fr",
+    "lat": 45.7518,
+    "lng": 4.60064
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Лез-Уш",
+    "slug": "lez-ush-fr",
+    "lat": 45.9074564,
+    "lng": 6.8181532
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Род",
+    "slug": "rod-fr",
+    "lat": 48.7719,
+    "lng": 6.89583
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Обтер",
+    "slug": "obter-fr",
+    "lat": 46.8852,
+    "lng": 1.07629
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Аржелес-Газост",
+    "slug": "arzheles-gazost-fr",
+    "lat": 43.0154,
+    "lng": -0.0977
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Lumigny-Nesles-Ormeaux",
+    "slug": "lumigny-nesles-ormeaux-fr",
+    "lat": 48.709456,
+    "lng": 2.956738
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Horningsham",
+    "slug": "horningsham-gb",
+    "lat": 51.19,
+    "lng": -2.261
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Эрмиваль-ле-Во",
+    "slug": "ermival-le-vo-fr",
+    "lat": 49.1821,
+    "lng": 0.311608
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Le Guerno",
+    "slug": "le-guerno-fr",
+    "lat": 47.5951,
+    "lng": -2.39549
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Saint-Léger-de-Peyre",
+    "slug": "saint-leger-de-peyre-fr",
+    "lat": 44.3623,
+    "lng": 3.16569
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Буссоленго",
+    "slug": "bussolengo-it",
+    "lat": 45.4786,
+    "lng": 10.7969
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Port-Saint-Père",
+    "slug": "port-saint-pere-fr",
+    "lat": 47.11833333,
+    "lng": -1.76361111
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Погр",
+    "slug": "pogr-fr",
+    "lat": 45.2691,
+    "lng": 4.717
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Хожув",
+    "slug": "khozhuv-pl",
+    "lat": 50.281661,
+    "lng": 18.993473
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Карнуль",
+    "slug": "karnul-fr",
+    "lat": 43.30159,
+    "lng": 6.21043
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Силезская Острава",
+    "slug": "silezskaya-ostrava-cz",
+    "lat": 49.8456,
+    "lng": 18.3251
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Асон",
+    "slug": "ason-fr",
+    "lat": 43.1284,
+    "lng": -0.268153
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Сити-оф-Кентербери",
+    "slug": "siti-of-kenterberi-gb",
+    "lat": 51.2667,
+    "lng": 1.15
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ла-Флеш",
+    "slug": "la-flesh-fr",
+    "lat": 47.6758,
+    "lng": -0.0457
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Пон-Скорф",
+    "slug": "pon-skorf-fr",
+    "lat": 47.8103,
+    "lng": -3.40705
+  },
+  {
+    "countryIso2": "FI",
+    "name": "Лиминка",
+    "slug": "liminka-fi",
+    "lat": 64.721667,
+    "lng": 25.362778
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Барнстапл",
+    "slug": "barnstapl-gb",
+    "lat": 51.148,
+    "lng": -3.924
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Портаферри",
+    "slug": "portaferri-gb",
+    "lat": 54.382,
+    "lng": -5.549
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Kilgetty/Begelly",
+    "slug": "kilgetty-begelly-gb",
+    "lat": 51.7433,
+    "lng": -4.73027
+  },
+  {
+    "countryIso2": "IE",
+    "name": "Fota Wildlife Park",
+    "slug": "fota-wildlife-park-ie",
+    "lat": 51.889585,
+    "lng": -8.311276
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Hamerton",
+    "slug": "hamerton-gb",
+    "lat": 52.409,
+    "lng": -0.328
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Форест-оф-Дин",
+    "slug": "forest-of-din-gb",
+    "lat": 51.913321439,
+    "lng": -2.428042674
+  },
+  {
+    "countryIso2": "TR",
+    "name": "Шахинбей",
+    "slug": "shakhinbey-tr",
+    "lat": 37.03967778,
+    "lng": 37.29526944
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Сантильяна-дель-Мар",
+    "slug": "santilyana-del-mar-es",
+    "lat": 43.3811,
+    "lng": -4.10289
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Прескот",
+    "slug": "preskot-gb",
+    "lat": 53.442,
+    "lng": -2.812
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Монпелье",
+    "slug": "monpele-fr",
+    "lat": 43.639513888,
+    "lng": 3.873847222
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Норфолк",
+    "slug": "norfolk-gb",
+    "lat": 52.4447,
+    "lng": 1.025
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Западный Беркшир",
+    "slug": "zapadnyy-berkshir-gb",
+    "lat": 51.5,
+    "lng": -1.10833
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Bourton-on-the-Water",
+    "slug": "bourton-on-the-water-gb",
+    "lat": 51.8803,
+    "lng": -1.75417
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Бирмингем",
+    "slug": "birmingem-gb",
+    "lat": 52.4505,
+    "lng": -1.91043
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Лик",
+    "slug": "lik-gb",
+    "lat": 53.0611,
+    "lng": -1.92361
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Стерлинг",
+    "slug": "sterling-gb",
+    "lat": 56.165,
+    "lng": -4.038
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Борнхольм",
+    "slug": "bornkholm-dk",
+    "lat": 55.0637,
+    "lng": 15.119
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Borth",
+    "slug": "borth-gb",
+    "lat": 52.4856,
+    "lng": -4.044
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Колчестер",
+    "slug": "kolchester-gb",
+    "lat": 51.8625,
+    "lng": 0.832778
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Gweek",
+    "slug": "gweek-gb",
+    "lat": 50.092,
+    "lng": -5.20263
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Оксфордшир",
+    "slug": "oksfordshir-gb",
+    "lat": 51.7736,
+    "lng": -1.65417
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Дартмур",
+    "slug": "dartmur-gb",
+    "lat": 50.407,
+    "lng": -3.997
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Восточный Суссекс",
+    "slug": "vostochnyy-susseks-gb",
+    "lat": 50.8239,
+    "lng": 0.163
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Дадли",
+    "slug": "dadli-gb",
+    "lat": 52.513938888,
+    "lng": -2.077133333
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Лу",
+    "slug": "lu-gb",
+    "lat": 50.3654,
+    "lng": -4.4136
+  },
+  {
+    "countryIso2": "NO",
+    "name": "Намсскуган",
+    "slug": "namsskugan-no",
+    "lat": 64.7431,
+    "lng": 12.847777777
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Almondsbury",
+    "slug": "almondsbury-gb",
+    "lat": 51.5296,
+    "lng": -2.61601
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Гэмпшир",
+    "slug": "gempshir-gb",
+    "lat": 50.886,
+    "lng": -1.4983
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Оденсе",
+    "slug": "odense-dk",
+    "lat": 55.378,
+    "lng": 10.373
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Броксборн",
+    "slug": "broksborn-gb",
+    "lat": 51.7421,
+    "lng": -0.053988
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Апелдорн",
+    "slug": "apeldorn-nl",
+    "lat": 52.215556,
+    "lng": 5.918889
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Брауншвейг",
+    "slug": "braunshveyg-de",
+    "lat": 52.2219,
+    "lng": 10.515
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Нюрнберг",
+    "slug": "nyurnberg-de",
+    "lat": 49.447367421,
+    "lng": 11.144819921
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Рапперсвиль-Йона",
+    "slug": "rappersvil-yona-ch",
+    "lat": 47.223652,
+    "lng": 8.821989
+  },
+  {
+    "countryIso2": "RS",
+    "name": "Palić Zoo",
+    "slug": "palic-zoo-rs",
+    "lat": 46.0989625,
+    "lng": 19.7498345
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Блэкпул",
+    "slug": "blekpul-gb",
+    "lat": 53.8156,
+    "lng": -3.01278
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Хайт",
+    "slug": "khayt-gb",
+    "lat": 51.076111111,
+    "lng": 0.999444444
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Циттау",
+    "slug": "tsittau-de",
+    "lat": 50.9014,
+    "lng": 14.8325
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Гёрлиц",
+    "slug": "gerlits-de",
+    "lat": 51.1421,
+    "lng": 14.9801
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Алфен-ан-ден-Рейн",
+    "slug": "alfen-an-den-reyn-nl",
+    "lat": 52.139722,
+    "lng": 4.649167
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Ханштедт",
+    "slug": "khanshtedt-de",
+    "lat": 53.2367,
+    "lng": 10.0443
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Альден",
+    "slug": "alden-de",
+    "lat": 52.7456,
+    "lng": 9.61667
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Мюнстер",
+    "slug": "myunster-de",
+    "lat": 51.9464,
+    "lng": 7.59167
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Крефельд",
+    "slug": "krefeld-de",
+    "lat": 51.3409,
+    "lng": 6.60156
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Виго",
+    "slug": "vigo-es",
+    "lat": 42.2484,
+    "lng": -8.6755
+  },
+  {
+    "countryIso2": "HR",
+    "name": "Kuterevo",
+    "slug": "kuterevo-hr",
+    "lat": 44.8205,
+    "lng": 15.1388
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Раннерс",
+    "slug": "ranners-dk",
+    "lat": 56.45694444,
+    "lng": 10.0325
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Арбесбах",
+    "slug": "arbesbakh-at",
+    "lat": 48.4807,
+    "lng": 14.9267
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Орса",
+    "slug": "orsa-se",
+    "lat": 61.2075,
+    "lng": 14.540278
+  },
+  {
+    "countryIso2": "RO",
+    "name": "Тыргу-Муреш",
+    "slug": "tyrgu-muresh-ro",
+    "lat": 46.551388888,
+    "lng": 24.593611111
+  },
+  {
+    "countryIso2": "HU",
+    "name": "Печ",
+    "slug": "pech-hu",
+    "lat": 46.0938,
+    "lng": 18.2269
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Lindal in Furness",
+    "slug": "lindal-in-furness-gb",
+    "lat": 54.1666,
+    "lng": -3.1686
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Owslebury",
+    "slug": "owslebury-gb",
+    "lat": 50.99316389,
+    "lng": -1.27773611
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Wraxall",
+    "slug": "wraxall-gb",
+    "lat": 51.452,
+    "lng": -2.7385
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дассов",
+    "slug": "dassov-de",
+    "lat": 53.903823,
+    "lng": 11.003429
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Йерихов",
+    "slug": "yerikhov-de",
+    "lat": 52.458564,
+    "lng": 12.211582
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Кумьяна",
+    "slug": "kumyana-it",
+    "lat": 44.93232,
+    "lng": 7.42075
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ardes",
+    "slug": "ardes-fr",
+    "lat": 45.39364,
+    "lng": 3.11564
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Ярославль",
+    "slug": "yaroslavl-ru",
+    "lat": 57.675,
+    "lng": 39.89722222
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дётлинген",
+    "slug": "detlingen-de",
+    "lat": 52.972251,
+    "lng": 8.344803
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Эммен",
+    "slug": "emmen-nl",
+    "lat": 52.781944,
+    "lng": 6.888889
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Вальдинг",
+    "slug": "valding-at",
+    "lat": 48.3506,
+    "lng": 14.1364
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Větrovy",
+    "slug": "vetrovy-cz",
+    "lat": 49.3883,
+    "lng": 14.649
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Познань",
+    "slug": "poznan-pl",
+    "lat": 52.4003,
+    "lng": 16.9947
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Торунь",
+    "slug": "torun-pl",
+    "lat": 53.008917,
+    "lng": 18.590472
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Пщина",
+    "slug": "pshchina-pl",
+    "lat": 49.977858,
+    "lng": 18.931089
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Влашим",
+    "slug": "vlashim-cz",
+    "lat": 49.7069444,
+    "lng": 14.8969444
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Хомутов",
+    "slug": "khomutov-cz",
+    "lat": 50.4736,
+    "lng": 13.4203
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Хейл",
+    "slug": "kheyl-gb",
+    "lat": 50.17895,
+    "lng": -5.42617
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Черниговская область",
+    "slug": "chernigovskaya-oblast-ua",
+    "lat": 51.522329,
+    "lng": 32.20361
+  },
+  {
+    "countryIso2": "UA",
+    "name": "Ровненская область",
+    "slug": "rovnenskaya-oblast-ua",
+    "lat": 50.609444444,
+    "lng": 26.332777777
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Мариагер-фьорд",
+    "slug": "mariager-ford-dk",
+    "lat": 56.72455,
+    "lng": 10.11466
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Йёрринг",
+    "slug": "yerring-dk",
+    "lat": 57.604444444,
+    "lng": 10.315833333
+  },
+  {
+    "countryIso2": "HU",
+    "name": "Poroszló",
+    "slug": "poroszlo-hu",
+    "lat": 47.64625,
+    "lng": 20.66074444
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Volkel",
+    "slug": "volkel-nl",
+    "lat": 51.654,
+    "lng": 5.6751
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Гётеборг",
+    "slug": "geteborg-se",
+    "lat": 57.686,
+    "lng": 11.943
+  },
+  {
+    "countryIso2": "BG",
+    "name": "Стара-Загора",
+    "slug": "stara-zagora-bg",
+    "lat": 42.4383,
+    "lng": 25.6096
+  },
+  {
+    "countryIso2": "BG",
+    "name": "Варна",
+    "slug": "varna-bg",
+    "lat": 43.2106,
+    "lng": 27.9371
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Монредон-Лабессонье",
+    "slug": "monredon-labessone-fr",
+    "lat": 43.7071,
+    "lng": 2.32773
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Мураццано",
+    "slug": "muratstsano-it",
+    "lat": 44.49236,
+    "lng": 8.03104
+  },
+  {
+    "countryIso2": "TR",
+    "name": "Чигли",
+    "slug": "chigli-tr",
+    "lat": 38.491111111,
+    "lng": 26.963611111
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Château-Gontier-sur-Mayenne",
+    "slug": "chateau-gontier-sur-mayenne-fr",
+    "lat": 47.8142,
+    "lng": -0.700078
+  },
+  {
+    "countryIso2": "HU",
+    "name": "Ясберень",
+    "slug": "yasberen-hu",
+    "lat": 47.493298,
+    "lng": 19.868499
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Вестерволде",
+    "slug": "vestervolde-nl",
+    "lat": 52.870519444,
+    "lng": 7.078458333
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Шептенвиль",
+    "slug": "sheptenvil-fr",
+    "lat": 48.55446625,
+    "lng": 2.25948906
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Manaton",
+    "slug": "manaton-gb",
+    "lat": 50.60648,
+    "lng": -3.75594
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Martel",
+    "slug": "martel-fr",
+    "lat": 44.929728,
+    "lng": 1.617377
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Doué-la-Fontaine",
+    "slug": "doue-la-fontaine-fr",
+    "lat": 47.19,
+    "lng": -0.3
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Йиглава",
+    "slug": "yiglava-cz",
+    "lat": 49.3968056,
+    "lng": 15.5965833
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Оломоуц",
+    "slug": "olomouts-cz",
+    "lat": 49.6339,
+    "lng": 17.3425
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Злин",
+    "slug": "zlin-cz",
+    "lat": 49.2722,
+    "lng": 17.715
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Vyškov Castle",
+    "slug": "vyskov-castle-cz",
+    "lat": 49.2731,
+    "lng": 16.9969
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Заезд",
+    "slug": "zaezd-cz",
+    "lat": 50.1666,
+    "lng": 14.2219
+  },
+  {
+    "countryIso2": "PL",
+    "name": "Устронь",
+    "slug": "ustron-pl",
+    "lat": 49.7179719,
+    "lng": 18.8314889
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Пласи",
+    "slug": "plasi-cz",
+    "lat": 49.9325497,
+    "lng": 13.3899467
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Тест-Вэлли",
+    "slug": "test-velli-gb",
+    "lat": 51.207897656,
+    "lng": -1.561780191
+  },
+  {
+    "countryIso2": "LV",
+    "name": "Калвенская волость",
+    "slug": "kalvenskaya-volost-lv",
+    "lat": 56.57095,
+    "lng": 21.612916666
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Спормаджоре",
+    "slug": "spormadzhore-it",
+    "lat": 46.212366666,
+    "lng": 11.047658333
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Beauvoir",
+    "slug": "beauvoir-fr",
+    "lat": 48.597222,
+    "lng": -1.504722
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Shepreth",
+    "slug": "shepreth-gb",
+    "lat": 52.114529268,
+    "lng": 0.035486776
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Хомберг",
+    "slug": "khomberg-de",
+    "lat": 50.988298,
+    "lng": 9.433079
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Саут-Ланаркшир",
+    "slug": "saut-lanarkshir-gb",
+    "lat": 55.748758797,
+    "lng": -4.146419153
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Уэст-Лотиан",
+    "slug": "uest-lotian-gb",
+    "lat": 55.86303091,
+    "lng": -3.562285026
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Восточный Чешир",
+    "slug": "vostochnyy-cheshir-gb",
+    "lat": 53.3205032,
+    "lng": -2.394446615
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Илинг",
+    "slug": "iling-gb",
+    "lat": 51.512267,
+    "lng": -0.347834
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Линьяно-Саббьядоро",
+    "slug": "linyano-sabbyadoro-it",
+    "lat": 45.659008,
+    "lng": 13.065954
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Каркасон",
+    "slug": "karkason-fr",
+    "lat": 43.1884,
+    "lng": 2.392605555
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Краснодар",
+    "slug": "krasnodar-ru",
+    "lat": 45.00744,
+    "lng": 39.05283
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Nogent-le-Phaye",
+    "slug": "nogent-le-phaye-fr",
+    "lat": 48.449880555,
+    "lng": 1.551338888
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Тил",
+    "slug": "til-nl",
+    "lat": 51.883056,
+    "lng": 5.434722
+  },
+  {
+    "countryIso2": "RO",
+    "name": "Сибиу",
+    "slug": "sibiu-ro",
+    "lat": 45.761825,
+    "lng": 24.123661111
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Эсслинген-на-Неккаре",
+    "slug": "esslingen-na-nekkare-de",
+    "lat": 48.724274156,
+    "lng": 9.333574515
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ла-Бастид-де-Серу",
+    "slug": "la-bastid-de-seru-fr",
+    "lat": 43.023,
+    "lng": 1.38625
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Ванья",
+    "slug": "vanya-fr",
+    "lat": 44.349222222,
+    "lng": 4.346916666
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сен-Мало",
+    "slug": "sen-malo-fr",
+    "lat": 48.651644444,
+    "lng": -2.024094444
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Зоннеберг",
+    "slug": "zonneberg-de",
+    "lat": 50.36708,
+    "lng": 11.18946
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Креси-ла-Шапель",
+    "slug": "kresi-la-shapel-fr",
+    "lat": 48.84212,
+    "lng": 2.95026
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Ланрит",
+    "slug": "lanrit-gb",
+    "lat": 50.405341,
+    "lng": -4.572426
+  },
+  {
+    "countryIso2": "HU",
+    "name": "Kereki",
+    "slug": "kereki-hu",
+    "lat": 46.797372,
+    "lng": 17.911482
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сент-Элали-де-Сернон",
+    "slug": "sent-elali-de-sernon-fr",
+    "lat": 43.983638888,
+    "lng": 3.137991666
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Cases-de-Pène",
+    "slug": "cases-de-pene-fr",
+    "lat": 42.786666666,
+    "lng": 2.772069444
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Тонтон",
+    "slug": "tonton-gb",
+    "lat": 51.1609,
+    "lng": -3.3489
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Колуин-Бей",
+    "slug": "koluin-bey-gb",
+    "lat": 53.2939,
+    "lng": -3.7479
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Вустершир",
+    "slug": "vustershir-gb",
+    "lat": 52.3755,
+    "lng": -2.28825
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Greta Bridge",
+    "slug": "greta-bridge-gb",
+    "lat": 54.632,
+    "lng": -2.693
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Woburn",
+    "slug": "woburn-gb",
+    "lat": 52.005,
+    "lng": -0.589
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Донкастер",
+    "slug": "donkaster-gb",
+    "lat": 53.5047,
+    "lng": -1.0417
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Усти-над-Лабем",
+    "slug": "usti-nad-labem-cz",
+    "lat": 50.6641,
+    "lng": 14.0612
+  },
+  {
+    "countryIso2": "ES",
+    "name": "Q20544839",
+    "slug": "q20544839-es",
+    "lat": 43.0533134,
+    "lng": -7.6917188
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Глубока-над-Влтавой",
+    "slug": "gluboka-nad-vltavoy-cz",
+    "lat": 49.0414,
+    "lng": 14.4228
+  },
+  {
+    "countryIso2": "PT",
+    "name": "Лороза",
+    "slug": "loroza-pt",
+    "lat": 40.995,
+    "lng": -8.54694444
+  },
+  {
+    "countryIso2": "PT",
+    "name": "Zoomarine",
+    "slug": "zoomarine-pt",
+    "lat": 37.126807581,
+    "lng": -8.314214335
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Евле",
+    "slug": "evle-se",
+    "lat": 60.65138889,
+    "lng": 17.33277778
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Lycksele Zoo",
+    "slug": "lycksele-zoo-se",
+    "lat": 64.582,
+    "lng": 18.664
+  },
+  {
+    "countryIso2": "SE",
+    "name": "Эскильстуна",
+    "slug": "eskilstuna-se",
+    "lat": 59.37333333,
+    "lng": 16.48222222
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Chleby",
+    "slug": "chleby-cz",
+    "lat": 50.2225,
+    "lng": 15.0917
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Подмоклы",
+    "slug": "podmokly-cz",
+    "lat": 50.7796,
+    "lng": 14.1972
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Брно-Быстрц",
+    "slug": "brno-bystrts-cz",
+    "lat": 49.2301,
+    "lng": 16.5334
+  },
+  {
+    "countryIso2": "CZ",
+    "name": "Годонин",
+    "slug": "godonin-cz",
+    "lat": 48.8639,
+    "lng": 17.1056
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Мерциг",
+    "slug": "mertsig-de",
+    "lat": 49.47262,
+    "lng": 6.64302
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Динклаге",
+    "slug": "dinklage-de",
+    "lat": 52.6571,
+    "lng": 8.13806
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Удине",
+    "slug": "udine-it",
+    "lat": 46.313786523,
+    "lng": 13.107357754
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Стратфорд-апон-Эйвон",
+    "slug": "stratford-apon-eyvon-gb",
+    "lat": 52.1896,
+    "lng": -1.7003
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Фарнем",
+    "slug": "farnem-gb",
+    "lat": 51.1828,
+    "lng": -0.8407
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Бродленд",
+    "slug": "brodlend-gb",
+    "lat": 52.56674249,
+    "lng": 1.578417045
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Kirby Misperton",
+    "slug": "kirby-misperton-gb",
+    "lat": 54.2097,
+    "lng": -0.8082
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Шлос-Хольте-Штукенброк",
+    "slug": "shlos-kholte-shtukenbrok-de",
+    "lat": 51.8892,
+    "lng": 8.68083
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Детмольд",
+    "slug": "detmold-de",
+    "lat": 51.8917,
+    "lng": 8.87333
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Kerzers",
+    "slug": "kerzers-ch",
+    "lat": 46.9892,
+    "lng": 7.20111
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Вальсроде",
+    "slug": "valsrode-de",
+    "lat": 52.881678665,
+    "lng": 9.598340169
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Бланкенберге",
+    "slug": "blankenberge-be",
+    "lat": 51.319775,
+    "lng": 3.13805
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Пеша",
+    "slug": "pesha-it",
+    "lat": 43.9,
+    "lng": 10.65455
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Сент-Юбер",
+    "slug": "sent-yuber-be",
+    "lat": 50.034423,
+    "lng": 5.366297
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Шольбрунн",
+    "slug": "sholbrunn-de",
+    "lat": 49.83438,
+    "lng": 9.4532
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Саарбург",
+    "slug": "saarburg-de",
+    "lat": 49.61657,
+    "lng": 6.533059
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Дестелберген",
+    "slug": "destelbergen-be",
+    "lat": 51.015744,
+    "lng": 3.819422
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Сен-Пурсен-сюр-Бебр",
+    "slug": "sen-pursen-syur-bebr-fr",
+    "lat": 46.5073,
+    "lng": 3.6305
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Де-Панне",
+    "slug": "de-panne-be",
+    "lat": 51.081353,
+    "lng": 2.601592
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Юи",
+    "slug": "yui-be",
+    "lat": 50.5139,
+    "lng": 5.25129
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Булонь-сюр-Мер",
+    "slug": "bulon-syur-mer-fr",
+    "lat": 50.73019,
+    "lng": 1.59474
+  },
+  {
+    "countryIso2": "IT",
+    "name": "Фазано",
+    "slug": "fazano-it",
+    "lat": 40.8335,
+    "lng": 17.3386
+  },
+  {
+    "countryIso2": "RU",
+    "name": "Нижний Новгород",
+    "slug": "nizhniy-novgorod-ru",
+    "lat": 56.32229,
+    "lng": 44.00076
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Дюссельдорф",
+    "slug": "dyusseldorf-de",
+    "lat": 51.2564,
+    "lng": 6.74972
+  },
+  {
+    "countryIso2": "GB",
+    "name": "Chessington",
+    "slug": "chessington-gb",
+    "lat": 51.348611111,
+    "lng": -0.316666666
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Грюнау",
+    "slug": "gryunau-at",
+    "lat": 47.8068,
+    "lng": 13.9507
+  },
+  {
+    "countryIso2": "CH",
+    "name": "Винтертур",
+    "slug": "vintertur-ch",
+    "lat": 47.4772,
+    "lng": 8.72619
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Клеброн",
+    "slug": "klebron-de",
+    "lat": 49.026816,
+    "lng": 9.045346
+  },
+  {
+    "countryIso2": "DK",
+    "name": "Лолланн",
+    "slug": "lollann-dk",
+    "lat": 54.82111111,
+    "lng": 11.50416667
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Ипр",
+    "slug": "ipr-be",
+    "lat": 50.848333,
+    "lng": 2.945556
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Вестервелд",
+    "slug": "vesterveld-nl",
+    "lat": 52.7847,
+    "lng": 6.22342
+  },
+  {
+    "countryIso2": "BE",
+    "name": "Буйон",
+    "slug": "buyon-be",
+    "lat": 49.791666666,
+    "lng": 5.076666666
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Эглофштайн",
+    "slug": "eglofshtayn-de",
+    "lat": 49.717,
+    "lng": 11.23
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Вайтрамсдорф",
+    "slug": "vaytramsdorf-de",
+    "lat": 50.2328,
+    "lng": 10.8656
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Амеланд",
+    "slug": "ameland-nl",
+    "lat": 53.45028,
+    "lng": 5.775
+  },
+  {
+    "countryIso2": "AT",
+    "name": "Каринтия",
+    "slug": "karintiya-at",
+    "lat": 46.5819,
+    "lng": 14.5618
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Фёльклинген",
+    "slug": "felklingen-de",
+    "lat": 49.2687,
+    "lng": 6.8692
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Маленте",
+    "slug": "malente-de",
+    "lat": 54.1701,
+    "lng": 10.54611
+  },
+  {
+    "countryIso2": "FR",
+    "name": "Мазер",
+    "slug": "mazer-fr",
+    "lat": 43.264,
+    "lng": 1.6612
+  },
+  {
+    "countryIso2": "NL",
+    "name": "Ньивегейн",
+    "slug": "nivegeyn-nl",
+    "lat": 52.0225,
+    "lng": 5.082777777
+  },
+  {
+    "countryIso2": "DE",
+    "name": "Пфронтен",
+    "slug": "pfronten-de",
+    "lat": 47.597833333,
+    "lng": 10.560972222
+  }
+]

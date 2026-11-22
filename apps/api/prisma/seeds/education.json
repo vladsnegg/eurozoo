@@ -1,0 +1,266 @@
+[
+  {
+    "zooSlug": "zoo-praha",
+    "title": "Year-round tours – Around the world",
+    "audience": "schools",
+    "format": "tour",
+    "description": "A 90-minute guided tour for school groups that crosses the zoo's continents to show how animals have adapted to their environments and to introduce biodiversity.",
+    "url": "https://www.zoopraha.cz/en/education/for-schools/education-programmes/14935-year-round-tours",
+    "sourceRefs": [
+      "edu-zoo-praha"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-praha",
+    "title": "Interactive education programmes",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "Guided school programmes delivered as a commented walk or inside the Education Center, using worksheets, natural materials, contact animals, tablets and binoculars.",
+    "url": "https://www.zoopraha.cz/en/education/for-schools/education-programmes/16041-interactive-education-programmes-new",
+    "sourceRefs": [
+      "edu-zoo-praha-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-berlin",
+    "title": "Zoo-Expedition school programme",
+    "audience": "schools",
+    "format": "tour",
+    "description": "A 90-minute guided programme for school classes, adapted to Berlin's curriculum and the group's age, available in German or English for up to 30 pupils.",
+    "url": "https://www.zoo-berlin.de/en/zoo-experience/tours-animal-experiences/tours-and-activities-for-schools-and-nurseries",
+    "sourceRefs": [
+      "edu-zoo-berlin"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "koelner-zoo",
+    "title": "Zoo School",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "Cologne Zoo's extracurricular Zoo School supplements science teaching with inquiry-based and discovery-based programmes aligned with North Rhine-Westphalia curriculum guidelines.",
+    "url": "https://koelnerzoo.de/en/zoo-school/",
+    "sourceRefs": [
+      "edu-koelner-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-leipzig",
+    "title": "Guided Tours",
+    "audience": "adults",
+    "format": "tour",
+    "description": "Guided tours through Leipzig's theme worlds with zoo guides, bookable through the Safari Office at least four weeks in advance.",
+    "url": "https://www.zoo-leipzig.de/en/your-visit/guided-tours/",
+    "sourceRefs": [
+      "edu-zoo-leipzig"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "title": "Morning experience",
+    "audience": "adults",
+    "format": "tour",
+    "description": "An early-morning tour before Schönbrunn opens, with exclusive access, a behind-the-scenes look and breakfast at the Kaiserpavillon.",
+    "url": "https://www.zoovienna.at/en/zoo-and-visitors/special-tours-zoo/",
+    "sourceRefs": [
+      "edu-tiergarten-schoenbrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "tiergarten-schoenbrunn",
+    "title": "Themed tours",
+    "audience": "families",
+    "format": "tour",
+    "description": "1.5-hour themed guided tours for families, friends or colleagues, with themes such as Highlights, Giants, On the Brink of Extinction and Africa Safari.",
+    "url": "https://www.zoovienna.at/en/zoo-and-visitors/special-tours-zoo/",
+    "sourceRefs": [
+      "edu-tiergarten-schoenbrunn"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "title": "Guided Tours for Schools",
+    "audience": "schools",
+    "format": "tour",
+    "description": "Age-appropriate one-hour guided tours for preschool and school groups of up to 25 children, with themes such as the Lewa Savannah and Masoala Rainforest.",
+    "url": "https://www.zoo.ch/en/experiences-events/offers-for-teachers-schools/guided-tours-for-schools",
+    "sourceRefs": [
+      "edu-zoo-zurich"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "title": "Workshops for Schools",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "Two- to three-hour hands-on workshops for preschool and school classes on topics such as Asian elephants, big cats and penguins, with games and creative activities.",
+    "url": "https://www.zoo.ch/en/experiences-events/offers-for-teachers-schools/workshops-for-schools",
+    "sourceRefs": [
+      "edu-zoo-zurich-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-zurich",
+    "title": "Smartphone Photography Course",
+    "audience": "adults",
+    "format": "course",
+    "description": "A photography course held across the zoo as part of Zurich's public Courses & Workshops programme, priced at CHF 119.",
+    "url": "https://www.zoo.ch/en/experiences-events/courses-workshops",
+    "sourceRefs": [
+      "edu-zoo-zurich-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "artis-amsterdam",
+    "title": "Visit ARTIS with your school",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "School visits across ARTIS Zoo, Micropia and the Planetarium combining interactive lessons, live shows and worksheets on nature and biodiversity.",
+    "url": "https://www.artis.nl/en/schools",
+    "sourceRefs": [
+      "edu-artis"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "rotterdam-zoo",
+    "title": "Guided lessons for Primary Education",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "Year-level-tailored guided lessons at Diergaarde Blijdorp that challenge primary pupils to observe and discover animals and plants.",
+    "url": "https://diergaardeblijdorp.nl/en/mission/education/po-begeleid",
+    "sourceRefs": [
+      "edu-rotterdam-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-copenhagen",
+    "title": "The Zoo Mission",
+    "audience": "children",
+    "format": "workshop",
+    "description": "An activity mission for children aged 5–12 with challenges, stamps and badges, plus workshops and live Zoo Stories, aimed at turning them into Nature Heroes.",
+    "url": "https://www.zoo.dk/en/activities-and-learning/zoo-mission",
+    "sourceRefs": [
+      "edu-zoo-copenhagen"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "title": "School Tours",
+    "audience": "schools",
+    "format": "tour",
+    "description": "School trips combining a curriculum-linked workshop led by Dublin Zoo educators with the option of a self-guided visit at the class's own pace.",
+    "url": "https://www.dublinzoo.ie/conservation-education/school-tours/",
+    "sourceRefs": [
+      "edu-dublin-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "title": "Education Workshops",
+    "audience": "families",
+    "format": "workshop",
+    "description": "Stand-alone hands-on workshops for children and families led by Dublin Zoo educators, using interactive investigation and creative activities.",
+    "url": "https://www.dublinzoo.ie/conservation-education/education-workshops/",
+    "sourceRefs": [
+      "edu-dublin-zoo-1"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "dublin-zoo",
+    "title": "Cultivating the Next Generation of Conservationists (teacher course)",
+    "audience": "professionals",
+    "format": "course",
+    "description": "A summer professional-development course for primary teachers on Education for Sustainable Development and conservation education, delivered in Dublin Zoo's Discovery and Learning Centre and grounds.",
+    "url": "https://www.dublinzoo.ie/conservation-education/courses-for-teachers/",
+    "sourceRefs": [
+      "edu-dublin-zoo-2"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "edinburgh-zoo",
+    "title": "School visits with education class",
+    "audience": "schools",
+    "format": "tour",
+    "description": "Reduced-rate school visits that include a taught education session, available from nursery through tertiary level at Edinburgh Zoo.",
+    "url": "https://www.edinburghzoo.org.uk/visit/admissions/school-visits",
+    "sourceRefs": [
+      "edu-edinburgh-zoo"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-frankfurt",
+    "title": "Guided tours",
+    "audience": "schools",
+    "format": "tour",
+    "description": "Guided tours run by Frankfurt Zoo's Education Department for school classes of all ages and for teachers, students, educators and interested visitors.",
+    "url": "https://www.zoo-frankfurt.de/en/education/guided-tours",
+    "sourceRefs": [
+      "edu-zoo-frankfurt"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-barcelona",
+    "title": "Educational offer for schools",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "Barcelona Zoo's experiential school programme offers curriculum-linked activities that build scientific skills and understanding of biodiversity conservation.",
+    "url": "https://zoobarcelona.cat/en/educational-offer",
+    "sourceRefs": [
+      "edu-zoo-barcelona"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "title": "Guided tours of the Zoo",
+    "audience": "schools",
+    "format": "tour",
+    "description": "A two-hour guided walk for grades 4–6 and older students covering the aquarium, birdhouse, great apes, elephants, rhinos, reptiles, giraffes, lions and hippos.",
+    "url": "https://zoo.waw.pl/en/education/educational-offer",
+    "sourceRefs": [
+      "edu-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-warsaw",
+    "title": "The ZOO Through the Magnifying Glass",
+    "audience": "schools",
+    "format": "workshop",
+    "description": "A 90-minute workshop in which pupils examine preparations such as a rhino horn, polar bear fur, giraffe tail hair and butterfly wings at high magnification.",
+    "url": "https://zoo.waw.pl/en/education/educational-offer",
+    "sourceRefs": [
+      "edu-zoo-warsaw"
+    ],
+    "verifiedAt": "2026-11-19"
+  },
+  {
+    "zooSlug": "zoo-beauval",
+    "title": "Educational talks",
+    "audience": "families",
+    "format": "lecture",
+    "description": "Daily talks by Beauval's scientific facilitators around the park about species' ways of life and behaviour, supplemented by recorded talks and feeding talks.",
+    "url": "https://www.zoobeauval.com/en/shows-and-activities/educational-talks",
+    "sourceRefs": [
+      "edu-zoo-beauval"
+    ],
+    "verifiedAt": "2026-11-19"
+  }
+]

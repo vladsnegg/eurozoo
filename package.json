@@ -1,0 +1,38 @@
+{
+  "name": "eurozoo",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.23.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "test:api": "pnpm --filter @eurozoo/api test",
+    "db:generate": "prisma generate --schema apps/api/prisma/schema.prisma",
+    "db:migrate": "prisma migrate deploy --schema apps/api/prisma/schema.prisma",
+    "db:reset": "prisma migrate reset --force --schema apps/api/prisma/schema.prisma",
+    "db:seed": "pnpm --filter @eurozoo/api db:seed",
+    "data:check": "pnpm --filter @eurozoo/api data:check",
+    "data:verify": "pnpm --filter @eurozoo/api data:verify",
+    "data:verify:online": "pnpm --filter @eurozoo/api data:verify:online",
+    "data:stale": "pnpm --filter @eurozoo/api data:stale",
+    "search:refresh": "pnpm --filter @eurozoo/api search:refresh",
+    "prisma:validate": "prisma validate --schema apps/api/prisma/schema.prisma"
+  },
+  "devDependencies": {
+    "@eslint/js": "9.18.0",
+    "eslint": "9.18.0",
+    "prettier": "3.4.2",
+    "prisma": "6.1.0",
+    "turbo": "2.3.3",
+    "typescript": "5.7.3",
+    "typescript-eslint": "8.20.0"
+  }
+}

@@ -1,0 +1,70 @@
+flowchart TD
+    subgraph Geography
+      CO[Country]
+      RE[Region]
+      CI[City]
+      CO -->|has| RE
+      CO -->|has| CI
+      RE -->|groups| CI
+      CI -->|hosts| ZO[Zoo]
+    end
+
+    subgraph Classification
+      RK[TaxonomicRank]
+      TX[Taxon]
+      SP[SpeciesProfile]
+      IU[IucnStatus]
+      HA[Habitat]
+      RK -->|classifies| TX
+      TX -->|parent_of - transitive| TX
+      TX -->|has_profile| SP
+      IU -->|status_of| SP
+      TX <-->|inhabits| HA
+    end
+
+    subgraph Conservation
+      OR[Organization]
+      CP[ConservationProgram]
+      RP[ResearchProject]
+      ED[EducationProgram]
+      OR -->|operates| CP
+      OR -->|leads| RP
+      CP -->|targets| TX
+      ZO -->|participates_in| CP
+      ZO -->|conducts| RP
+      RP -->|studies| TX
+      ZO -->|offers| ED
+    end
+
+    ZO -->|keeps| TX
+    ZO <-->|member_of| OR
+
+    subgraph Provenance
+      SR[Source]
+      ES[EntitySource]
+      KE[KnowledgeEdge]
+      PR[Predicate]
+      SR -->|cited_by| ES
+      ES -.->|proves| ZO
+      ES -.->|proves| TX
+      PR -->|types| KE
+      SR -->|supports| KE
+      KE -.->|RELATED_TO| ZO
+    end
+
+    subgraph Inference
+      R1[R1 v_zoo_geo]
+      R2[R2 v_taxon_lineage]
+      R3[R3 v_zoo_program_species]
+      R4[R4 v_zoo_threatened]
+      R5[R5 similarity]
+      R6[R6 related]
+    end
+
+    ZO --> R1 --> CO
+    TX --> R2 --> RK
+    ZO --> R3
+    CP --> R3
+    TX --> R4
+    ZO --> R5
+    KE --> R6

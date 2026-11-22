@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "eaza",
+    "name": "European Association of Zoos and Aquaria",
+    "acronym": "EAZA",
+    "type": "association",
+    "countrySlug": "netherlands",
+    "foundedYear": 1992,
+    "website": "https://www.eaza.net",
+    "description": "Европейская ассоциация зоопарков и аквариумов, координирующая программы ex situ сохранения (EEP).",
+    "sourceRefs": ["eaza-history"]
+  },
+  {
+    "slug": "waza",
+    "name": "World Association of Zoos and Aquariums",
+    "acronym": "WAZA",
+    "type": "association",
+    "countrySlug": "spain",
+    "foundedYear": 1935,
+    "website": "https://www.waza.org",
+    "description": "Всемирный альянс региональных ассоциаций, национальных федераций, зоопарков и аквариумов.",
+    "sourceRefs": ["waza-about"]
+  },
+  {
+    "slug": "iucn",
+    "name": "International Union for Conservation of Nature",
+    "acronym": "IUCN",
+    "type": "conservation",
+    "countrySlug": "switzerland",
+    "foundedYear": 1948,
+    "website": "https://iucn.org",
+    "description": "Глобальная членская организация, ведущая Красный список угрожаемых видов.",
+    "sourceRefs": ["iucn-about"]
+  },
+  {
+    "slug": "biaza",
+    "name": "British and Irish Association of Zoos and Aquariums",
+    "acronym": "BIAZA",
+    "type": "association",
+    "countrySlug": "united-kingdom",
+    "foundedYear": 1966,
+    "website": "https://biaza.org.uk",
+    "description": "Профессиональная ассоциация зоопарков и аквариумов Великобритании и Ирландии.",
+    "sourceRefs": ["biaza-about"]
+  },
+  {
+    "slug": "vdz",
+    "name": "Verband der Zoologischen Gärten",
+    "acronym": "VdZ",
+    "type": "association",
+    "countrySlug": "germany",
+    "foundedYear": 1887,
+    "website": "https://vdz-zoos.org",
+    "description": "Старейшее в мире объединение научно управляемых зоопарков Германии, Австрии, Швейцарии и Испании.",
+    "sourceRefs": ["vdz", "vdz-history"]
+  },
+  {
+    "slug": "species360",
+    "name": "Species360",
+    "type": "program_operator",
+    "countrySlug": null,
+    "foundedYear": 1974,
+    "website": "https://species360.org",
+    "description": "Некоммерческая организация, управляющая глобальной информационной системой ZIMS.",
+    "sourceRefs": ["species360-mission"]
+  },
+  {
+    "slug": "esf",
+    "name": "European Studbook Foundation",
+    "acronym": "ESF",
+    "type": "program_operator",
+    "countrySlug": "netherlands",
+    "foundedYear": 1998,
+    "website": "https://studbooks.eu",
+    "description": "Независимая некоммерческая организация, ведущая европейские племенные книги для рептилий и амфибий.",
+    "sourceRefs": ["esf-origin"]
+  },
+  {
+    "slug": "stiftung-artenschutz",
+    "name": "Stiftung Artenschutz",
+    "type": "conservation",
+    "countrySlug": "germany",
+    "foundedYear": 2001,
+    "website": "https://stiftung-artenschutz.de",
+    "description": "Немецкий фонд, поддерживающий проекты in situ и ex situ для угрожаемых видов.",
+    "sourceRefs": ["stiftung-transparency"]
+  },
+  {
+    "slug": "aiza",
+    "name": "Asociación Ibérica de Zoos y Acuarios",
+    "acronym": "AIZA",
+    "type": "association",
+    "countrySlug": "spain",
+    "foundedYear": 1988,
+    "website": "https://www.aiza.org.es",
+    "description": "Профессиональная ассоциация зоопарков и аквариумов Испании и Португалии.",
+    "sourceRefs": ["aiza-home"]
+  },
+  {
+    "slug": "nvd",
+    "name": "Nederlandse Vereniging van Dierentuinen",
+    "acronym": "NVD",
+    "type": "association",
+    "countrySlug": "netherlands",
+    "foundedYear": 1966,
+    "website": "https://www.nvddierentuinen.nl",
+    "description": "Нидерландская ассоциация зоопарков, объединяющая аккредитованные зоопарки страны.",
+    "sourceRefs": ["nvd-home"]
+  }
+]

@@ -1,0 +1,4206 @@
+[
+  {
+    "scientificName": "Animalia",
+    "slug": "animalia",
+    "rankCode": "kingdom",
+    "commonNameRu": "Животные",
+    "commonNameEn": "Animals"
+  },
+  {
+    "scientificName": "Chordata",
+    "slug": "chordata",
+    "rankCode": "phylum",
+    "parentScientificName": "Animalia",
+    "commonNameRu": "Хордовые",
+    "commonNameEn": "Chordates"
+  },
+  {
+    "scientificName": "Amphibia",
+    "slug": "amphibia",
+    "rankCode": "class",
+    "parentScientificName": "Chordata",
+    "commonNameRu": "Земноводные",
+    "commonNameEn": "Amphibia"
+  },
+  {
+    "scientificName": "Aves",
+    "slug": "aves",
+    "rankCode": "class",
+    "parentScientificName": "Chordata",
+    "commonNameRu": "Птицы",
+    "commonNameEn": "Aves"
+  },
+  {
+    "scientificName": "Mammalia",
+    "slug": "mammalia",
+    "rankCode": "class",
+    "parentScientificName": "Chordata",
+    "commonNameRu": "Млекопитающие",
+    "commonNameEn": "Mammalia"
+  },
+  {
+    "scientificName": "Reptilia",
+    "slug": "reptilia",
+    "rankCode": "class",
+    "parentScientificName": "Chordata",
+    "commonNameRu": "Пресмыкающиеся",
+    "commonNameEn": "Reptilia"
+  },
+  {
+    "scientificName": "Accipitriformes",
+    "slug": "accipitriformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Ястребообразные",
+    "commonNameEn": "Accipitriformes"
+  },
+  {
+    "scientificName": "Artiodactyla",
+    "slug": "artiodactyla",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": "Парнокопытные",
+    "commonNameEn": "Artiodactyla"
+  },
+  {
+    "scientificName": "Carnivora",
+    "slug": "carnivora",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": "Хищные",
+    "commonNameEn": "Carnivora"
+  },
+  {
+    "scientificName": "Caudata",
+    "slug": "caudata",
+    "rankCode": "order",
+    "parentScientificName": "Amphibia",
+    "commonNameRu": "Хвостатые",
+    "commonNameEn": "Caudata"
+  },
+  {
+    "scientificName": "Ciconiiformes",
+    "slug": "ciconiiformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Аистообразные",
+    "commonNameEn": "Ciconiiformes"
+  },
+  {
+    "scientificName": "Crocodylia",
+    "slug": "crocodylia",
+    "rankCode": "order",
+    "parentScientificName": "Reptilia",
+    "commonNameRu": "Крокодилы",
+    "commonNameEn": "Crocodylia"
+  },
+  {
+    "scientificName": "Diprotodontia",
+    "slug": "diprotodontia",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": null,
+    "commonNameEn": "Diprotodontia"
+  },
+  {
+    "scientificName": "Gruiformes",
+    "slug": "gruiformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Журавлеобразные",
+    "commonNameEn": "Gruiformes"
+  },
+  {
+    "scientificName": "Passeriformes",
+    "slug": "passeriformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": null,
+    "commonNameEn": "Passeriformes"
+  },
+  {
+    "scientificName": "Pelecaniformes",
+    "slug": "pelecaniformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Пеликанообразные",
+    "commonNameEn": "Pelecaniformes"
+  },
+  {
+    "scientificName": "Perissodactyla",
+    "slug": "perissodactyla",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": "Непарнокопытные",
+    "commonNameEn": "Perissodactyla"
+  },
+  {
+    "scientificName": "Phoenicopteriformes",
+    "slug": "phoenicopteriformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Фламингообразные",
+    "commonNameEn": "Phoenicopteriformes"
+  },
+  {
+    "scientificName": "Primates",
+    "slug": "primates",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": "Приматы",
+    "commonNameEn": "Primates"
+  },
+  {
+    "scientificName": "Proboscidea",
+    "slug": "proboscidea",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": "Хоботные",
+    "commonNameEn": "Proboscidea"
+  },
+  {
+    "scientificName": "Psittaciformes",
+    "slug": "psittaciformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Попугаеобразные",
+    "commonNameEn": "Psittaciformes"
+  },
+  {
+    "scientificName": "Sirenia",
+    "slug": "sirenia",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": null,
+    "commonNameEn": "Sirenia"
+  },
+  {
+    "scientificName": "Sphenisciformes",
+    "slug": "sphenisciformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Пингвинообразные",
+    "commonNameEn": "Sphenisciformes"
+  },
+  {
+    "scientificName": "Squamata",
+    "slug": "squamata",
+    "rankCode": "order",
+    "parentScientificName": "Reptilia",
+    "commonNameRu": "Чешуйчатые",
+    "commonNameEn": "Squamata"
+  },
+  {
+    "scientificName": "Strigiformes",
+    "slug": "strigiformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": null,
+    "commonNameEn": "Strigiformes"
+  },
+  {
+    "scientificName": "Struthioniformes",
+    "slug": "struthioniformes",
+    "rankCode": "order",
+    "parentScientificName": "Aves",
+    "commonNameRu": "Страусообразные",
+    "commonNameEn": "Struthioniformes"
+  },
+  {
+    "scientificName": "Testudines",
+    "slug": "testudines",
+    "rankCode": "order",
+    "parentScientificName": "Reptilia",
+    "commonNameRu": "Черепахи",
+    "commonNameEn": "Testudines"
+  },
+  {
+    "scientificName": "Tubulidentata",
+    "slug": "tubulidentata",
+    "rankCode": "order",
+    "parentScientificName": "Mammalia",
+    "commonNameRu": null,
+    "commonNameEn": "Tubulidentata"
+  },
+  {
+    "scientificName": "Accipitridae",
+    "slug": "accipitridae",
+    "rankCode": "family",
+    "parentScientificName": "Accipitriformes",
+    "commonNameRu": "Ястребиные",
+    "commonNameEn": "Accipitridae"
+  },
+  {
+    "scientificName": "Ailuridae",
+    "slug": "ailuridae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Пандовые",
+    "commonNameEn": "Ailuridae"
+  },
+  {
+    "scientificName": "Alligatoridae",
+    "slug": "alligatoridae",
+    "rankCode": "family",
+    "parentScientificName": "Crocodylia",
+    "commonNameRu": "Аллигаторовые",
+    "commonNameEn": "Alligatoridae"
+  },
+  {
+    "scientificName": "Ambystomatidae",
+    "slug": "ambystomatidae",
+    "rankCode": "family",
+    "parentScientificName": "Caudata",
+    "commonNameRu": "Амбистомовые",
+    "commonNameEn": "Ambystomatidae"
+  },
+  {
+    "scientificName": "Bovidae",
+    "slug": "bovidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": "Полорогие",
+    "commonNameEn": "Bovidae"
+  },
+  {
+    "scientificName": "Callitrichidae",
+    "slug": "callitrichidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": null,
+    "commonNameEn": "Callitrichidae"
+  },
+  {
+    "scientificName": "Camelidae",
+    "slug": "camelidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": null,
+    "commonNameEn": "Camelidae"
+  },
+  {
+    "scientificName": "Canidae",
+    "slug": "canidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Псовые",
+    "commonNameEn": "Canidae"
+  },
+  {
+    "scientificName": "Cercopithecidae",
+    "slug": "cercopithecidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": "Мартышковые",
+    "commonNameEn": "Cercopithecidae"
+  },
+  {
+    "scientificName": "Cervidae",
+    "slug": "cervidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": "Оленевые",
+    "commonNameEn": "Cervidae"
+  },
+  {
+    "scientificName": "Cheloniidae",
+    "slug": "cheloniidae",
+    "rankCode": "family",
+    "parentScientificName": "Testudines",
+    "commonNameRu": "Морские черепахи",
+    "commonNameEn": "Cheloniidae"
+  },
+  {
+    "scientificName": "Ciconiidae",
+    "slug": "ciconiidae",
+    "rankCode": "family",
+    "parentScientificName": "Ciconiiformes",
+    "commonNameRu": "Аистовые",
+    "commonNameEn": "Ciconiidae"
+  },
+  {
+    "scientificName": "Crocodylidae",
+    "slug": "crocodylidae",
+    "rankCode": "family",
+    "parentScientificName": "Crocodylia",
+    "commonNameRu": "Крокодиловые",
+    "commonNameEn": "Crocodylidae"
+  },
+  {
+    "scientificName": "Daubentoniidae",
+    "slug": "daubentoniidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": null,
+    "commonNameEn": "Daubentoniidae"
+  },
+  {
+    "scientificName": "Elephantidae",
+    "slug": "elephantidae",
+    "rankCode": "family",
+    "parentScientificName": "Proboscidea",
+    "commonNameRu": "Слоновые",
+    "commonNameEn": "Elephantidae"
+  },
+  {
+    "scientificName": "Equidae",
+    "slug": "equidae",
+    "rankCode": "family",
+    "parentScientificName": "Perissodactyla",
+    "commonNameRu": "Лошадиные",
+    "commonNameEn": "Equidae"
+  },
+  {
+    "scientificName": "Felidae",
+    "slug": "felidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Кошачьи",
+    "commonNameEn": "Felidae"
+  },
+  {
+    "scientificName": "Geoemydidae",
+    "slug": "geoemydidae",
+    "rankCode": "family",
+    "parentScientificName": "Testudines",
+    "commonNameRu": null,
+    "commonNameEn": "Geoemydidae"
+  },
+  {
+    "scientificName": "Giraffidae",
+    "slug": "giraffidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": "Жирафовые",
+    "commonNameEn": "Giraffidae"
+  },
+  {
+    "scientificName": "Gruidae",
+    "slug": "gruidae",
+    "rankCode": "family",
+    "parentScientificName": "Gruiformes",
+    "commonNameRu": "Журавлиные",
+    "commonNameEn": "Gruidae"
+  },
+  {
+    "scientificName": "Herpestidae",
+    "slug": "herpestidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Мангустовые",
+    "commonNameEn": "Herpestidae"
+  },
+  {
+    "scientificName": "Hippopotamidae",
+    "slug": "hippopotamidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": "Бегемотовые",
+    "commonNameEn": "Hippopotamidae"
+  },
+  {
+    "scientificName": "Hominidae",
+    "slug": "hominidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": "Гоминиды",
+    "commonNameEn": "Hominidae"
+  },
+  {
+    "scientificName": "Hyaenidae",
+    "slug": "hyaenidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Гиеновые",
+    "commonNameEn": "Hyaenidae"
+  },
+  {
+    "scientificName": "Hylobatidae",
+    "slug": "hylobatidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": null,
+    "commonNameEn": "Hylobatidae"
+  },
+  {
+    "scientificName": "Indriidae",
+    "slug": "indriidae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": null,
+    "commonNameEn": "Indriidae"
+  },
+  {
+    "scientificName": "Lemuridae",
+    "slug": "lemuridae",
+    "rankCode": "family",
+    "parentScientificName": "Primates",
+    "commonNameRu": "Лемуровые",
+    "commonNameEn": "Lemuridae"
+  },
+  {
+    "scientificName": "Moschidae",
+    "slug": "moschidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": null,
+    "commonNameEn": "Moschidae"
+  },
+  {
+    "scientificName": "Mustelidae",
+    "slug": "mustelidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Куньи",
+    "commonNameEn": "Mustelidae"
+  },
+  {
+    "scientificName": "Orycteropodidae",
+    "slug": "orycteropodidae",
+    "rankCode": "family",
+    "parentScientificName": "Tubulidentata",
+    "commonNameRu": null,
+    "commonNameEn": "Orycteropodidae"
+  },
+  {
+    "scientificName": "Otariidae",
+    "slug": "otariidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": null,
+    "commonNameEn": "Otariidae"
+  },
+  {
+    "scientificName": "Pelecanidae",
+    "slug": "pelecanidae",
+    "rankCode": "family",
+    "parentScientificName": "Pelecaniformes",
+    "commonNameRu": null,
+    "commonNameEn": "Pelecanidae"
+  },
+  {
+    "scientificName": "Phascolarctidae",
+    "slug": "phascolarctidae",
+    "rankCode": "family",
+    "parentScientificName": "Diprotodontia",
+    "commonNameRu": null,
+    "commonNameEn": "Phascolarctidae"
+  },
+  {
+    "scientificName": "Phoenicopteridae",
+    "slug": "phoenicopteridae",
+    "rankCode": "family",
+    "parentScientificName": "Phoenicopteriformes",
+    "commonNameRu": "Фламинговые",
+    "commonNameEn": "Phoenicopteridae"
+  },
+  {
+    "scientificName": "Psittacidae",
+    "slug": "psittacidae",
+    "rankCode": "family",
+    "parentScientificName": "Psittaciformes",
+    "commonNameRu": "Попугаевые",
+    "commonNameEn": "Psittacidae"
+  },
+  {
+    "scientificName": "Rhinocerotidae",
+    "slug": "rhinocerotidae",
+    "rankCode": "family",
+    "parentScientificName": "Perissodactyla",
+    "commonNameRu": "Носороговые",
+    "commonNameEn": "Rhinocerotidae"
+  },
+  {
+    "scientificName": "Spheniscidae",
+    "slug": "spheniscidae",
+    "rankCode": "family",
+    "parentScientificName": "Sphenisciformes",
+    "commonNameRu": "Пингвиновые",
+    "commonNameEn": "Spheniscidae"
+  },
+  {
+    "scientificName": "Strigidae",
+    "slug": "strigidae",
+    "rankCode": "family",
+    "parentScientificName": "Strigiformes",
+    "commonNameRu": null,
+    "commonNameEn": "Strigidae"
+  },
+  {
+    "scientificName": "Struthionidae",
+    "slug": "struthionidae",
+    "rankCode": "family",
+    "parentScientificName": "Struthioniformes",
+    "commonNameRu": "Страусовые",
+    "commonNameEn": "Struthionidae"
+  },
+  {
+    "scientificName": "Sturnidae",
+    "slug": "sturnidae",
+    "rankCode": "family",
+    "parentScientificName": "Passeriformes",
+    "commonNameRu": null,
+    "commonNameEn": "Sturnidae"
+  },
+  {
+    "scientificName": "Tapiridae",
+    "slug": "tapiridae",
+    "rankCode": "family",
+    "parentScientificName": "Perissodactyla",
+    "commonNameRu": "Тапировые",
+    "commonNameEn": "Tapiridae"
+  },
+  {
+    "scientificName": "Testudinidae",
+    "slug": "testudinidae",
+    "rankCode": "family",
+    "parentScientificName": "Testudines",
+    "commonNameRu": "Сухопутные черепахи",
+    "commonNameEn": "Testudinidae"
+  },
+  {
+    "scientificName": "Threskiornithidae",
+    "slug": "threskiornithidae",
+    "rankCode": "family",
+    "parentScientificName": "Pelecaniformes",
+    "commonNameRu": "Ибисовые",
+    "commonNameEn": "Threskiornithidae"
+  },
+  {
+    "scientificName": "Tragulidae",
+    "slug": "tragulidae",
+    "rankCode": "family",
+    "parentScientificName": "Artiodactyla",
+    "commonNameRu": null,
+    "commonNameEn": "Tragulidae"
+  },
+  {
+    "scientificName": "Trichechidae",
+    "slug": "trichechidae",
+    "rankCode": "family",
+    "parentScientificName": "Sirenia",
+    "commonNameRu": null,
+    "commonNameEn": "Trichechidae"
+  },
+  {
+    "scientificName": "Ursidae",
+    "slug": "ursidae",
+    "rankCode": "family",
+    "parentScientificName": "Carnivora",
+    "commonNameRu": "Медвежьи",
+    "commonNameEn": "Ursidae"
+  },
+  {
+    "scientificName": "Varanidae",
+    "slug": "varanidae",
+    "rankCode": "family",
+    "parentScientificName": "Squamata",
+    "commonNameRu": "Варановые",
+    "commonNameEn": "Varanidae"
+  },
+  {
+    "scientificName": "Acinonyx",
+    "slug": "acinonyx",
+    "rankCode": "genus",
+    "parentScientificName": "Felidae",
+    "commonNameRu": null,
+    "commonNameEn": "Acinonyx"
+  },
+  {
+    "scientificName": "Acrocodia",
+    "slug": "acrocodia",
+    "rankCode": "genus",
+    "parentScientificName": "Tapiridae",
+    "commonNameRu": null,
+    "commonNameEn": "Acrocodia"
+  },
+  {
+    "scientificName": "Addax",
+    "slug": "addax",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Addax"
+  },
+  {
+    "scientificName": "Ailuropoda",
+    "slug": "ailuropoda",
+    "rankCode": "genus",
+    "parentScientificName": "Ursidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ailuropoda"
+  },
+  {
+    "scientificName": "Ailurus",
+    "slug": "ailurus",
+    "rankCode": "genus",
+    "parentScientificName": "Ailuridae",
+    "commonNameRu": null,
+    "commonNameEn": "Ailurus"
+  },
+  {
+    "scientificName": "Alligator",
+    "slug": "alligator",
+    "rankCode": "genus",
+    "parentScientificName": "Alligatoridae",
+    "commonNameRu": null,
+    "commonNameEn": "Alligator"
+  },
+  {
+    "scientificName": "Ambystoma",
+    "slug": "ambystoma",
+    "rankCode": "genus",
+    "parentScientificName": "Ambystomatidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ambystoma"
+  },
+  {
+    "scientificName": "Ammotragus",
+    "slug": "ammotragus",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ammotragus"
+  },
+  {
+    "scientificName": "Aptenodytes",
+    "slug": "aptenodytes",
+    "rankCode": "genus",
+    "parentScientificName": "Spheniscidae",
+    "commonNameRu": null,
+    "commonNameEn": "Aptenodytes"
+  },
+  {
+    "scientificName": "Ara",
+    "slug": "ara",
+    "rankCode": "genus",
+    "parentScientificName": "Psittacidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ara"
+  },
+  {
+    "scientificName": "Bison",
+    "slug": "bison",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Bison"
+  },
+  {
+    "scientificName": "Bubo",
+    "slug": "bubo",
+    "rankCode": "genus",
+    "parentScientificName": "Strigidae",
+    "commonNameRu": null,
+    "commonNameEn": "Bubo"
+  },
+  {
+    "scientificName": "Cacatua",
+    "slug": "cacatua",
+    "rankCode": "genus",
+    "parentScientificName": "Psittacidae",
+    "commonNameRu": null,
+    "commonNameEn": "Cacatua"
+  },
+  {
+    "scientificName": "Callimico",
+    "slug": "callimico",
+    "rankCode": "genus",
+    "parentScientificName": "Callitrichidae",
+    "commonNameRu": null,
+    "commonNameEn": "Callimico"
+  },
+  {
+    "scientificName": "Canis",
+    "slug": "canis",
+    "rankCode": "genus",
+    "parentScientificName": "Canidae",
+    "commonNameRu": null,
+    "commonNameEn": "Canis"
+  },
+  {
+    "scientificName": "Capra",
+    "slug": "capra",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Capra"
+  },
+  {
+    "scientificName": "Ceratotherium",
+    "slug": "ceratotherium",
+    "rankCode": "genus",
+    "parentScientificName": "Rhinocerotidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ceratotherium"
+  },
+  {
+    "scientificName": "Cervus",
+    "slug": "cervus",
+    "rankCode": "genus",
+    "parentScientificName": "Cervidae",
+    "commonNameRu": null,
+    "commonNameEn": "Cervus"
+  },
+  {
+    "scientificName": "Chelonia",
+    "slug": "chelonia",
+    "rankCode": "genus",
+    "parentScientificName": "Cheloniidae",
+    "commonNameRu": null,
+    "commonNameEn": "Chelonia"
+  },
+  {
+    "scientificName": "Choeropsis",
+    "slug": "choeropsis",
+    "rankCode": "genus",
+    "parentScientificName": "Hippopotamidae",
+    "commonNameRu": null,
+    "commonNameEn": "Choeropsis"
+  },
+  {
+    "scientificName": "Chrysocyon",
+    "slug": "chrysocyon",
+    "rankCode": "genus",
+    "parentScientificName": "Canidae",
+    "commonNameRu": null,
+    "commonNameEn": "Chrysocyon"
+  },
+  {
+    "scientificName": "Ciconia",
+    "slug": "ciconia",
+    "rankCode": "genus",
+    "parentScientificName": "Ciconiidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ciconia"
+  },
+  {
+    "scientificName": "Crocodylus",
+    "slug": "crocodylus",
+    "rankCode": "genus",
+    "parentScientificName": "Crocodylidae",
+    "commonNameRu": null,
+    "commonNameEn": "Crocodylus"
+  },
+  {
+    "scientificName": "Crocuta",
+    "slug": "crocuta",
+    "rankCode": "genus",
+    "parentScientificName": "Hyaenidae",
+    "commonNameRu": null,
+    "commonNameEn": "Crocuta"
+  },
+  {
+    "scientificName": "Daubentonia",
+    "slug": "daubentonia",
+    "rankCode": "genus",
+    "parentScientificName": "Daubentoniidae",
+    "commonNameRu": null,
+    "commonNameEn": "Daubentonia"
+  },
+  {
+    "scientificName": "Diceros",
+    "slug": "diceros",
+    "rankCode": "genus",
+    "parentScientificName": "Rhinocerotidae",
+    "commonNameRu": null,
+    "commonNameEn": "Diceros"
+  },
+  {
+    "scientificName": "Elaphurus",
+    "slug": "elaphurus",
+    "rankCode": "genus",
+    "parentScientificName": "Cervidae",
+    "commonNameRu": null,
+    "commonNameEn": "Elaphurus"
+  },
+  {
+    "scientificName": "Elephas",
+    "slug": "elephas",
+    "rankCode": "genus",
+    "parentScientificName": "Elephantidae",
+    "commonNameRu": null,
+    "commonNameEn": "Elephas"
+  },
+  {
+    "scientificName": "Equus",
+    "slug": "equus",
+    "rankCode": "genus",
+    "parentScientificName": "Equidae",
+    "commonNameRu": null,
+    "commonNameEn": "Equus"
+  },
+  {
+    "scientificName": "Gazella",
+    "slug": "gazella",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Gazella"
+  },
+  {
+    "scientificName": "Geronticus",
+    "slug": "geronticus",
+    "rankCode": "genus",
+    "parentScientificName": "Threskiornithidae",
+    "commonNameRu": null,
+    "commonNameEn": "Geronticus"
+  },
+  {
+    "scientificName": "Giraffa",
+    "slug": "giraffa",
+    "rankCode": "genus",
+    "parentScientificName": "Giraffidae",
+    "commonNameRu": null,
+    "commonNameEn": "Giraffa"
+  },
+  {
+    "scientificName": "Gorilla",
+    "slug": "gorilla",
+    "rankCode": "genus",
+    "parentScientificName": "Hominidae",
+    "commonNameRu": null,
+    "commonNameEn": "Gorilla"
+  },
+  {
+    "scientificName": "Grus",
+    "slug": "grus",
+    "rankCode": "genus",
+    "parentScientificName": "Gruidae",
+    "commonNameRu": null,
+    "commonNameEn": "Grus"
+  },
+  {
+    "scientificName": "Gulo",
+    "slug": "gulo",
+    "rankCode": "genus",
+    "parentScientificName": "Mustelidae",
+    "commonNameRu": null,
+    "commonNameEn": "Gulo"
+  },
+  {
+    "scientificName": "Gypaetus",
+    "slug": "gypaetus",
+    "rankCode": "genus",
+    "parentScientificName": "Accipitridae",
+    "commonNameRu": null,
+    "commonNameEn": "Gypaetus"
+  },
+  {
+    "scientificName": "Gyps",
+    "slug": "gyps",
+    "rankCode": "genus",
+    "parentScientificName": "Accipitridae",
+    "commonNameRu": null,
+    "commonNameEn": "Gyps"
+  },
+  {
+    "scientificName": "Helarctos",
+    "slug": "helarctos",
+    "rankCode": "genus",
+    "parentScientificName": "Ursidae",
+    "commonNameRu": null,
+    "commonNameEn": "Helarctos"
+  },
+  {
+    "scientificName": "Heosemys",
+    "slug": "heosemys",
+    "rankCode": "genus",
+    "parentScientificName": "Geoemydidae",
+    "commonNameRu": null,
+    "commonNameEn": "Heosemys"
+  },
+  {
+    "scientificName": "Hippopotamus",
+    "slug": "hippopotamus",
+    "rankCode": "genus",
+    "parentScientificName": "Hippopotamidae",
+    "commonNameRu": null,
+    "commonNameEn": "Hippopotamus"
+  },
+  {
+    "scientificName": "Hyaena",
+    "slug": "hyaena",
+    "rankCode": "genus",
+    "parentScientificName": "Hyaenidae",
+    "commonNameRu": null,
+    "commonNameEn": "Hyaena"
+  },
+  {
+    "scientificName": "Lama",
+    "slug": "lama",
+    "rankCode": "genus",
+    "parentScientificName": "Camelidae",
+    "commonNameRu": null,
+    "commonNameEn": "Lama"
+  },
+  {
+    "scientificName": "Lemur",
+    "slug": "lemur",
+    "rankCode": "genus",
+    "parentScientificName": "Lemuridae",
+    "commonNameRu": null,
+    "commonNameEn": "Lemur"
+  },
+  {
+    "scientificName": "Leucopsar",
+    "slug": "leucopsar",
+    "rankCode": "genus",
+    "parentScientificName": "Sturnidae",
+    "commonNameRu": null,
+    "commonNameEn": "Leucopsar"
+  },
+  {
+    "scientificName": "Loxodonta",
+    "slug": "loxodonta",
+    "rankCode": "genus",
+    "parentScientificName": "Elephantidae",
+    "commonNameRu": null,
+    "commonNameEn": "Loxodonta"
+  },
+  {
+    "scientificName": "Lutra",
+    "slug": "lutra",
+    "rankCode": "genus",
+    "parentScientificName": "Mustelidae",
+    "commonNameRu": null,
+    "commonNameEn": "Lutra"
+  },
+  {
+    "scientificName": "Lycaon",
+    "slug": "lycaon",
+    "rankCode": "genus",
+    "parentScientificName": "Canidae",
+    "commonNameRu": null,
+    "commonNameEn": "Lycaon"
+  },
+  {
+    "scientificName": "Lynx",
+    "slug": "lynx",
+    "rankCode": "genus",
+    "parentScientificName": "Felidae",
+    "commonNameRu": null,
+    "commonNameEn": "Lynx"
+  },
+  {
+    "scientificName": "Macaca",
+    "slug": "macaca",
+    "rankCode": "genus",
+    "parentScientificName": "Cercopithecidae",
+    "commonNameRu": null,
+    "commonNameEn": "Macaca"
+  },
+  {
+    "scientificName": "Madoqua",
+    "slug": "madoqua",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Madoqua"
+  },
+  {
+    "scientificName": "Mandrillus",
+    "slug": "mandrillus",
+    "rankCode": "genus",
+    "parentScientificName": "Cercopithecidae",
+    "commonNameRu": null,
+    "commonNameEn": "Mandrillus"
+  },
+  {
+    "scientificName": "Moschus",
+    "slug": "moschus",
+    "rankCode": "genus",
+    "parentScientificName": "Moschidae",
+    "commonNameRu": null,
+    "commonNameEn": "Moschus"
+  },
+  {
+    "scientificName": "Mustela",
+    "slug": "mustela",
+    "rankCode": "genus",
+    "parentScientificName": "Mustelidae",
+    "commonNameRu": null,
+    "commonNameEn": "Mustela"
+  },
+  {
+    "scientificName": "Nanger",
+    "slug": "nanger",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Nanger"
+  },
+  {
+    "scientificName": "Neofelis",
+    "slug": "neofelis",
+    "rankCode": "genus",
+    "parentScientificName": "Felidae",
+    "commonNameRu": null,
+    "commonNameEn": "Neofelis"
+  },
+  {
+    "scientificName": "Neophron",
+    "slug": "neophron",
+    "rankCode": "genus",
+    "parentScientificName": "Accipitridae",
+    "commonNameRu": null,
+    "commonNameEn": "Neophron"
+  },
+  {
+    "scientificName": "Nomascus",
+    "slug": "nomascus",
+    "rankCode": "genus",
+    "parentScientificName": "Hylobatidae",
+    "commonNameRu": null,
+    "commonNameEn": "Nomascus"
+  },
+  {
+    "scientificName": "Okapia",
+    "slug": "okapia",
+    "rankCode": "genus",
+    "parentScientificName": "Giraffidae",
+    "commonNameRu": null,
+    "commonNameEn": "Okapia"
+  },
+  {
+    "scientificName": "Orycteropus",
+    "slug": "orycteropus",
+    "rankCode": "genus",
+    "parentScientificName": "Orycteropodidae",
+    "commonNameRu": null,
+    "commonNameEn": "Orycteropus"
+  },
+  {
+    "scientificName": "Oryx",
+    "slug": "oryx",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Oryx"
+  },
+  {
+    "scientificName": "Ovibos",
+    "slug": "ovibos",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ovibos"
+  },
+  {
+    "scientificName": "Pan",
+    "slug": "pan",
+    "rankCode": "genus",
+    "parentScientificName": "Hominidae",
+    "commonNameRu": null,
+    "commonNameEn": "Pan"
+  },
+  {
+    "scientificName": "Panthera",
+    "slug": "panthera",
+    "rankCode": "genus",
+    "parentScientificName": "Felidae",
+    "commonNameRu": null,
+    "commonNameEn": "Panthera"
+  },
+  {
+    "scientificName": "Pelecanus",
+    "slug": "pelecanus",
+    "rankCode": "genus",
+    "parentScientificName": "Pelecanidae",
+    "commonNameRu": null,
+    "commonNameEn": "Pelecanus"
+  },
+  {
+    "scientificName": "Phascolarctos",
+    "slug": "phascolarctos",
+    "rankCode": "genus",
+    "parentScientificName": "Phascolarctidae",
+    "commonNameRu": null,
+    "commonNameEn": "Phascolarctos"
+  },
+  {
+    "scientificName": "Phoenicopterus",
+    "slug": "phoenicopterus",
+    "rankCode": "genus",
+    "parentScientificName": "Phoenicopteridae",
+    "commonNameRu": null,
+    "commonNameEn": "Phoenicopterus"
+  },
+  {
+    "scientificName": "Pongo",
+    "slug": "pongo",
+    "rankCode": "genus",
+    "parentScientificName": "Hominidae",
+    "commonNameRu": null,
+    "commonNameEn": "Pongo"
+  },
+  {
+    "scientificName": "Propithecus",
+    "slug": "propithecus",
+    "rankCode": "genus",
+    "parentScientificName": "Indriidae",
+    "commonNameRu": null,
+    "commonNameEn": "Propithecus"
+  },
+  {
+    "scientificName": "Psittacus",
+    "slug": "psittacus",
+    "rankCode": "genus",
+    "parentScientificName": "Psittacidae",
+    "commonNameRu": null,
+    "commonNameEn": "Psittacus"
+  },
+  {
+    "scientificName": "Pteronura",
+    "slug": "pteronura",
+    "rankCode": "genus",
+    "parentScientificName": "Mustelidae",
+    "commonNameRu": null,
+    "commonNameEn": "Pteronura"
+  },
+  {
+    "scientificName": "Pygoscelis",
+    "slug": "pygoscelis",
+    "rankCode": "genus",
+    "parentScientificName": "Spheniscidae",
+    "commonNameRu": null,
+    "commonNameEn": "Pygoscelis"
+  },
+  {
+    "scientificName": "Rangifer",
+    "slug": "rangifer",
+    "rankCode": "genus",
+    "parentScientificName": "Cervidae",
+    "commonNameRu": null,
+    "commonNameEn": "Rangifer"
+  },
+  {
+    "scientificName": "Rhinoceros",
+    "slug": "rhinoceros",
+    "rankCode": "genus",
+    "parentScientificName": "Rhinocerotidae",
+    "commonNameRu": null,
+    "commonNameEn": "Rhinoceros"
+  },
+  {
+    "scientificName": "Spheniscus",
+    "slug": "spheniscus",
+    "rankCode": "genus",
+    "parentScientificName": "Spheniscidae",
+    "commonNameRu": null,
+    "commonNameEn": "Spheniscus"
+  },
+  {
+    "scientificName": "Struthio",
+    "slug": "struthio",
+    "rankCode": "genus",
+    "parentScientificName": "Struthionidae",
+    "commonNameRu": null,
+    "commonNameEn": "Struthio"
+  },
+  {
+    "scientificName": "Suricata",
+    "slug": "suricata",
+    "rankCode": "genus",
+    "parentScientificName": "Herpestidae",
+    "commonNameRu": null,
+    "commonNameEn": "Suricata"
+  },
+  {
+    "scientificName": "Tapirus",
+    "slug": "tapirus",
+    "rankCode": "genus",
+    "parentScientificName": "Tapiridae",
+    "commonNameRu": null,
+    "commonNameEn": "Tapirus"
+  },
+  {
+    "scientificName": "Taurotragus",
+    "slug": "taurotragus",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Taurotragus"
+  },
+  {
+    "scientificName": "Testudo",
+    "slug": "testudo",
+    "rankCode": "genus",
+    "parentScientificName": "Testudinidae",
+    "commonNameRu": null,
+    "commonNameEn": "Testudo"
+  },
+  {
+    "scientificName": "Tomistoma",
+    "slug": "tomistoma",
+    "rankCode": "genus",
+    "parentScientificName": "Crocodylidae",
+    "commonNameRu": null,
+    "commonNameEn": "Tomistoma"
+  },
+  {
+    "scientificName": "Trachypithecus",
+    "slug": "trachypithecus",
+    "rankCode": "genus",
+    "parentScientificName": "Cercopithecidae",
+    "commonNameRu": null,
+    "commonNameEn": "Trachypithecus"
+  },
+  {
+    "scientificName": "Tragelaphus",
+    "slug": "tragelaphus",
+    "rankCode": "genus",
+    "parentScientificName": "Bovidae",
+    "commonNameRu": null,
+    "commonNameEn": "Tragelaphus"
+  },
+  {
+    "scientificName": "Tragulus",
+    "slug": "tragulus",
+    "rankCode": "genus",
+    "parentScientificName": "Tragulidae",
+    "commonNameRu": null,
+    "commonNameEn": "Tragulus"
+  },
+  {
+    "scientificName": "Tremarctos",
+    "slug": "tremarctos",
+    "rankCode": "genus",
+    "parentScientificName": "Ursidae",
+    "commonNameRu": null,
+    "commonNameEn": "Tremarctos"
+  },
+  {
+    "scientificName": "Trichechus",
+    "slug": "trichechus",
+    "rankCode": "genus",
+    "parentScientificName": "Trichechidae",
+    "commonNameRu": null,
+    "commonNameEn": "Trichechus"
+  },
+  {
+    "scientificName": "Ursus",
+    "slug": "ursus",
+    "rankCode": "genus",
+    "parentScientificName": "Ursidae",
+    "commonNameRu": null,
+    "commonNameEn": "Ursus"
+  },
+  {
+    "scientificName": "Varanus",
+    "slug": "varanus",
+    "rankCode": "genus",
+    "parentScientificName": "Varanidae",
+    "commonNameRu": null,
+    "commonNameEn": "Varanus"
+  },
+  {
+    "scientificName": "Varecia",
+    "slug": "varecia",
+    "rankCode": "genus",
+    "parentScientificName": "Lemuridae",
+    "commonNameRu": null,
+    "commonNameEn": "Varecia"
+  },
+  {
+    "scientificName": "Vulpes",
+    "slug": "vulpes",
+    "rankCode": "genus",
+    "parentScientificName": "Canidae",
+    "commonNameRu": null,
+    "commonNameEn": "Vulpes"
+  },
+  {
+    "scientificName": "Zalophus",
+    "slug": "zalophus",
+    "rankCode": "genus",
+    "parentScientificName": "Otariidae",
+    "commonNameRu": null,
+    "commonNameEn": "Zalophus"
+  },
+  {
+    "scientificName": "Panthera tigris",
+    "slug": "panthera-tigris",
+    "rankCode": "species",
+    "parentScientificName": "Panthera",
+    "commonNameRu": "Тигр",
+    "commonNameEn": "Panthera tigris",
+    "gbifKey": 5219416,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-panthera-tigris"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная кошка с рыжевато-оранжевым мехом и тёмными полосами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/panthera-tigris.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg"
+  },
+  {
+    "scientificName": "Panthera leo",
+    "slug": "panthera-leo",
+    "rankCode": "species",
+    "parentScientificName": "Panthera",
+    "commonNameRu": "Лев",
+    "commonNameEn": "Panthera leo",
+    "gbifKey": 5219404,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-panthera-leo"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная социальная кошка, самцы имеют гриву.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/panthera-leo.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Panthera onca",
+    "slug": "panthera-onca",
+    "rankCode": "species",
+    "parentScientificName": "Panthera",
+    "commonNameRu": "Ягуар",
+    "commonNameEn": "Panthera onca",
+    "gbifKey": 5219426,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "forest",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-panthera-onca"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейшая кошка Америки с пятнистым окрасом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/panthera-onca.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:0a"
+  },
+  {
+    "scientificName": "Panthera pardus",
+    "slug": "panthera-pardus",
+    "rankCode": "species",
+    "parentScientificName": "Panthera",
+    "commonNameRu": "Леопард",
+    "commonNameEn": "Panthera pardus",
+    "gbifKey": 5219436,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-panthera-pardus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Кошка с пятнистым мехом, широко распространённая в Африке и Азии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/panthera-pardus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:African_leopard_male_(cropped).jpg"
+  },
+  {
+    "scientificName": "Neofelis nebulosa",
+    "slug": "neofelis-nebulosa",
+    "rankCode": "species",
+    "parentScientificName": "Neofelis",
+    "commonNameRu": "Дымчатый леопард",
+    "commonNameEn": "Neofelis nebulosa",
+    "gbifKey": 2435079,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-neofelis-nebulosa"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшая кошка с крупными облаковидными пятнами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/neofelis-nebulosa.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Neofelis_nebulosa%2C_Clouded_leopard.jpg"
+  },
+  {
+    "scientificName": "Acinonyx jubatus",
+    "slug": "acinonyx-jubatus",
+    "rankCode": "species",
+    "parentScientificName": "Acinonyx",
+    "commonNameRu": "Гепард",
+    "commonNameEn": "Acinonyx jubatus",
+    "gbifKey": 2435270,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-acinonyx-jubatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Быстро бегающая кошка с пятнистым окрасом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/acinonyx-jubatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Male_cheetah_facing_left_in_South_Africa.jpg"
+  },
+  {
+    "scientificName": "Lynx lynx",
+    "slug": "lynx-lynx",
+    "rankCode": "species",
+    "parentScientificName": "Lynx",
+    "commonNameRu": "Обыкновенная рысь",
+    "commonNameEn": "Lynx lynx",
+    "gbifKey": 2435240,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-lynx-lynx"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Кошка с коротким хвостом и кисточками на ушах.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lynx-lynx.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Lynx_Nationalpark_Bayerischer_Wald_01.jpg"
+  },
+  {
+    "scientificName": "Lynx pardinus",
+    "slug": "lynx-pardinus",
+    "rankCode": "species",
+    "parentScientificName": "Lynx",
+    "commonNameRu": "Пиренейская рысь",
+    "commonNameEn": "Lynx pardinus",
+    "gbifKey": 2435261,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-lynx-pardinus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Эндемик Пиренейского полуострова, специализируется на кроликах.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lynx-pardinus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3b"
+  },
+  {
+    "scientificName": "Panthera uncia",
+    "slug": "panthera-uncia",
+    "rankCode": "species",
+    "parentScientificName": "Panthera",
+    "commonNameRu": "Ирбис",
+    "commonNameEn": "Panthera uncia",
+    "gbifKey": 5787213,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-panthera-uncia"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Высокогорная кошка с густым светлым мехом и длинным хвостом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/panthera-uncia.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:a5"
+  },
+  {
+    "scientificName": "Ailuropoda melanoleuca",
+    "slug": "ailuropoda-melanoleuca",
+    "rankCode": "species",
+    "parentScientificName": "Ailuropoda",
+    "commonNameRu": "Большая панда",
+    "commonNameEn": "Ailuropoda melanoleuca",
+    "gbifKey": 2433399,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-ailuropoda-melanoleuca"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Медведь с характерным чёрно-белым окрасом, эндемик Китая.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ailuropoda-melanoleuca.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Grosser_Panda.JPG"
+  },
+  {
+    "scientificName": "Ailurus fulgens",
+    "slug": "ailurus-fulgens",
+    "rankCode": "species",
+    "parentScientificName": "Ailurus",
+    "commonNameRu": "Малая панда",
+    "commonNameEn": "Ailurus fulgens",
+    "gbifKey": 5219446,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-ailurus-fulgens"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшое млекопитающее с рыжеватым мехом и длинным хвостом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ailurus-fulgens.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Red_Panda_(24986761703).jpg"
+  },
+  {
+    "scientificName": "Ursus arctos",
+    "slug": "ursus-arctos",
+    "rankCode": "species",
+    "parentScientificName": "Ursus",
+    "commonNameRu": "Бурый медведь",
+    "commonNameEn": "Ursus arctos",
+    "gbifKey": 2433433,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-ursus-arctos"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный всеядный медведь Северного полушария.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ursus-arctos.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:71"
+  },
+  {
+    "scientificName": "Ursus maritimus",
+    "slug": "ursus-maritimus",
+    "rankCode": "species",
+    "parentScientificName": "Ursus",
+    "commonNameRu": "Белый медведь",
+    "commonNameEn": "Ursus maritimus",
+    "gbifKey": 2433451,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "tundra",
+      "coastal"
+    ],
+    "sourceRefs": [
+      "gbif-ursus-maritimus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный медведь Арктики, связанный с морскими льдами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ursus-maritimus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:66"
+  },
+  {
+    "scientificName": "Helarctos malayanus",
+    "slug": "helarctos-malayanus",
+    "rankCode": "species",
+    "parentScientificName": "Helarctos",
+    "commonNameRu": "Малайский медведь",
+    "commonNameEn": "Helarctos malayanus",
+    "gbifKey": 2433403,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-helarctos-malayanus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Самый мелкий вид медведей, обитает в тропических лесах Юго-Восточной Азии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/helarctos-malayanus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:eb"
+  },
+  {
+    "scientificName": "Tremarctos ornatus",
+    "slug": "tremarctos-ornatus",
+    "rankCode": "species",
+    "parentScientificName": "Tremarctos",
+    "commonNameRu": "Очковый медведь",
+    "commonNameEn": "Tremarctos ornatus",
+    "gbifKey": 2433401,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-tremarctos-ornatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Южноамериканский медведь со светлыми отметинами на морде и груди.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tremarctos-ornatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Tremarctos_ornatus_in_Jardim_Zool%C3%B3gico_de_Curitiba.jpg"
+  },
+  {
+    "scientificName": "Loxodonta africana",
+    "slug": "loxodonta-africana",
+    "rankCode": "species",
+    "parentScientificName": "Loxodonta",
+    "commonNameRu": "Саванный слон",
+    "commonNameEn": "Loxodonta africana",
+    "gbifKey": 2435350,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "grassland",
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-loxodonta-africana"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейшее современное наземное животное.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/loxodonta-africana.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Elephas maximus",
+    "slug": "elephas-maximus",
+    "rankCode": "species",
+    "parentScientificName": "Elephas",
+    "commonNameRu": "Азиатский слон",
+    "commonNameEn": "Elephas maximus",
+    "gbifKey": 5219461,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-elephas-maximus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Слон Южной и Юго-Восточной Азии с относительно небольшими ушами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/elephas-maximus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:98"
+  },
+  {
+    "scientificName": "Giraffa camelopardalis",
+    "slug": "giraffa-camelopardalis",
+    "rankCode": "species",
+    "parentScientificName": "Giraffa",
+    "commonNameRu": "Жираф",
+    "commonNameEn": "Giraffa camelopardalis",
+    "gbifKey": 2441205,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-giraffa-camelopardalis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Высокое парнокопытное с длинной шеей и характерным рисунком.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/giraffa-camelopardalis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Rothschild's_giraffe_(Giraffa_camelopardalis_rothschildi)_-_Murchison_Falls_National_Park.jpg"
+  },
+  {
+    "scientificName": "Okapia johnstoni",
+    "slug": "okapia-johnstoni",
+    "rankCode": "species",
+    "parentScientificName": "Okapia",
+    "commonNameRu": "Окапи",
+    "commonNameEn": "Okapia johnstoni",
+    "gbifKey": 2441207,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-okapia-johnstoni"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Лесное парнокопытное семейства жирафовых с полосатыми ногами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/okapia-johnstoni.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3a"
+  },
+  {
+    "scientificName": "Diceros bicornis",
+    "slug": "diceros-bicornis",
+    "rankCode": "species",
+    "parentScientificName": "Diceros",
+    "commonNameRu": "Чёрный носорог",
+    "commonNameEn": "Diceros bicornis",
+    "gbifKey": 5220111,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-diceros-bicornis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Африканский носорог с двумя рогами и хватательной верхней губой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/diceros-bicornis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Black_Rhino_at_Working_with_Wildlife.jpg"
+  },
+  {
+    "scientificName": "Ceratotherium simum",
+    "slug": "ceratotherium-simum",
+    "rankCode": "species",
+    "parentScientificName": "Ceratotherium",
+    "commonNameRu": "Белый носорог",
+    "commonNameEn": "Ceratotherium simum",
+    "gbifKey": 2440880,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-ceratotherium-simum"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный африканский носорог с широкой верхней губой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ceratotherium-simum.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:109_Male_White_rhinoceros_walking_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Rhinoceros unicornis",
+    "slug": "rhinoceros-unicornis",
+    "rankCode": "species",
+    "parentScientificName": "Rhinoceros",
+    "commonNameRu": "Индийский носорог",
+    "commonNameEn": "Rhinoceros unicornis",
+    "gbifKey": 5220113,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "grassland",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-rhinoceros-unicornis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Азиатский носорог с одним рогом и складчатой кожей.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/rhinoceros-unicornis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:77"
+  },
+  {
+    "scientificName": "Tapirus terrestris",
+    "slug": "tapirus-terrestris",
+    "rankCode": "species",
+    "parentScientificName": "Tapirus",
+    "commonNameRu": "Равнинный тапир",
+    "commonNameEn": "Tapirus terrestris",
+    "gbifKey": 2440898,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-tapirus-terrestris"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Южноамериканский тапир с небольшим хоботком.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tapirus-terrestris.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:South_American_tapir_(Tapirus_terrestris).JPG"
+  },
+  {
+    "scientificName": "Equus przewalskii",
+    "slug": "equus-przewalskii",
+    "rankCode": "species",
+    "parentScientificName": "Equus",
+    "commonNameRu": "Лошадь Пржевальского",
+    "commonNameEn": "Equus przewalskii",
+    "gbifKey": 5787169,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-equus-przewalskii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Дикая лошадь, сохранённая благодаря программам разведения.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/equus-przewalskii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f5"
+  },
+  {
+    "scientificName": "Equus quagga",
+    "slug": "equus-quagga",
+    "rankCode": "species",
+    "parentScientificName": "Equus",
+    "commonNameRu": "Бурчеллова зебра",
+    "commonNameEn": "Equus quagga",
+    "gbifKey": 2440892,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-equus-quagga"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Равнинная зебра с полосатым окрасом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/equus-quagga.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha%2C_2014.jpg"
+  },
+  {
+    "scientificName": "Hippopotamus amphibius",
+    "slug": "hippopotamus-amphibius",
+    "rankCode": "species",
+    "parentScientificName": "Hippopotamus",
+    "commonNameRu": "Обыкновенный бегемот",
+    "commonNameEn": "Hippopotamus amphibius",
+    "gbifKey": 2441247,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-hippopotamus-amphibius"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупное полуводное парнокопытное Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/hippopotamus-amphibius.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_Hippopotamus_in_the_water.jpg"
+  },
+  {
+    "scientificName": "Choeropsis liberiensis",
+    "slug": "choeropsis-liberiensis",
+    "rankCode": "species",
+    "parentScientificName": "Choeropsis",
+    "commonNameRu": "Карликовый бегемот",
+    "commonNameEn": "Choeropsis liberiensis",
+    "gbifKey": 5787064,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-choeropsis-liberiensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшой лесной бегемот Западной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/choeropsis-liberiensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Hexaprotodon_liberiensis_in_Edinburgh_Zoo.JPG"
+  },
+  {
+    "scientificName": "Bison bonasus",
+    "slug": "bison-bonasus",
+    "rankCode": "species",
+    "parentScientificName": "Bison",
+    "commonNameRu": "Зубр",
+    "commonNameEn": "Bison bonasus",
+    "gbifKey": 2441184,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-bison-bonasus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный дикий бык Европы, восстановленный из неволи.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/bison-bonasus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_male_Bia%C5%82owieza.jpg"
+  },
+  {
+    "scientificName": "Bison bison",
+    "slug": "bison-bison",
+    "rankCode": "species",
+    "parentScientificName": "Bison",
+    "commonNameRu": "Бизон",
+    "commonNameEn": "Bison bison",
+    "gbifKey": 2441176,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-bison-bison"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный бык североамериканских прерий.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/bison-bison.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:8d"
+  },
+  {
+    "scientificName": "Gorilla gorilla",
+    "slug": "gorilla-gorilla",
+    "rankCode": "species",
+    "parentScientificName": "Gorilla",
+    "commonNameRu": "Западная горилла",
+    "commonNameEn": "Gorilla gorilla",
+    "gbifKey": 2436441,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-gorilla-gorilla"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный человекообразный примат тропических лесов Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/gorilla-gorilla.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:50"
+  },
+  {
+    "scientificName": "Pan troglodytes",
+    "slug": "pan-troglodytes",
+    "rankCode": "species",
+    "parentScientificName": "Pan",
+    "commonNameRu": "Обыкновенный шимпанзе",
+    "commonNameEn": "Pan troglodytes",
+    "gbifKey": 5219534,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-pan-troglodytes"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Человекообразный примат, использующий орудия.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pan-troglodytes.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Pongo abelii",
+    "slug": "pongo-abelii",
+    "rankCode": "species",
+    "parentScientificName": "Pongo",
+    "commonNameRu": "Суматранский орангутан",
+    "commonNameEn": "Pongo abelii",
+    "gbifKey": 5707420,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-pongo-abelii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Рыжеволосый человекообразный примат Суматры.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pongo-abelii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:2c"
+  },
+  {
+    "scientificName": "Pongo pygmaeus",
+    "slug": "pongo-pygmaeus",
+    "rankCode": "species",
+    "parentScientificName": "Pongo",
+    "commonNameRu": "Калимантанский орангутан",
+    "commonNameEn": "Pongo pygmaeus",
+    "gbifKey": 5219532,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-pongo-pygmaeus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Рыжеволосый человекообразный примат Борнео.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pongo-pygmaeus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:d6"
+  },
+  {
+    "scientificName": "Lemur catta",
+    "slug": "lemur-catta",
+    "rankCode": "species",
+    "parentScientificName": "Lemur",
+    "commonNameRu": "Кошачий лемур",
+    "commonNameEn": "Lemur catta",
+    "gbifKey": 2436412,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-lemur-catta"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Лемур с длинным полосатым хвостом, эндемик Мадагаскара.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lemur-catta.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:0b"
+  },
+  {
+    "scientificName": "Varecia variegata",
+    "slug": "varecia-variegata",
+    "rankCode": "species",
+    "parentScientificName": "Varecia",
+    "commonNameRu": "Лемур вари",
+    "commonNameEn": "Varecia variegata",
+    "gbifKey": 2436424,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-varecia-variegata"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный дневной лемур с чёрно-белым мехом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/varecia-variegata.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:1_black_and_white_ruffed_lemur.jpg"
+  },
+  {
+    "scientificName": "Macaca sylvanus",
+    "slug": "macaca-sylvanus",
+    "rankCode": "species",
+    "parentScientificName": "Macaca",
+    "commonNameRu": "Магот",
+    "commonNameEn": "Macaca sylvanus",
+    "gbifKey": 2436618,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "mountain",
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-macaca-sylvanus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Единственный вид обезьян, обитающий в Европе (Гибралтар).",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/macaca-sylvanus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:62"
+  },
+  {
+    "scientificName": "Mandrillus sphinx",
+    "slug": "mandrillus-sphinx",
+    "rankCode": "species",
+    "parentScientificName": "Mandrillus",
+    "commonNameRu": "Мандрил",
+    "commonNameEn": "Mandrillus sphinx",
+    "gbifKey": 5219556,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-mandrillus-sphinx"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный африканский примат с яркой окраской морды.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/mandrillus-sphinx.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:ed"
+  },
+  {
+    "scientificName": "Crocuta crocuta",
+    "slug": "crocuta-crocuta",
+    "rankCode": "species",
+    "parentScientificName": "Crocuta",
+    "commonNameRu": "Пятнистая гиена",
+    "commonNameEn": "Crocuta crocuta",
+    "gbifKey": 5218781,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-crocuta-crocuta"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Социальная гиена африканских саванн.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/crocuta-crocuta.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg"
+  },
+  {
+    "scientificName": "Suricata suricatta",
+    "slug": "suricata-suricatta",
+    "rankCode": "species",
+    "parentScientificName": "Suricata",
+    "commonNameRu": "Сурикат",
+    "commonNameEn": "Suricata suricatta",
+    "gbifKey": 2434126,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "desert",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-suricata-suricatta"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшой общественный мангуст Южной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/suricata-suricatta.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:9a"
+  },
+  {
+    "scientificName": "Canis lupus",
+    "slug": "canis-lupus",
+    "rankCode": "species",
+    "parentScientificName": "Canis",
+    "commonNameRu": "Волк",
+    "commonNameEn": "Canis lupus",
+    "gbifKey": 5219173,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "tundra",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-canis-lupus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный социальный псовый с широким ареалом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/canis-lupus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:68"
+  },
+  {
+    "scientificName": "Lycaon pictus",
+    "slug": "lycaon-pictus",
+    "rankCode": "species",
+    "parentScientificName": "Lycaon",
+    "commonNameRu": "Гиеновидная собака",
+    "commonNameEn": "Lycaon pictus",
+    "gbifKey": 5219317,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-lycaon-pictus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Африканский стайный хищник с пятнистым окрасом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lycaon-pictus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:75"
+  },
+  {
+    "scientificName": "Vulpes zerda",
+    "slug": "vulpes-zerda",
+    "rankCode": "species",
+    "parentScientificName": "Vulpes",
+    "commonNameRu": "Фенек",
+    "commonNameEn": "Vulpes zerda",
+    "gbifKey": 5219310,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-vulpes-zerda"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшая лиса с крупными ушами, обитает в пустынях Северной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/vulpes-zerda.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:9f"
+  },
+  {
+    "scientificName": "Gulo gulo",
+    "slug": "gulo-gulo",
+    "rankCode": "species",
+    "parentScientificName": "Gulo",
+    "commonNameRu": "Росомаха",
+    "commonNameEn": "Gulo gulo",
+    "gbifKey": 5219073,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "tundra"
+    ],
+    "sourceRefs": [
+      "gbif-gulo-gulo"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный наземный куньий северных широт.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/gulo-gulo.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:86"
+  },
+  {
+    "scientificName": "Lutra lutra",
+    "slug": "lutra-lutra",
+    "rankCode": "species",
+    "parentScientificName": "Lutra",
+    "commonNameRu": "Речная выдра",
+    "commonNameEn": "Lutra lutra",
+    "gbifKey": 2433753,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-lutra-lutra"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Полуводный куньий, питающийся рыбой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lutra-lutra.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:d3"
+  },
+  {
+    "scientificName": "Cervus elaphus",
+    "slug": "cervus-elaphus",
+    "rankCode": "species",
+    "parentScientificName": "Cervus",
+    "commonNameRu": "Благородный олень",
+    "commonNameEn": "Cervus elaphus",
+    "gbifKey": 2440958,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-cervus-elaphus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный олень с ветвистыми рогами у самцов.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/cervus-elaphus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg"
+  },
+  {
+    "scientificName": "Rangifer tarandus",
+    "slug": "rangifer-tarandus",
+    "rankCode": "species",
+    "parentScientificName": "Rangifer",
+    "commonNameRu": "Северный олень",
+    "commonNameEn": "Rangifer tarandus",
+    "gbifKey": 5220114,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "tundra",
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-rangifer-tarandus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Олень тундры и тайги, у обоих полов есть рога.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/rangifer-tarandus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:96"
+  },
+  {
+    "scientificName": "Capra ibex",
+    "slug": "capra-ibex",
+    "rankCode": "species",
+    "parentScientificName": "Capra",
+    "commonNameRu": "Альпийский козёл",
+    "commonNameEn": "Capra ibex",
+    "gbifKey": 2441055,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-capra-ibex"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Горный козёл Альп с крупными изогнутыми рогами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/capra-ibex.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Addax nasomaculatus",
+    "slug": "addax-nasomaculatus",
+    "rankCode": "species",
+    "parentScientificName": "Addax",
+    "commonNameRu": "Аддакс",
+    "commonNameEn": "Addax nasomaculatus",
+    "gbifKey": 2441101,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-addax-nasomaculatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Пустынная антилопа Сахары с винтообразными рогами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/addax-nasomaculatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:8d"
+  },
+  {
+    "scientificName": "Oryx leucoryx",
+    "slug": "oryx-leucoryx",
+    "rankCode": "species",
+    "parentScientificName": "Oryx",
+    "commonNameRu": "Аравийский орикс",
+    "commonNameEn": "Oryx leucoryx",
+    "gbifKey": 5220164,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-oryx-leucoryx"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Светлая антилопа пустынь Аравийского полуострова.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/oryx-leucoryx.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:43"
+  },
+  {
+    "scientificName": "Oryx dammah",
+    "slug": "oryx-dammah",
+    "rankCode": "species",
+    "parentScientificName": "Oryx",
+    "commonNameRu": "Саблерогий орикс",
+    "commonNameEn": "Oryx dammah",
+    "gbifKey": 5220165,
+    "iucnCode": "EW",
+    "habitatSlugs": [
+      "desert",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-oryx-dammah"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Антилопа с длинными саблевидными рогами, исчезла в дикой природе.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/oryx-dammah.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3a"
+  },
+  {
+    "scientificName": "Nanger dama",
+    "slug": "nanger-dama",
+    "rankCode": "species",
+    "parentScientificName": "Nanger",
+    "commonNameRu": "Газель дама",
+    "commonNameEn": "Nanger dama",
+    "gbifKey": 4262713,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "desert",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-nanger-dama"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная антилопа засушливых районов Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/nanger-dama.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:a5"
+  },
+  {
+    "scientificName": "Tragelaphus strepsiceros",
+    "slug": "tragelaphus-strepsiceros",
+    "rankCode": "species",
+    "parentScientificName": "Tragelaphus",
+    "commonNameRu": "Куду",
+    "commonNameEn": "Tragelaphus strepsiceros",
+    "gbifKey": 5220183,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-tragelaphus-strepsiceros"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Антилопа с длинными винтообразными рогами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tragelaphus-strepsiceros.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:e4"
+  },
+  {
+    "scientificName": "Taurotragus oryx",
+    "slug": "taurotragus-oryx",
+    "rankCode": "species",
+    "parentScientificName": "Taurotragus",
+    "commonNameRu": "Канна",
+    "commonNameEn": "Taurotragus oryx",
+    "gbifKey": 5220167,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-taurotragus-oryx"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейшая антилопа Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/taurotragus-oryx.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:31"
+  },
+  {
+    "scientificName": "Ara macao",
+    "slug": "ara-macao",
+    "rankCode": "species",
+    "parentScientificName": "Ara",
+    "commonNameRu": "Красный ара",
+    "commonNameEn": "Ara macao",
+    "gbifKey": 5959227,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-ara-macao"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный яркоокрашенный попугай тропических лесов Америки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ara-macao.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Scarlet_macaw_(Ara_macao_cyanopterus)_Copan.jpg"
+  },
+  {
+    "scientificName": "Psittacus erithacus",
+    "slug": "psittacus-erithacus",
+    "rankCode": "species",
+    "parentScientificName": "Psittacus",
+    "commonNameRu": "Серый попугай",
+    "commonNameEn": "Psittacus erithacus",
+    "gbifKey": 2480181,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-psittacus-erithacus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Африканский попугай с серым оперением и красным хвостом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/psittacus-erithacus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3c"
+  },
+  {
+    "scientificName": "Ciconia ciconia",
+    "slug": "ciconia-ciconia",
+    "rankCode": "species",
+    "parentScientificName": "Ciconia",
+    "commonNameRu": "Белый аист",
+    "commonNameEn": "Ciconia ciconia",
+    "gbifKey": 2481912,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "wetland",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-ciconia-ciconia"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная перелётная птица с белым оперением и красным клювом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ciconia-ciconia.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:13"
+  },
+  {
+    "scientificName": "Geronticus eremita",
+    "slug": "geronticus-eremita",
+    "rankCode": "species",
+    "parentScientificName": "Geronticus",
+    "commonNameRu": "Лесной ибис",
+    "commonNameEn": "Geronticus eremita",
+    "gbifKey": 2480770,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "desert",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-geronticus-eremita"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Редкий ибис с лысой красной головой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/geronticus-eremita.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:44"
+  },
+  {
+    "scientificName": "Gypaetus barbatus",
+    "slug": "gypaetus-barbatus",
+    "rankCode": "species",
+    "parentScientificName": "Gypaetus",
+    "commonNameRu": "Бородач",
+    "commonNameEn": "Gypaetus barbatus",
+    "gbifKey": 2480649,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-gypaetus-barbatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный падальщик, питающийся преимущественно костями.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/gypaetus-barbatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:cf"
+  },
+  {
+    "scientificName": "Neophron percnopterus",
+    "slug": "neophron-percnopterus",
+    "rankCode": "species",
+    "parentScientificName": "Neophron",
+    "commonNameRu": "Стервятник",
+    "commonNameEn": "Neophron percnopterus",
+    "gbifKey": 2480696,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "mountain",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-neophron-percnopterus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшой падальщик со светлым оперением.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/neophron-percnopterus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:36"
+  },
+  {
+    "scientificName": "Grus grus",
+    "slug": "grus-grus",
+    "rankCode": "species",
+    "parentScientificName": "Grus",
+    "commonNameRu": "Серый журавль",
+    "commonNameEn": "Grus grus",
+    "gbifKey": 2474950,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "wetland",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-grus-grus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный перелётный журавль Евразии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/grus-grus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:fd"
+  },
+  {
+    "scientificName": "Struthio camelus",
+    "slug": "struthio-camelus",
+    "rankCode": "species",
+    "parentScientificName": "Struthio",
+    "commonNameRu": "Африканский страус",
+    "commonNameEn": "Struthio camelus",
+    "gbifKey": 2495150,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-struthio-camelus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейшая современная птица, не летает.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/struthio-camelus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:9d"
+  },
+  {
+    "scientificName": "Spheniscus humboldti",
+    "slug": "spheniscus-humboldti",
+    "rankCode": "species",
+    "parentScientificName": "Spheniscus",
+    "commonNameRu": "Пингвин Гумбольдта",
+    "commonNameEn": "Spheniscus humboldti",
+    "gbifKey": 5229386,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "coastal",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-spheniscus-humboldti"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Пингвин тихоокеанского побережья Южной Америки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/spheniscus-humboldti.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:2c"
+  },
+  {
+    "scientificName": "Aptenodytes patagonicus",
+    "slug": "aptenodytes-patagonicus",
+    "rankCode": "species",
+    "parentScientificName": "Aptenodytes",
+    "commonNameRu": "Королевский пингвин",
+    "commonNameEn": "Aptenodytes patagonicus",
+    "gbifKey": 2481660,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "coastal",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-aptenodytes-patagonicus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный пингвин субантарктических островов.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/aptenodytes-patagonicus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:SGI-2016-South_Georgia_(Fortuna_Bay)%E2%80%93King_penguin_(Aptenodytes_patagonicus)_04.jpg"
+  },
+  {
+    "scientificName": "Phoenicopterus roseus",
+    "slug": "phoenicopterus-roseus",
+    "rankCode": "species",
+    "parentScientificName": "Phoenicopterus",
+    "commonNameRu": "Розовый фламинго",
+    "commonNameEn": "Phoenicopterus roseus",
+    "gbifKey": 4352332,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "wetland",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-phoenicopterus-roseus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная птица с розовым оперением и изогнутым клювом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/phoenicopterus-roseus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg"
+  },
+  {
+    "scientificName": "Crocodylus niloticus",
+    "slug": "crocodylus-niloticus",
+    "rankCode": "species",
+    "parentScientificName": "Crocodylus",
+    "commonNameRu": "Нильский крокодил",
+    "commonNameEn": "Crocodylus niloticus",
+    "gbifKey": 2441341,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-crocodylus-niloticus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный крокодил Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/crocodylus-niloticus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:81"
+  },
+  {
+    "scientificName": "Alligator mississippiensis",
+    "slug": "alligator-mississippiensis",
+    "rankCode": "species",
+    "parentScientificName": "Alligator",
+    "commonNameRu": "Миссисипский аллигатор",
+    "commonNameEn": "Alligator mississippiensis",
+    "gbifKey": 2441370,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-alligator-mississippiensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Аллигатор юго-востока Северной Америки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/alligator-mississippiensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:03"
+  },
+  {
+    "scientificName": "Varanus komodoensis",
+    "slug": "varanus-komodoensis",
+    "rankCode": "species",
+    "parentScientificName": "Varanus",
+    "commonNameRu": "Комодский варан",
+    "commonNameEn": "Varanus komodoensis",
+    "gbifKey": 2470854,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-varanus-komodoensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейшая современная ящерица, эндемик Индонезии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/varanus-komodoensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f5"
+  },
+  {
+    "scientificName": "Testudo hermanni",
+    "slug": "testudo-hermanni",
+    "rankCode": "species",
+    "parentScientificName": "Testudo",
+    "commonNameRu": "Средиземноморская черепаха",
+    "commonNameEn": "Testudo hermanni",
+    "gbifKey": 2441454,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-testudo-hermanni"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Сухопутная черепаха Южной Европы.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/testudo-hermanni.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:ee"
+  },
+  {
+    "scientificName": "Chelonia mydas",
+    "slug": "chelonia-mydas",
+    "rankCode": "species",
+    "parentScientificName": "Chelonia",
+    "commonNameRu": "Зелёная черепаха",
+    "commonNameEn": "Chelonia mydas",
+    "gbifKey": 2442225,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "aquatic",
+      "coastal"
+    ],
+    "sourceRefs": [
+      "gbif-chelonia-mydas"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Морская черепаха тропических и субтропических морей.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/chelonia-mydas.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Green_sea_turtle_(Chelonia_mydas)_Moorea.jpg"
+  },
+  {
+    "scientificName": "Ambystoma mexicanum",
+    "slug": "ambystoma-mexicanum",
+    "rankCode": "species",
+    "parentScientificName": "Ambystoma",
+    "commonNameRu": "Аксолотль",
+    "commonNameEn": "Ambystoma mexicanum",
+    "gbifKey": 2431950,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-ambystoma-mexicanum"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Неотеническая амбистома, эндемик озёр Мексики.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ambystoma-mexicanum.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:00"
+  },
+  {
+    "scientificName": "Leucopsar rothschildi",
+    "slug": "leucopsar-rothschildi",
+    "rankCode": "species",
+    "parentScientificName": "Leucopsar",
+    "commonNameRu": "Балийский скворец",
+    "commonNameEn": "Leucopsar rothschildi",
+    "gbifKey": 2489068,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-leucopsar-rothschildi"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Белая птица семейства скворцовых, эндемик Бали.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/leucopsar-rothschildi.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Bali_Myna_0A2A9443.jpg"
+  },
+  {
+    "scientificName": "Capra falconeri",
+    "slug": "capra-falconeri",
+    "rankCode": "species",
+    "parentScientificName": "Capra",
+    "commonNameRu": "Винторогий козёл",
+    "commonNameEn": "Capra falconeri",
+    "gbifKey": 2441050,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-capra-falconeri"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Горный козёл с винтообразными рогами, обитает в горах Центральной Азии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/capra-falconeri.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:38"
+  },
+  {
+    "scientificName": "Bubo scandiacus",
+    "slug": "bubo-scandiacus",
+    "rankCode": "species",
+    "parentScientificName": "Bubo",
+    "commonNameRu": "Белая сова",
+    "commonNameEn": "Bubo scandiacus",
+    "gbifKey": 5959143,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "tundra"
+    ],
+    "sourceRefs": [
+      "gbif-bubo-scandiacus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная сова тундры с преимущественно белым оперением.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/bubo-scandiacus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f1"
+  },
+  {
+    "scientificName": "Trichechus manatus",
+    "slug": "trichechus-manatus",
+    "rankCode": "species",
+    "parentScientificName": "Trichechus",
+    "commonNameRu": "Американский ламантин",
+    "commonNameEn": "Trichechus manatus",
+    "gbifKey": 2435296,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "aquatic",
+      "coastal"
+    ],
+    "sourceRefs": [
+      "gbif-trichechus-manatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупное водное млекопитающее Карибского бассейна.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/trichechus-manatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:99"
+  },
+  {
+    "scientificName": "Spheniscus demersus",
+    "slug": "spheniscus-demersus",
+    "rankCode": "species",
+    "parentScientificName": "Spheniscus",
+    "commonNameRu": "Очковый пингвин",
+    "commonNameEn": "Spheniscus demersus",
+    "gbifKey": 5229384,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "coastal",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-spheniscus-demersus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Африканский пингвин с чёрной полосой на груди.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/spheniscus-demersus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:55"
+  },
+  {
+    "scientificName": "Mustela lutreola",
+    "slug": "mustela-lutreola",
+    "rankCode": "species",
+    "parentScientificName": "Mustela",
+    "commonNameRu": "Европейская норка",
+    "commonNameEn": "Mustela lutreola",
+    "gbifKey": 5219007,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "wetland",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-mustela-lutreola"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Полуводный куньий Европы, находящийся под угрозой исчезновения.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/mustela-lutreola.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:e4"
+  },
+  {
+    "scientificName": "Tragulus javanicus",
+    "slug": "tragulus-javanicus",
+    "rankCode": "species",
+    "parentScientificName": "Tragulus",
+    "commonNameRu": "Яванский оленёк",
+    "commonNameEn": "Tragulus javanicus",
+    "gbifKey": 5220187,
+    "iucnCode": "DD",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-tragulus-javanicus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Мелкое парнокопытное тропических лесов Явы.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tragulus-javanicus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Tragulus_javanicus_jerusalem_zoo.jpg"
+  },
+  {
+    "scientificName": "Phoenicopterus chilensis",
+    "slug": "phoenicopterus-chilensis",
+    "rankCode": "species",
+    "parentScientificName": "Phoenicopterus",
+    "commonNameRu": "Чилийский фламинго",
+    "commonNameEn": "Phoenicopterus chilensis",
+    "gbifKey": 2481110,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "wetland",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-phoenicopterus-chilensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Южноамериканский фламинго с розовым оперением.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/phoenicopterus-chilensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3f"
+  },
+  {
+    "scientificName": "Pan paniscus",
+    "slug": "pan-paniscus",
+    "rankCode": "species",
+    "parentScientificName": "Pan",
+    "commonNameRu": "Бонобо",
+    "commonNameEn": "Pan paniscus",
+    "gbifKey": 5219533,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-pan-paniscus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Человекообразный примат бассейна Конго.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pan-paniscus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:e2"
+  },
+  {
+    "scientificName": "Propithecus coquereli",
+    "slug": "propithecus-coquereli",
+    "rankCode": "species",
+    "parentScientificName": "Propithecus",
+    "commonNameRu": "Сифака Кокереля",
+    "commonNameEn": "Propithecus coquereli",
+    "gbifKey": 5707433,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-propithecus-coquereli"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Мадагаскарский лемур с длинными задними конечностями.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/propithecus-coquereli.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:4e"
+  },
+  {
+    "scientificName": "Hyaena hyaena",
+    "slug": "hyaena-hyaena",
+    "rankCode": "species",
+    "parentScientificName": "Hyaena",
+    "commonNameRu": "Полосатая гиена",
+    "commonNameEn": "Hyaena hyaena",
+    "gbifKey": 5218777,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland",
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-hyaena-hyaena"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Гиена с полосатым окрасом, распространённая в Африке и Азии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/hyaena-hyaena.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:4c"
+  },
+  {
+    "scientificName": "Tapirus indicus",
+    "slug": "tapirus-indicus",
+    "rankCode": "species",
+    "parentScientificName": "Acrocodia",
+    "commonNameRu": "Малайский тапир",
+    "commonNameEn": "Tapirus indicus",
+    "gbifKey": 2440896,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-tapirus-indicus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупнейший тапир с чёрно-белым окрасом.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tapirus-indicus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg"
+  },
+  {
+    "scientificName": "Equus grevyi",
+    "slug": "equus-grevyi",
+    "rankCode": "species",
+    "parentScientificName": "Equus",
+    "commonNameRu": "Зебра Греви",
+    "commonNameEn": "Equus grevyi",
+    "gbifKey": 2440894,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-equus-grevyi"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная зебра с узкими полосами, эндемик Восточной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/equus-grevyi.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:74"
+  },
+  {
+    "scientificName": "Gazella cuvieri",
+    "slug": "gazella-cuvieri",
+    "rankCode": "species",
+    "parentScientificName": "Gazella",
+    "commonNameRu": "Газель Кювье",
+    "commonNameEn": "Gazella cuvieri",
+    "gbifKey": 5220148,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "mountain",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-gazella-cuvieri"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Антилопа гор Северной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/gazella-cuvieri.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:fa"
+  },
+  {
+    "scientificName": "Ammotragus lervia",
+    "slug": "ammotragus-lervia",
+    "rankCode": "species",
+    "parentScientificName": "Ammotragus",
+    "commonNameRu": "Гривистый баран",
+    "commonNameEn": "Ammotragus lervia",
+    "gbifKey": 2441005,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "mountain",
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-ammotragus-lervia"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Североафриканский баран с длинной гривой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ammotragus-lervia.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f4"
+  },
+  {
+    "scientificName": "Ovibos moschatus",
+    "slug": "ovibos-moschatus",
+    "rankCode": "species",
+    "parentScientificName": "Ovibos",
+    "commonNameRu": "Овцебык",
+    "commonNameEn": "Ovibos moschatus",
+    "gbifKey": 2441108,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "tundra"
+    ],
+    "sourceRefs": [
+      "gbif-ovibos-moschatus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупное копытное тундры с густой шерстью.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/ovibos-moschatus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:ca"
+  },
+  {
+    "scientificName": "Macaca silenus",
+    "slug": "macaca-silenus",
+    "rankCode": "species",
+    "parentScientificName": "Macaca",
+    "commonNameRu": "Львинохвостый макак",
+    "commonNameEn": "Macaca silenus",
+    "gbifKey": 2436617,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-macaca-silenus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Редкий примат Западных Гат с гривой вокруг головы.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/macaca-silenus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:c3"
+  },
+  {
+    "scientificName": "Chrysocyon brachyurus",
+    "slug": "chrysocyon-brachyurus",
+    "rankCode": "species",
+    "parentScientificName": "Chrysocyon",
+    "commonNameRu": "Гривистый волк",
+    "commonNameEn": "Chrysocyon brachyurus",
+    "gbifKey": 2434450,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-chrysocyon-brachyurus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Южноамериканский хищник с длинными ногами и гривой.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/chrysocyon-brachyurus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Lobo_Guar%C3%A1_andando.jpg"
+  },
+  {
+    "scientificName": "Nomascus gabriellae",
+    "slug": "nomascus-gabriellae",
+    "rankCode": "species",
+    "parentScientificName": "Nomascus",
+    "commonNameRu": "Желтощёкий гиббон",
+    "commonNameEn": "Nomascus gabriellae",
+    "gbifKey": 4267267,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-nomascus-gabriellae"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Малый гиббон тропических лесов Индокитая.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/nomascus-gabriellae.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f1"
+  },
+  {
+    "scientificName": "Varecia rubra",
+    "slug": "varecia-rubra",
+    "rankCode": "species",
+    "parentScientificName": "Varecia",
+    "commonNameRu": "Рыжий вари",
+    "commonNameEn": "Varecia rubra",
+    "gbifKey": 4266945,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-varecia-rubra"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Лемур с рыжим мехом, эндемик Мадагаскара.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/varecia-rubra.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:cf"
+  },
+  {
+    "scientificName": "Gyps rueppellii",
+    "slug": "gyps-rueppellii",
+    "rankCode": "species",
+    "parentScientificName": "Gyps",
+    "commonNameRu": "Африканский гриф",
+    "commonNameEn": "Gyps rueppellii",
+    "gbifKey": 2480384,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-gyps-rueppellii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный падальщик африканских саванн.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/gyps-rueppellii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:R%C3%BCppell's_griffon_vulture_(Gyps_rueppelli_rueppelli)_Serengeti.jpg"
+  },
+  {
+    "scientificName": "Pelecanus crispus",
+    "slug": "pelecanus-crispus",
+    "rankCode": "species",
+    "parentScientificName": "Pelecanus",
+    "commonNameRu": "Кудрявый пеликан",
+    "commonNameEn": "Pelecanus crispus",
+    "gbifKey": 2480353,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "wetland",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-pelecanus-crispus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный пеликан Евразии с кудрявыми перьями на голове.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pelecanus-crispus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:a9"
+  },
+  {
+    "scientificName": "Testudo kleinmanni",
+    "slug": "testudo-kleinmanni",
+    "rankCode": "species",
+    "parentScientificName": "Testudo",
+    "commonNameRu": "Египетская черепаха",
+    "commonNameEn": "Testudo kleinmanni",
+    "gbifKey": 2441511,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "desert"
+    ],
+    "sourceRefs": [
+      "gbif-testudo-kleinmanni"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшая сухопутная черепаха Северной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/testudo-kleinmanni.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f6"
+  },
+  {
+    "scientificName": "Elaphurus davidianus",
+    "slug": "elaphurus-davidianus",
+    "rankCode": "species",
+    "parentScientificName": "Elaphurus",
+    "commonNameRu": "Олень Давида",
+    "commonNameEn": "Elaphurus davidianus",
+    "gbifKey": 2440938,
+    "iucnCode": "EW",
+    "habitatSlugs": [
+      "wetland",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-elaphurus-davidianus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Олень, сохранившийся только в неволе.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/elaphurus-davidianus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:d0"
+  },
+  {
+    "scientificName": "Trachypithecus francoisi",
+    "slug": "trachypithecus-francoisi",
+    "rankCode": "species",
+    "parentScientificName": "Trachypithecus",
+    "commonNameRu": "Тонкинский лангур",
+    "commonNameEn": "Trachypithecus francoisi",
+    "gbifKey": 2436539,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-trachypithecus-francoisi"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Примат известняковых гор Южного Китая и Вьетнама.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/trachypithecus-francoisi.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:33"
+  },
+  {
+    "scientificName": "Tragelaphus imberbis",
+    "slug": "tragelaphus-imberbis",
+    "rankCode": "species",
+    "parentScientificName": "Tragelaphus",
+    "commonNameRu": "Малый куду",
+    "commonNameEn": "Tragelaphus imberbis",
+    "gbifKey": 5220177,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "grassland",
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-tragelaphus-imberbis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшая антилопа Восточной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tragelaphus-imberbis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:b8"
+  },
+  {
+    "scientificName": "Equus africanus",
+    "slug": "equus-africanus",
+    "rankCode": "species",
+    "parentScientificName": "Equus",
+    "commonNameRu": "Африканский дикий осёл",
+    "commonNameEn": "Equus africanus",
+    "gbifKey": 5787168,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "desert",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-equus-africanus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Дикий осёл Африканского Рога, предок домашнего осла.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/equus-africanus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Equus_africanus_somaliensis_-_R%C3%A9serve_africaine_de_Sigean_01.jpg"
+  },
+  {
+    "scientificName": "Tomistoma schlegelii",
+    "slug": "tomistoma-schlegelii",
+    "rankCode": "species",
+    "parentScientificName": "Tomistoma",
+    "commonNameRu": "Гавиаловый крокодил",
+    "commonNameEn": "Tomistoma schlegelii",
+    "gbifKey": 2441378,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-tomistoma-schlegelii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крокодил с узкой мордой, обитает в торфяных болотах Юго-Восточной Азии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tomistoma-schlegelii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:5a"
+  },
+  {
+    "scientificName": "Moschus moschiferus",
+    "slug": "moschus-moschiferus",
+    "rankCode": "species",
+    "parentScientificName": "Moschus",
+    "commonNameRu": "Сибирская кабарга",
+    "commonNameEn": "Moschus moschiferus",
+    "gbifKey": 2440988,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-moschus-moschiferus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшое безрогое парнокопытное тайги.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/moschus-moschiferus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:9d"
+  },
+  {
+    "scientificName": "Orycteropus afer",
+    "slug": "orycteropus-afer",
+    "rankCode": "species",
+    "parentScientificName": "Orycteropus",
+    "commonNameRu": "Трубкозуб",
+    "commonNameEn": "Orycteropus afer",
+    "gbifKey": 5218416,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-orycteropus-afer"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Африканское млекопитающее, питающееся термитами и муравьями.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/orycteropus-afer.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:f0"
+  },
+  {
+    "scientificName": "Tragelaphus eurycerus",
+    "slug": "tragelaphus-eurycerus",
+    "rankCode": "species",
+    "parentScientificName": "Tragelaphus",
+    "commonNameRu": "Бонго",
+    "commonNameEn": "Tragelaphus eurycerus",
+    "gbifKey": 5220180,
+    "iucnCode": "NT",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-tragelaphus-eurycerus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Лесная антилопа с рыжим мехом и тонкими полосами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tragelaphus-eurycerus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:ab"
+  },
+  {
+    "scientificName": "Madoqua kirkii",
+    "slug": "madoqua-kirkii",
+    "rankCode": "species",
+    "parentScientificName": "Madoqua",
+    "commonNameRu": "Дикдик Кирка",
+    "commonNameEn": "Madoqua kirkii",
+    "gbifKey": 2441001,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-madoqua-kirkii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Мелкая антилопа засушливых районов Восточной Африки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/madoqua-kirkii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Madoqua_kirkii_-_male_(Namutoni).jpg"
+  },
+  {
+    "scientificName": "Pteronura brasiliensis",
+    "slug": "pteronura-brasiliensis",
+    "rankCode": "species",
+    "parentScientificName": "Pteronura",
+    "commonNameRu": "Гигантская выдра",
+    "commonNameEn": "Pteronura brasiliensis",
+    "gbifKey": 2433681,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "aquatic",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-pteronura-brasiliensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупная социальная выдра бассейна Амазонки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pteronura-brasiliensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Giant_otters_(Pteronura_brasiliensis).jpg"
+  },
+  {
+    "scientificName": "Daubentonia madagascariensis",
+    "slug": "daubentonia-madagascariensis",
+    "rankCode": "species",
+    "parentScientificName": "Daubentonia",
+    "commonNameRu": "Ай-ай",
+    "commonNameEn": "Daubentonia madagascariensis",
+    "gbifKey": 5219587,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-daubentonia-madagascariensis"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Ночной лемур с удлинённым пальцем, эндемик Мадагаскара.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/daubentonia-madagascariensis.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Wild_aye_aye.jpg"
+  },
+  {
+    "scientificName": "Zalophus californianus",
+    "slug": "zalophus-californianus",
+    "rankCode": "species",
+    "parentScientificName": "Zalophus",
+    "commonNameRu": "Калифорнийский морской лев",
+    "commonNameEn": "Zalophus californianus",
+    "gbifKey": 2433458,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "coastal",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-zalophus-californianus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Ушастый тюлень тихоокеанского побережья Северной Америки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/zalophus-californianus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:3f"
+  },
+  {
+    "scientificName": "Mandrillus leucophaeus",
+    "slug": "mandrillus-leucophaeus",
+    "rankCode": "species",
+    "parentScientificName": "Mandrillus",
+    "commonNameRu": "Дрил",
+    "commonNameEn": "Mandrillus leucophaeus",
+    "gbifKey": 5219557,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-mandrillus-leucophaeus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Крупный африканский примат тропических лесов.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/mandrillus-leucophaeus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:ea"
+  },
+  {
+    "scientificName": "Lama guanicoe",
+    "slug": "lama-guanicoe",
+    "rankCode": "species",
+    "parentScientificName": "Lama",
+    "commonNameRu": "Гуанако",
+    "commonNameEn": "Lama guanicoe",
+    "gbifKey": 5220188,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "grassland",
+      "mountain"
+    ],
+    "sourceRefs": [
+      "gbif-lama-guanicoe"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Дикий верблюдовый Южной Америки.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/lama-guanicoe.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Guanaco_(Lama_guanicoe)_Leona_Amarga.jpg"
+  },
+  {
+    "scientificName": "Phascolarctos cinereus",
+    "slug": "phascolarctos-cinereus",
+    "rankCode": "species",
+    "parentScientificName": "Phascolarctos",
+    "commonNameRu": "Коала",
+    "commonNameEn": "Phascolarctos cinereus",
+    "gbifKey": 2440012,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-phascolarctos-cinereus"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Сумчатый медведь, питающийся листьями эвкалипта.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/phascolarctos-cinereus.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:49"
+  },
+  {
+    "scientificName": "Cacatua sulphurea",
+    "slug": "cacatua-sulphurea",
+    "rankCode": "species",
+    "parentScientificName": "Cacatua",
+    "commonNameRu": "Малый желтохохлый какаду",
+    "commonNameEn": "Cacatua sulphurea",
+    "gbifKey": 2479893,
+    "iucnCode": "CR",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-cacatua-sulphurea"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Белый какаду с жёлтым хохолком, эндемик Индонезии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/cacatua-sulphurea.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:c2"
+  },
+  {
+    "scientificName": "Callimico goeldii",
+    "slug": "callimico-goeldii",
+    "rankCode": "species",
+    "parentScientificName": "Callimico",
+    "commonNameRu": "Каллимико",
+    "commonNameEn": "Callimico goeldii",
+    "gbifKey": 2436464,
+    "iucnCode": "VU",
+    "habitatSlugs": [
+      "forest"
+    ],
+    "sourceRefs": [
+      "gbif-callimico-goeldii"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Небольшой примат западной Амазонии.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/callimico-goeldii.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:5b"
+  },
+  {
+    "scientificName": "Pygoscelis papua",
+    "slug": "pygoscelis-papua",
+    "rankCode": "species",
+    "parentScientificName": "Pygoscelis",
+    "commonNameRu": "Папуанский пингвин",
+    "commonNameEn": "Pygoscelis papua",
+    "gbifKey": 2481666,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "coastal",
+      "aquatic"
+    ],
+    "sourceRefs": [
+      "gbif-pygoscelis-papua"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Пингвин субантарктических островов с белой полосой на голове.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/pygoscelis-papua.png",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:2a"
+  },
+  {
+    "scientificName": "Tragelaphus angasi",
+    "slug": "tragelaphus-angasi",
+    "rankCode": "species",
+    "parentScientificName": "Tragelaphus",
+    "commonNameRu": "Ньяла",
+    "commonNameEn": "Tragelaphus angasi",
+    "gbifKey": 5220181,
+    "iucnCode": "LC",
+    "habitatSlugs": [
+      "forest",
+      "grassland"
+    ],
+    "sourceRefs": [
+      "gbif-tragelaphus-angasi"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Антилопа Юго-Восточной Африки с вертикальными полосами.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/tragelaphus-angasi.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://en.wikipedia.org/wiki/Nyala"
+  },
+  {
+    "scientificName": "Heosemys spinosa",
+    "slug": "heosemys-spinosa",
+    "rankCode": "species",
+    "parentScientificName": "Heosemys",
+    "commonNameRu": "Колючая черепаха",
+    "commonNameEn": "Heosemys spinosa",
+    "gbifKey": 2443326,
+    "iucnCode": "EN",
+    "habitatSlugs": [
+      "forest",
+      "wetland"
+    ],
+    "sourceRefs": [
+      "gbif-heosemys-spinosa"
+    ],
+    "iucnSourceRef": "iucn-redlist",
+    "profile": {
+      "description": "Лесная черепаха Юго-Восточной Азии с зубчатым краем панциря.",
+      "dietSummary": null,
+      "habitatSummary": null
+    },
+    "imageUrl": "/species/heosemys-spinosa.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:76"
+  }
+]

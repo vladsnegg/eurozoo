@@ -1,0 +1,5105 @@
+[
+  {
+    "id": "eaza",
+    "type": "official_site",
+    "title": "EAZA — European Association of Zoos and Aquaria",
+    "url": "https://www.eaza.net",
+    "publisher": "EAZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "eaza-history",
+    "type": "official_site",
+    "title": "EAZA — History",
+    "url": "https://www.eaza.net/history/",
+    "publisher": "EAZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "eaza-eep-list",
+    "type": "official_site",
+    "title": "EAZA Ex-situ Programme overview (April 2026)",
+    "url": "https://eazawebsite-prod.s3.nl-ams.scw.cloud/uploads/April_2026_8e69dc12b4.pdf",
+    "publisher": "EAZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "iucn-redlist",
+    "type": "database",
+    "title": "IUCN Red List of Threatened Species",
+    "url": "https://www.iucnredlist.org",
+    "publisher": "IUCN",
+    "reliability": "scientific",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "iucn-about",
+    "type": "official_site",
+    "title": "IUCN — About IUCN",
+    "url": "https://iucn.org/about-iucn",
+    "publisher": "IUCN",
+    "reliability": "scientific",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "waza-about",
+    "type": "official_site",
+    "title": "WAZA — About",
+    "url": "https://www.waza.org/about-new/",
+    "publisher": "WAZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "biaza-about",
+    "type": "official_site",
+    "title": "BIAZA — Our association",
+    "url": "https://biaza.org.uk/our-association",
+    "publisher": "BIAZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "vdz",
+    "type": "official_site",
+    "title": "VdZ — Verband der Zoologischen Gärten",
+    "url": "https://vdz-zoos.org/",
+    "publisher": "VdZ",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "vdz-history",
+    "type": "official_site",
+    "title": "VdZ — Geschichte des Verbands",
+    "url": "https://vdz-zoos.org/ueber-uns/geschichte-des-verbands/",
+    "publisher": "VdZ",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "species360-mission",
+    "type": "official_site",
+    "title": "Species360 — Mission and history",
+    "url": "https://species360.org/mission/",
+    "publisher": "Species360",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "esf-origin",
+    "type": "official_site",
+    "title": "ESF — Origin of ESF",
+    "url": "https://studbooks.eu/about/origin-of-esf/",
+    "publisher": "ESF",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "stiftung-transparency",
+    "type": "official_site",
+    "title": "Stiftung Artenschutz — Transparenz",
+    "url": "https://stiftung-artenschutz.de/stiftung/transparenz/",
+    "publisher": "Stiftung Artenschutz",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "aiza-home",
+    "type": "official_site",
+    "title": "AIZA — Asociación Ibérica de Zoos y Acuarios",
+    "url": "https://www.aiza.org.es/",
+    "publisher": "AIZA",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "nvd-home",
+    "type": "official_site",
+    "title": "NVD — Nederlandse Vereniging van Dierentuinen",
+    "url": "https://www.nvddierentuinen.nl/",
+    "publisher": "NVD",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-panthera-tigris",
+    "type": "database",
+    "title": "GBIF: Panthera tigris",
+    "url": "https://www.gbif.org/species/5219416",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-panthera-leo",
+    "type": "database",
+    "title": "GBIF: Panthera leo",
+    "url": "https://www.gbif.org/species/5219404",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-panthera-onca",
+    "type": "database",
+    "title": "GBIF: Panthera onca",
+    "url": "https://www.gbif.org/species/5219426",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-panthera-pardus",
+    "type": "database",
+    "title": "GBIF: Panthera pardus",
+    "url": "https://www.gbif.org/species/5219436",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-neofelis-nebulosa",
+    "type": "database",
+    "title": "GBIF: Neofelis nebulosa",
+    "url": "https://www.gbif.org/species/2435079",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-acinonyx-jubatus",
+    "type": "database",
+    "title": "GBIF: Acinonyx jubatus",
+    "url": "https://www.gbif.org/species/2435270",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lynx-lynx",
+    "type": "database",
+    "title": "GBIF: Lynx lynx",
+    "url": "https://www.gbif.org/species/2435240",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lynx-pardinus",
+    "type": "database",
+    "title": "GBIF: Lynx pardinus",
+    "url": "https://www.gbif.org/species/2435261",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-panthera-uncia",
+    "type": "database",
+    "title": "GBIF: Panthera uncia",
+    "url": "https://www.gbif.org/species/5787213",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ailuropoda-melanoleuca",
+    "type": "database",
+    "title": "GBIF: Ailuropoda melanoleuca",
+    "url": "https://www.gbif.org/species/2433399",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ailurus-fulgens",
+    "type": "database",
+    "title": "GBIF: Ailurus fulgens",
+    "url": "https://www.gbif.org/species/5219446",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ursus-arctos",
+    "type": "database",
+    "title": "GBIF: Ursus arctos",
+    "url": "https://www.gbif.org/species/2433433",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ursus-maritimus",
+    "type": "database",
+    "title": "GBIF: Ursus maritimus",
+    "url": "https://www.gbif.org/species/2433451",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-helarctos-malayanus",
+    "type": "database",
+    "title": "GBIF: Helarctos malayanus",
+    "url": "https://www.gbif.org/species/2433403",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tremarctos-ornatus",
+    "type": "database",
+    "title": "GBIF: Tremarctos ornatus",
+    "url": "https://www.gbif.org/species/2433401",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-loxodonta-africana",
+    "type": "database",
+    "title": "GBIF: Loxodonta africana",
+    "url": "https://www.gbif.org/species/2435350",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-elephas-maximus",
+    "type": "database",
+    "title": "GBIF: Elephas maximus",
+    "url": "https://www.gbif.org/species/5219461",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-giraffa-camelopardalis",
+    "type": "database",
+    "title": "GBIF: Giraffa camelopardalis",
+    "url": "https://www.gbif.org/species/2441205",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-okapia-johnstoni",
+    "type": "database",
+    "title": "GBIF: Okapia johnstoni",
+    "url": "https://www.gbif.org/species/2441207",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-diceros-bicornis",
+    "type": "database",
+    "title": "GBIF: Diceros bicornis",
+    "url": "https://www.gbif.org/species/5220111",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ceratotherium-simum",
+    "type": "database",
+    "title": "GBIF: Ceratotherium simum",
+    "url": "https://www.gbif.org/species/2440880",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-rhinoceros-unicornis",
+    "type": "database",
+    "title": "GBIF: Rhinoceros unicornis",
+    "url": "https://www.gbif.org/species/5220113",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tapirus-terrestris",
+    "type": "database",
+    "title": "GBIF: Tapirus terrestris",
+    "url": "https://www.gbif.org/species/2440898",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-equus-przewalskii",
+    "type": "database",
+    "title": "GBIF: Equus przewalskii",
+    "url": "https://www.gbif.org/species/5787169",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-equus-quagga",
+    "type": "database",
+    "title": "GBIF: Equus quagga",
+    "url": "https://www.gbif.org/species/2440892",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-hippopotamus-amphibius",
+    "type": "database",
+    "title": "GBIF: Hippopotamus amphibius",
+    "url": "https://www.gbif.org/species/2441247",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-choeropsis-liberiensis",
+    "type": "database",
+    "title": "GBIF: Choeropsis liberiensis",
+    "url": "https://www.gbif.org/species/5787064",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-bison-bonasus",
+    "type": "database",
+    "title": "GBIF: Bison bonasus",
+    "url": "https://www.gbif.org/species/2441184",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-bison-bison",
+    "type": "database",
+    "title": "GBIF: Bison bison",
+    "url": "https://www.gbif.org/species/2441176",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-gorilla-gorilla",
+    "type": "database",
+    "title": "GBIF: Gorilla gorilla",
+    "url": "https://www.gbif.org/species/2436441",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pan-troglodytes",
+    "type": "database",
+    "title": "GBIF: Pan troglodytes",
+    "url": "https://www.gbif.org/species/5219534",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pongo-abelii",
+    "type": "database",
+    "title": "GBIF: Pongo abelii",
+    "url": "https://www.gbif.org/species/5707420",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pongo-pygmaeus",
+    "type": "database",
+    "title": "GBIF: Pongo pygmaeus",
+    "url": "https://www.gbif.org/species/5219532",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lemur-catta",
+    "type": "database",
+    "title": "GBIF: Lemur catta",
+    "url": "https://www.gbif.org/species/2436412",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-varecia-variegata",
+    "type": "database",
+    "title": "GBIF: Varecia variegata",
+    "url": "https://www.gbif.org/species/2436424",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-macaca-sylvanus",
+    "type": "database",
+    "title": "GBIF: Macaca sylvanus",
+    "url": "https://www.gbif.org/species/2436618",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-mandrillus-sphinx",
+    "type": "database",
+    "title": "GBIF: Mandrillus sphinx",
+    "url": "https://www.gbif.org/species/5219556",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-crocuta-crocuta",
+    "type": "database",
+    "title": "GBIF: Crocuta crocuta",
+    "url": "https://www.gbif.org/species/5218781",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-suricata-suricatta",
+    "type": "database",
+    "title": "GBIF: Suricata suricatta",
+    "url": "https://www.gbif.org/species/2434126",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-canis-lupus",
+    "type": "database",
+    "title": "GBIF: Canis lupus",
+    "url": "https://www.gbif.org/species/5219173",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lycaon-pictus",
+    "type": "database",
+    "title": "GBIF: Lycaon pictus",
+    "url": "https://www.gbif.org/species/5219317",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-vulpes-zerda",
+    "type": "database",
+    "title": "GBIF: Vulpes zerda",
+    "url": "https://www.gbif.org/species/5219310",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-gulo-gulo",
+    "type": "database",
+    "title": "GBIF: Gulo gulo",
+    "url": "https://www.gbif.org/species/5219073",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lutra-lutra",
+    "type": "database",
+    "title": "GBIF: Lutra lutra",
+    "url": "https://www.gbif.org/species/2433753",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-cervus-elaphus",
+    "type": "database",
+    "title": "GBIF: Cervus elaphus",
+    "url": "https://www.gbif.org/species/2440958",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-rangifer-tarandus",
+    "type": "database",
+    "title": "GBIF: Rangifer tarandus",
+    "url": "https://www.gbif.org/species/5220114",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-capra-ibex",
+    "type": "database",
+    "title": "GBIF: Capra ibex",
+    "url": "https://www.gbif.org/species/2441055",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-addax-nasomaculatus",
+    "type": "database",
+    "title": "GBIF: Addax nasomaculatus",
+    "url": "https://www.gbif.org/species/2441101",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-oryx-leucoryx",
+    "type": "database",
+    "title": "GBIF: Oryx leucoryx",
+    "url": "https://www.gbif.org/species/5220164",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-oryx-dammah",
+    "type": "database",
+    "title": "GBIF: Oryx dammah",
+    "url": "https://www.gbif.org/species/5220165",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-nanger-dama",
+    "type": "database",
+    "title": "GBIF: Nanger dama",
+    "url": "https://www.gbif.org/species/4262713",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tragelaphus-strepsiceros",
+    "type": "database",
+    "title": "GBIF: Tragelaphus strepsiceros",
+    "url": "https://www.gbif.org/species/5220183",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-taurotragus-oryx",
+    "type": "database",
+    "title": "GBIF: Taurotragus oryx",
+    "url": "https://www.gbif.org/species/5220167",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ara-macao",
+    "type": "database",
+    "title": "GBIF: Ara macao",
+    "url": "https://www.gbif.org/species/5959227",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-psittacus-erithacus",
+    "type": "database",
+    "title": "GBIF: Psittacus erithacus",
+    "url": "https://www.gbif.org/species/2480181",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ciconia-ciconia",
+    "type": "database",
+    "title": "GBIF: Ciconia ciconia",
+    "url": "https://www.gbif.org/species/2481912",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-geronticus-eremita",
+    "type": "database",
+    "title": "GBIF: Geronticus eremita",
+    "url": "https://www.gbif.org/species/2480770",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-gypaetus-barbatus",
+    "type": "database",
+    "title": "GBIF: Gypaetus barbatus",
+    "url": "https://www.gbif.org/species/2480649",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-neophron-percnopterus",
+    "type": "database",
+    "title": "GBIF: Neophron percnopterus",
+    "url": "https://www.gbif.org/species/2480696",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-grus-grus",
+    "type": "database",
+    "title": "GBIF: Grus grus",
+    "url": "https://www.gbif.org/species/2474950",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-struthio-camelus",
+    "type": "database",
+    "title": "GBIF: Struthio camelus",
+    "url": "https://www.gbif.org/species/2495150",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-spheniscus-humboldti",
+    "type": "database",
+    "title": "GBIF: Spheniscus humboldti",
+    "url": "https://www.gbif.org/species/5229386",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-aptenodytes-patagonicus",
+    "type": "database",
+    "title": "GBIF: Aptenodytes patagonicus",
+    "url": "https://www.gbif.org/species/2481660",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-phoenicopterus-roseus",
+    "type": "database",
+    "title": "GBIF: Phoenicopterus roseus",
+    "url": "https://www.gbif.org/species/4352332",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-crocodylus-niloticus",
+    "type": "database",
+    "title": "GBIF: Crocodylus niloticus",
+    "url": "https://www.gbif.org/species/2441341",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-alligator-mississippiensis",
+    "type": "database",
+    "title": "GBIF: Alligator mississippiensis",
+    "url": "https://www.gbif.org/species/2441370",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-varanus-komodoensis",
+    "type": "database",
+    "title": "GBIF: Varanus komodoensis",
+    "url": "https://www.gbif.org/species/2470854",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-testudo-hermanni",
+    "type": "database",
+    "title": "GBIF: Testudo hermanni",
+    "url": "https://www.gbif.org/species/2441454",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-chelonia-mydas",
+    "type": "database",
+    "title": "GBIF: Chelonia mydas",
+    "url": "https://www.gbif.org/species/2442225",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ambystoma-mexicanum",
+    "type": "database",
+    "title": "GBIF: Ambystoma mexicanum",
+    "url": "https://www.gbif.org/species/2431950",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-leucopsar-rothschildi",
+    "type": "database",
+    "title": "GBIF: Leucopsar rothschildi",
+    "url": "https://www.gbif.org/species/2489068",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-capra-falconeri",
+    "type": "database",
+    "title": "GBIF: Capra falconeri",
+    "url": "https://www.gbif.org/species/2441050",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-bubo-scandiacus",
+    "type": "database",
+    "title": "GBIF: Bubo scandiacus",
+    "url": "https://www.gbif.org/species/5959143",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-trichechus-manatus",
+    "type": "database",
+    "title": "GBIF: Trichechus manatus",
+    "url": "https://www.gbif.org/species/2435296",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-spheniscus-demersus",
+    "type": "database",
+    "title": "GBIF: Spheniscus demersus",
+    "url": "https://www.gbif.org/species/5229384",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-mustela-lutreola",
+    "type": "database",
+    "title": "GBIF: Mustela lutreola",
+    "url": "https://www.gbif.org/species/5219007",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tragulus-javanicus",
+    "type": "database",
+    "title": "GBIF: Tragulus javanicus",
+    "url": "https://www.gbif.org/species/5220187",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-phoenicopterus-chilensis",
+    "type": "database",
+    "title": "GBIF: Phoenicopterus chilensis",
+    "url": "https://www.gbif.org/species/2481110",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pan-paniscus",
+    "type": "database",
+    "title": "GBIF: Pan paniscus",
+    "url": "https://www.gbif.org/species/5219533",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-propithecus-coquereli",
+    "type": "database",
+    "title": "GBIF: Propithecus coquereli",
+    "url": "https://www.gbif.org/species/5707433",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-hyaena-hyaena",
+    "type": "database",
+    "title": "GBIF: Hyaena hyaena",
+    "url": "https://www.gbif.org/species/5218777",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tapirus-indicus",
+    "type": "database",
+    "title": "GBIF: Tapirus indicus",
+    "url": "https://www.gbif.org/species/2440896",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-equus-grevyi",
+    "type": "database",
+    "title": "GBIF: Equus grevyi",
+    "url": "https://www.gbif.org/species/2440894",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-gazella-cuvieri",
+    "type": "database",
+    "title": "GBIF: Gazella cuvieri",
+    "url": "https://www.gbif.org/species/5220148",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ammotragus-lervia",
+    "type": "database",
+    "title": "GBIF: Ammotragus lervia",
+    "url": "https://www.gbif.org/species/2441005",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-ovibos-moschatus",
+    "type": "database",
+    "title": "GBIF: Ovibos moschatus",
+    "url": "https://www.gbif.org/species/2441108",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-macaca-silenus",
+    "type": "database",
+    "title": "GBIF: Macaca silenus",
+    "url": "https://www.gbif.org/species/2436617",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-chrysocyon-brachyurus",
+    "type": "database",
+    "title": "GBIF: Chrysocyon brachyurus",
+    "url": "https://www.gbif.org/species/2434450",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-nomascus-gabriellae",
+    "type": "database",
+    "title": "GBIF: Nomascus gabriellae",
+    "url": "https://www.gbif.org/species/4267267",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-varecia-rubra",
+    "type": "database",
+    "title": "GBIF: Varecia rubra",
+    "url": "https://www.gbif.org/species/4266945",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-gyps-rueppellii",
+    "type": "database",
+    "title": "GBIF: Gyps rueppellii",
+    "url": "https://www.gbif.org/species/2480384",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pelecanus-crispus",
+    "type": "database",
+    "title": "GBIF: Pelecanus crispus",
+    "url": "https://www.gbif.org/species/2480353",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-testudo-kleinmanni",
+    "type": "database",
+    "title": "GBIF: Testudo kleinmanni",
+    "url": "https://www.gbif.org/species/2441511",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-elaphurus-davidianus",
+    "type": "database",
+    "title": "GBIF: Elaphurus davidianus",
+    "url": "https://www.gbif.org/species/2440938",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-trachypithecus-francoisi",
+    "type": "database",
+    "title": "GBIF: Trachypithecus francoisi",
+    "url": "https://www.gbif.org/species/2436539",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tragelaphus-imberbis",
+    "type": "database",
+    "title": "GBIF: Tragelaphus imberbis",
+    "url": "https://www.gbif.org/species/5220177",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-equus-africanus",
+    "type": "database",
+    "title": "GBIF: Equus africanus",
+    "url": "https://www.gbif.org/species/5787168",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tomistoma-schlegelii",
+    "type": "database",
+    "title": "GBIF: Tomistoma schlegelii",
+    "url": "https://www.gbif.org/species/2441378",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-moschus-moschiferus",
+    "type": "database",
+    "title": "GBIF: Moschus moschiferus",
+    "url": "https://www.gbif.org/species/2440988",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-orycteropus-afer",
+    "type": "database",
+    "title": "GBIF: Orycteropus afer",
+    "url": "https://www.gbif.org/species/5218416",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tragelaphus-eurycerus",
+    "type": "database",
+    "title": "GBIF: Tragelaphus eurycerus",
+    "url": "https://www.gbif.org/species/5220180",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-madoqua-kirkii",
+    "type": "database",
+    "title": "GBIF: Madoqua kirkii",
+    "url": "https://www.gbif.org/species/2441001",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pteronura-brasiliensis",
+    "type": "database",
+    "title": "GBIF: Pteronura brasiliensis",
+    "url": "https://www.gbif.org/species/2433681",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-daubentonia-madagascariensis",
+    "type": "database",
+    "title": "GBIF: Daubentonia madagascariensis",
+    "url": "https://www.gbif.org/species/5219587",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-zalophus-californianus",
+    "type": "database",
+    "title": "GBIF: Zalophus californianus",
+    "url": "https://www.gbif.org/species/2433458",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-mandrillus-leucophaeus",
+    "type": "database",
+    "title": "GBIF: Mandrillus leucophaeus",
+    "url": "https://www.gbif.org/species/5219557",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-lama-guanicoe",
+    "type": "database",
+    "title": "GBIF: Lama guanicoe",
+    "url": "https://www.gbif.org/species/5220188",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-phascolarctos-cinereus",
+    "type": "database",
+    "title": "GBIF: Phascolarctos cinereus",
+    "url": "https://www.gbif.org/species/2440012",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-cacatua-sulphurea",
+    "type": "database",
+    "title": "GBIF: Cacatua sulphurea",
+    "url": "https://www.gbif.org/species/2479893",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-callimico-goeldii",
+    "type": "database",
+    "title": "GBIF: Callimico goeldii",
+    "url": "https://www.gbif.org/species/2436464",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-pygoscelis-papua",
+    "type": "database",
+    "title": "GBIF: Pygoscelis papua",
+    "url": "https://www.gbif.org/species/2481666",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-tragelaphus-angasi",
+    "type": "database",
+    "title": "GBIF: Tragelaphus angasi",
+    "url": "https://www.gbif.org/species/5220181",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "gbif-heosemys-spinosa",
+    "type": "database",
+    "title": "GBIF: Heosemys spinosa",
+    "url": "https://www.gbif.org/species/2443326",
+    "publisher": "GBIF",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-praha-history",
+    "type": "official_site",
+    "title": "Prague Zoo — история",
+    "url": "https://www.zoopraha.cz/vse-o-zoo/historie/42-strucna-historie-prazske-zoo",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-praha-site",
+    "type": "official_site",
+    "title": "Prague Zoo — официальный сайт",
+    "url": "https://www.zoopraha.cz",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-praha",
+    "type": "official_site",
+    "title": "OpenStreetMap — Prague Zoo",
+    "url": "https://www.openstreetmap.org/relation/2412567",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha",
+    "type": "official_site",
+    "title": "Prague Zoo — Western lowland gorilla",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=120-gorila-nizinna&start=120",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-1",
+    "type": "official_site",
+    "title": "Prague Zoo — Asian elephant",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=276-slon-indicky&start=276",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-2",
+    "type": "official_site",
+    "title": "Prague Zoo — Asiatic lion",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=1-lev-indicky&start=1",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-3",
+    "type": "official_site",
+    "title": "Prague Zoo — Przewalski's horse",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=192-kun-prevalskeho&start=192",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-4",
+    "type": "official_site",
+    "title": "Prague Zoo — Siberian tiger",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=643-tygr-ussurijsky&start=643",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-5",
+    "type": "official_site",
+    "title": "Prague Zoo — Red panda",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=240-panda-cervena&start=240",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-6",
+    "type": "official_site",
+    "title": "Prague Zoo — Nubian giraffe",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=323-zirafa-severni-nubijska&start=323",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-praha-7",
+    "type": "official_site",
+    "title": "Prague Zoo — Humboldt penguin",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/lexikon-zvirat?d=306-tucnak-humboldtuv&start=306",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-praha",
+    "type": "official_site",
+    "title": "Prague Zoo — программа EEP",
+    "url": "https://www.zoopraha.cz/zvirata-a-expozice/pomahame-jim-prezit/zakladni-informace/5784-plemenne-knihy",
+    "publisher": "Prague Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-berlin-history",
+    "type": "official_site",
+    "title": "Berlin Zoo — история",
+    "url": "https://www.zoo-berlin.de/de/ueber-uns/historie",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-berlin-site",
+    "type": "official_site",
+    "title": "Berlin Zoo — официальный сайт",
+    "url": "https://www.zoo-berlin.de",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-berlin",
+    "type": "official_site",
+    "title": "OpenStreetMap — Berlin Zoo",
+    "url": "https://www.openstreetmap.org/way/9393789",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin",
+    "type": "official_site",
+    "title": "Berlin Zoo — Giant panda",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/grosser-panda",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-1",
+    "type": "official_site",
+    "title": "Berlin Zoo — Asian elephant",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/asiatischer-elefant",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-2",
+    "type": "official_site",
+    "title": "Berlin Zoo — Siberian tiger",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/amurtiger",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-3",
+    "type": "official_site",
+    "title": "Berlin Zoo — Lion",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/afrikanischer-loewe",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-4",
+    "type": "official_site",
+    "title": "Berlin Zoo — Western lowland gorilla",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/westlicher-flachland-gorilla",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-5",
+    "type": "official_site",
+    "title": "Berlin Zoo — Grévy's zebra",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/grevy-zebra",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-6",
+    "type": "official_site",
+    "title": "Berlin Zoo — African penguin",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/brillenpinguin",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-berlin-7",
+    "type": "official_site",
+    "title": "Berlin Zoo — Hippopotamus",
+    "url": "https://www.zoo-berlin.de/de/zoo-erleben/tiere-erlebniswelten/flusspferd",
+    "publisher": "Berlin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tierpark-berlin-history",
+    "type": "official_site",
+    "title": "Tierpark Berlin — история",
+    "url": "https://www.tierpark-berlin.de/de/ueber-uns/historie",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tierpark-berlin-site",
+    "type": "official_site",
+    "title": "Tierpark Berlin — официальный сайт",
+    "url": "https://www.tierpark-berlin.de",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-tierpark-berlin",
+    "type": "official_site",
+    "title": "OpenStreetMap — Tierpark Berlin",
+    "url": "https://www.openstreetmap.org/way/356446013",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin",
+    "type": "official_site",
+    "title": "Tierpark Berlin — African elephant",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/afrikanischer-elefant",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-1",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Polar bear",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/eisbaer",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-2",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Snow leopard",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/schneeleopard",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-3",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Sumatran tiger",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/sumatra-tiger",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-4",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Rothschild's giraffe",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/rothschild-giraffe",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-5",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Grévy's zebra",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/grevy-zebra",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-6",
+    "type": "official_site",
+    "title": "Tierpark Berlin — African penguin",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/brillenpinguin",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tierpark-berlin-7",
+    "type": "official_site",
+    "title": "Tierpark Berlin — Red panda",
+    "url": "https://www.tierpark-berlin.de/de/tierpark-erleben/tiere-erlebniswelten/kleiner-panda",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-tierpark-berlin",
+    "type": "official_site",
+    "title": "Tierpark Berlin — программа EEP",
+    "url": "https://www.tierpark-berlin.de/de/artenschutz/im-tierpark",
+    "publisher": "Tierpark Berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-leipzig-history",
+    "type": "official_site",
+    "title": "Leipzig Zoo — история",
+    "url": "https://www.zoo-leipzig.de/unternehmen-zoo/zoo-geschichte/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-leipzig-site",
+    "type": "official_site",
+    "title": "Leipzig Zoo — официальный сайт",
+    "url": "https://www.zoo-leipzig.de",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-leipzig",
+    "type": "official_site",
+    "title": "OpenStreetMap — Leipzig Zoo",
+    "url": "https://www.openstreetmap.org/relation/9721039",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Okapi",
+    "url": "https://www.zoo-leipzig.de/tier/okapi/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-1",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Rothschild's giraffe",
+    "url": "https://www.zoo-leipzig.de/tier/rothschildgiraffe/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-2",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Przewalski's horse",
+    "url": "https://www.zoo-leipzig.de/tier/przewalskipferd/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-3",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Sumatran orangutan",
+    "url": "https://www.zoo-leipzig.de/tier/sumatra-orang-utan/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-4",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Malayan tapir",
+    "url": "https://www.zoo-leipzig.de/tier/schabrackentapir/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-5",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Eastern black rhinoceros",
+    "url": "https://www.zoo-leipzig.de/tier/ostafrikanisches-spitzmaulnashorn/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-6",
+    "type": "official_site",
+    "title": "Leipzig Zoo — Sunda gharial",
+    "url": "https://www.zoo-leipzig.de/tier/sunda-gavial/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-leipzig-7",
+    "type": "official_site",
+    "title": "Leipzig Zoo — American alligator",
+    "url": "https://www.zoo-leipzig.de/tier/mississippi-alligator/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-leipzig",
+    "type": "official_site",
+    "title": "Leipzig Zoo — программа EEP",
+    "url": "https://www.zoo-leipzig.de/tier/sibirisches-moschustier/",
+    "publisher": "Leipzig Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-koelner-zoo-history",
+    "type": "official_site",
+    "title": "Cologne Zoo — история",
+    "url": "https://koelnerzoo.de/article/transparente-zivilgesellschaft/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-koelner-zoo-site",
+    "type": "official_site",
+    "title": "Cologne Zoo — официальный сайт",
+    "url": "https://www.koelnerzoo.de",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-koelner-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Cologne Zoo",
+    "url": "https://www.openstreetmap.org/way/4936527",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo",
+    "type": "official_site",
+    "title": "Cologne Zoo — Asiatic lion",
+    "url": "https://koelnerzoo.de/portfolio/asiatischer-lowe/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-1",
+    "type": "official_site",
+    "title": "Cologne Zoo — Siberian tiger",
+    "url": "https://koelnerzoo.de/portfolio/sibirischer-tiger/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-2",
+    "type": "official_site",
+    "title": "Cologne Zoo — Snow leopard",
+    "url": "https://koelnerzoo.de/portfolio/schneeleopard/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-3",
+    "type": "official_site",
+    "title": "Cologne Zoo — Okapi",
+    "url": "https://koelnerzoo.de/portfolio/okapi/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-4",
+    "type": "official_site",
+    "title": "Cologne Zoo — Black rhinoceros",
+    "url": "https://koelnerzoo.de/portfolio/spitzmaulnashorn/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-5",
+    "type": "official_site",
+    "title": "Cologne Zoo — Przewalski's horse",
+    "url": "https://koelnerzoo.de/portfolio/przewalskipferd/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-6",
+    "type": "official_site",
+    "title": "Cologne Zoo — Kordofan giraffe",
+    "url": "https://koelnerzoo.de/portfolio/kordofan-giraffe/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-koelner-zoo-7",
+    "type": "official_site",
+    "title": "Cologne Zoo — Humboldt penguin",
+    "url": "https://koelnerzoo.de/portfolio/humboldtpinguin/",
+    "publisher": "Cologne Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-frankfurt-history",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — история",
+    "url": "https://www.zoo-frankfurt.de/de/unser-zoo/geschichte",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-frankfurt-site",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — официальный сайт",
+    "url": "https://www.zoo-frankfurt.de",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-frankfurt",
+    "type": "official_site",
+    "title": "OpenStreetMap — Frankfurt Zoo",
+    "url": "https://www.openstreetmap.org/way/24856100",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Western lowland gorilla",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/gorilla-westlicher-flachland",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-1",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Hippopotamus",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/flusspferd",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-2",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Bonobo",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/bonobo",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-3",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Spectacled bear",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/brillenbaer",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-4",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Aardvark",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/erdferkel",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-5",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Eastern bongo",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/bongo-ostafrikanischer",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-6",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Kirk's dik-dik",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/dikdik-kirk",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-frankfurt-7",
+    "type": "official_site",
+    "title": "Frankfurt Zoo — Meerkat",
+    "url": "https://www.zoo-frankfurt.de/de/unsere-tiere/tiere-von-a-z/tiere-von-a-z-detailansicht/erdmaennchen",
+    "publisher": "Frankfurt Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-hellabrunn-history",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — история",
+    "url": "https://www.hellabrunn.de/der-tierpark/ueber-hellabrunn/tierparkhistorie",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-hellabrunn-site",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — официальный сайт",
+    "url": "https://www.hellabrunn.de",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-hellabrunn",
+    "type": "official_site",
+    "title": "OpenStreetMap — Hellabrunn Zoo",
+    "url": "https://www.openstreetmap.org/way/156435529",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Asian elephant",
+    "url": "https://www.hellabrunn.de/tiere/asien/asiatischer-elefant",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-1",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Reticulated giraffe",
+    "url": "https://www.hellabrunn.de/tiere/afrika/netzgiraffe",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-2",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Western lowland gorilla",
+    "url": "https://www.hellabrunn.de/tiere/welt-der-affen/westlicher-flachlandgorilla",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-3",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Polar bear",
+    "url": "https://www.hellabrunn.de/tiere/polarwelt/eisbaer",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-4",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Lion",
+    "url": "https://www.hellabrunn.de/tiere/afrika/loewe",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-5",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Indian rhinoceros",
+    "url": "https://www.hellabrunn.de/tiere/asien/indisches-panzernashorn",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-6",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Humboldt penguin",
+    "url": "https://www.hellabrunn.de/tiere/welt-der-voegel/humboldtpinguin",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hellabrunn-7",
+    "type": "official_site",
+    "title": "Hellabrunn Zoo — Siberian tiger",
+    "url": "https://www.hellabrunn.de/tiere/asien/sibirischer-tiger",
+    "publisher": "Hellabrunn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-hagenbeck-history",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — история",
+    "url": "https://www.hagenbeck.de/de/tierpark/tierpark/historie.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-hagenbeck-site",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — официальный сайт",
+    "url": "https://www.hagenbeck.de",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-hagenbeck",
+    "type": "official_site",
+    "title": "OpenStreetMap — Tierpark Hagenbeck",
+    "url": "https://www.openstreetmap.org/way/148874791",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Asian elephant",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/elefant_asiatischer.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-1",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Polar bear",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/eisbaer.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-2",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Siberian tiger",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/Tiger.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-3",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Humboldt penguin",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/pinguine_humboldt.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-4",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Chapman's zebra",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/zebra_chapman.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-5",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — South American tapir",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/tapir_flachland.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-hagenbeck-6",
+    "type": "official_site",
+    "title": "Tierpark Hagenbeck — Mandrill",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/Mandrill.php",
+    "publisher": "Tierpark Hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tiergarten-schoenbrunn-history",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — история",
+    "url": "https://www.zoovienna.at/ueber-uns/tiergarten-schonbrunn/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tiergarten-schoenbrunn-site",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — официальный сайт",
+    "url": "https://www.zoovienna.at",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-tiergarten-schoenbrunn",
+    "type": "official_site",
+    "title": "OpenStreetMap — Tiergarten Schönbrunn",
+    "url": "https://www.zoovienna.at/besuch-und-tickets/anreise/",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Orangutan",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/orang-utan/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-1",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Giant panda",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/grosser-panda/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-2",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Polar bear",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/eisbar/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-3",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Koala",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/koala/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-4",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Reticulated giraffe",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/netzgiraffe/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-5",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Siberian tiger",
+    "url": "https://www.zoovienna.at/tiere/saeugetiere/sibirischer-tiger/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-6",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Northern bald ibis",
+    "url": "https://www.zoovienna.at/tiere/voegel/waldrapp/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tiergarten-schoenbrunn-7",
+    "type": "official_site",
+    "title": "Tiergarten Schönbrunn — Greater flamingo",
+    "url": "https://www.zoovienna.at/tiere/voegel/rosa-flamingo/",
+    "publisher": "Tiergarten Schönbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-basel-history",
+    "type": "official_site",
+    "title": "Zoo Basel — история",
+    "url": "https://www.zoobasel.ch/de/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-basel-site",
+    "type": "official_site",
+    "title": "Zoo Basel — официальный сайт",
+    "url": "https://www.zoobasel.ch",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-basel",
+    "type": "official_site",
+    "title": "OpenStreetMap — Zoo Basel",
+    "url": "https://www.openstreetmap.org/way/25108339",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel",
+    "type": "official_site",
+    "title": "Zoo Basel — Okapi",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/97/okapi/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-1",
+    "type": "official_site",
+    "title": "Zoo Basel — Snow leopard",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/87/schneeleopard/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-2",
+    "type": "official_site",
+    "title": "Zoo Basel — Greater one-horned rhinoceros",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/120/panzernashorn/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-3",
+    "type": "official_site",
+    "title": "Zoo Basel — Pygmy hippopotamus",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/95/zwergflusspferd/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-4",
+    "type": "official_site",
+    "title": "Zoo Basel — Kordofan giraffe",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/96/kordofan-giraffe/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-5",
+    "type": "official_site",
+    "title": "Zoo Basel — Western lowland gorilla",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/99/gorilla/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-6",
+    "type": "official_site",
+    "title": "Zoo Basel — Sumatran orangutan",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/100/orang-utan/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-basel-7",
+    "type": "official_site",
+    "title": "Zoo Basel — African elephant",
+    "url": "https://www.zoobasel.ch/de/tiere/tierlexikon/tierbeschreibung/92/afrikanischer-elefant/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-basel",
+    "type": "official_site",
+    "title": "Zoo Basel — программа EEP",
+    "url": "https://www.zoobasel.ch/de/tiere/r/11/eep/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-basel-1",
+    "type": "official_site",
+    "title": "Zoo Basel — программа STUDBOOK",
+    "url": "https://www.zoobasel.ch/de/tiere/r/12/zuchtbuch/",
+    "publisher": "Zoo Basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-zurich-history",
+    "type": "official_site",
+    "title": "Zoo Zürich — история",
+    "url": "https://cdn.zoo.ch/cms/p/assets/medien/mediendokumentation_zoozuerich_kerndaten_2026.pdf",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-zurich-site",
+    "type": "official_site",
+    "title": "Zoo Zürich — официальный сайт",
+    "url": "https://www.zoo.ch",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-zurich",
+    "type": "official_site",
+    "title": "OpenStreetMap — Zoo Zürich",
+    "url": "https://www.openstreetmap.org/relation/9344765",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich",
+    "type": "official_site",
+    "title": "Zoo Zürich — Asian elephant",
+    "url": "https://zoo.ch/naturschutz/lexikon/asiatischer-elefant",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-1",
+    "type": "official_site",
+    "title": "Zoo Zürich — Amur tiger",
+    "url": "https://zoo.ch/naturschutz/lexikon/amurtiger",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-2",
+    "type": "official_site",
+    "title": "Zoo Zürich — Reticulated giraffe",
+    "url": "https://zoo.ch/naturschutz/lexikon/netzgiraffe",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-3",
+    "type": "official_site",
+    "title": "Zoo Zürich — Snow leopard",
+    "url": "https://zoo.ch/naturschutz/lexikon/schneeleopard",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-4",
+    "type": "official_site",
+    "title": "Zoo Zürich — Sumatran orangutan",
+    "url": "https://zoo.ch/naturschutz/lexikon/sumatra-orang-utan",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-5",
+    "type": "official_site",
+    "title": "Zoo Zürich — Koala",
+    "url": "https://zoo.ch/naturschutz/lexikon/koala",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-6",
+    "type": "official_site",
+    "title": "Zoo Zürich — Spectacled bear",
+    "url": "https://zoo.ch/naturschutz/lexikon/brillenbaer",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-zurich-7",
+    "type": "official_site",
+    "title": "Zoo Zürich — Red panda",
+    "url": "https://zoo.ch/naturschutz/lexikon/kleiner-panda",
+    "publisher": "Zoo Zürich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-artis-amsterdam-history",
+    "type": "official_site",
+    "title": "Artis — история",
+    "url": "https://www.artis.nl/nl/over-artis/geschiedenis-van-artis",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-artis-amsterdam-site",
+    "type": "official_site",
+    "title": "Artis — официальный сайт",
+    "url": "https://www.artis.nl",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-artis-amsterdam",
+    "type": "official_site",
+    "title": "OpenStreetMap — Artis",
+    "url": "https://www.openstreetmap.org/way/4366723",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam",
+    "type": "official_site",
+    "title": "Artis — Ring-tailed lemur",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/ringstaartmaki",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-1",
+    "type": "official_site",
+    "title": "Artis — Yellow-cheeked gibbon",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/goudwanggibbon",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-2",
+    "type": "official_site",
+    "title": "Artis — Red panda",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/kleine-panda",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-3",
+    "type": "official_site",
+    "title": "Artis — Red ruffed lemur",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/rode-vari",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-4",
+    "type": "official_site",
+    "title": "Artis — Reticulated giraffe",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/netgiraffe",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-5",
+    "type": "official_site",
+    "title": "Artis — Asian elephant",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/aziatische-olifant",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-6",
+    "type": "official_site",
+    "title": "Artis — Jaguar",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/jaguar",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-artis-amsterdam-7",
+    "type": "official_site",
+    "title": "Artis — African penguin",
+    "url": "https://www.artis.nl/nl/artis-park/te-zien-in-artis-park/afrikaanse-pinguin",
+    "publisher": "Artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-burgers-zoo-history",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — история",
+    "url": "https://www.burgerszoo.nl/over-burgers-zoo/geschiedenis",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-burgers-zoo-site",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — официальный сайт",
+    "url": "https://www.burgerszoo.nl",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-burgers-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Royal Burgers' Zoo",
+    "url": "https://www.openstreetmap.org/way/295160844",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — Northern giraffe",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/giraffe",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo-1",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — Asian elephant",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/olifant",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo-2",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — White rhinoceros",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/neushoorn",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo-3",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — Lion",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/leeuw",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo-4",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — Sumatran tiger",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/tijger",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-burgers-zoo-5",
+    "type": "official_site",
+    "title": "Royal Burgers' Zoo — West Indian manatee",
+    "url": "https://www.burgerszoo.nl/wiki/dieren/zeekoe",
+    "publisher": "Royal Burgers' Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-rotterdam-zoo-history",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — история",
+    "url": "https://diergaardeblijdorp.nl/nl/anbi",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-rotterdam-zoo-site",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — официальный сайт",
+    "url": "https://diergaardeblijdorp.nl",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-rotterdam-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Diergaarde Blijdorp",
+    "url": "https://www.openstreetmap.org/way/13689589",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Malayan tapir",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/maleise-tapir",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-1",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Greater one-horned rhinoceros",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/indische-neushoorn",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-2",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Asian elephant",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/aziatische-olifant",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-3",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Amur leopard",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/amoerpanter",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-4",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Greater flamingo",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/gewone-flamingo",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-5",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — King penguin",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/koningspinguin",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-rotterdam-zoo-6",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — Red panda",
+    "url": "https://diergaardeblijdorp.nl/nl/ontdek/dieren-planten/rode-panda",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-rotterdam-zoo",
+    "type": "official_site",
+    "title": "Diergaarde Blijdorp — программа EEP",
+    "url": "https://diergaardeblijdorp.nl/nl/natuurbehoud/populatie-management-programma/populatiemanagement-en-surplusdieren",
+    "publisher": "Diergaarde Blijdorp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-antwerp-history",
+    "type": "official_site",
+    "title": "Antwerp Zoo — история",
+    "url": "https://www.zooantwerpen.be/nl/kmda/",
+    "publisher": "Antwerp Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-antwerp-site",
+    "type": "official_site",
+    "title": "Antwerp Zoo — официальный сайт",
+    "url": "https://www.zooantwerpen.be",
+    "publisher": "Antwerp Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-antwerp",
+    "type": "official_site",
+    "title": "OpenStreetMap — Antwerp Zoo",
+    "url": "https://www.openstreetmap.org/way/5088713",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-pairi-daiza-history",
+    "type": "official_site",
+    "title": "Pairi Daiza — история",
+    "url": "https://www.pairidaiza.eu/fr/30-ans/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-pairi-daiza-site",
+    "type": "official_site",
+    "title": "Pairi Daiza — официальный сайт",
+    "url": "https://www.pairidaiza.eu",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-pairi-daiza",
+    "type": "official_site",
+    "title": "OpenStreetMap — Pairi Daiza",
+    "url": "https://www.openstreetmap.org/way/251508700",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza",
+    "type": "official_site",
+    "title": "Pairi Daiza — Red panda",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-du-milieu/le-panda-roux/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-1",
+    "type": "official_site",
+    "title": "Pairi Daiza — Père David's deer",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-du-milieu/le-cerf-du-pere-david/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-2",
+    "type": "official_site",
+    "title": "Pairi Daiza — François' langur",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-du-milieu/le-langur-de-francois/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-3",
+    "type": "official_site",
+    "title": "Pairi Daiza — Asian elephant",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-de-ganesha/lelephant-dasie/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-4",
+    "type": "official_site",
+    "title": "Pairi Daiza — Sumatran orangutan",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-de-ganesha/lorang-outan-de-sumatra/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-5",
+    "type": "official_site",
+    "title": "Pairi Daiza — Komodo dragon",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/le-royaume-de-ganesha/le-varan-de-komodo/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-6",
+    "type": "official_site",
+    "title": "Pairi Daiza — Giraffe",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/la-terre-des-origines/la-girafe/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-pairi-daiza-7",
+    "type": "official_site",
+    "title": "Pairi Daiza — Western lowland gorilla",
+    "url": "https://www.pairidaiza.eu/fr/les-mondes/la-terre-des-origines/le-gorille-des-plaines-de-louest/",
+    "publisher": "Pairi Daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-copenhagen-history",
+    "type": "official_site",
+    "title": "Copenhagen Zoo — история",
+    "url": "https://www.zoo.dk/vores-dyr/arbejdet-med-dyr",
+    "publisher": "Copenhagen Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-copenhagen-site",
+    "type": "official_site",
+    "title": "Copenhagen Zoo — официальный сайт",
+    "url": "https://www.zoo.dk",
+    "publisher": "Copenhagen Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-copenhagen",
+    "type": "official_site",
+    "title": "OpenStreetMap — Copenhagen Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=55.672943&mlon=12.520971#map=17/55.672943/12.520971",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-copenhagen",
+    "type": "official_site",
+    "title": "Copenhagen Zoo — Amur Leopard",
+    "url": "https://www.zoo.dk/vores-dyr",
+    "publisher": "Copenhagen Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-korkeasaari-history",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — история",
+    "url": "https://korkeasaari.fi/meista/korkeasaaren-elaintarhan-saatio/elaintarhan-historia/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-korkeasaari-site",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — официальный сайт",
+    "url": "https://www.korkeasaari.fi",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-korkeasaari",
+    "type": "official_site",
+    "title": "OpenStreetMap — Korkeasaari Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=60.174561&mlon=24.984395#map=17/60.174561/24.984395",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Amur Leopard",
+    "url": "https://korkeasaari.fi/elain/amurinleopardi/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-1",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Markhor",
+    "url": "https://korkeasaari.fi/elain/markhor/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-2",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Eurasian Otter",
+    "url": "https://korkeasaari.fi/elain/saukko/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-3",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Snowy Owl",
+    "url": "https://korkeasaari.fi/elain/tunturipollo/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-4",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Snow Leopard",
+    "url": "https://korkeasaari.fi/elain/lumileopardi/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-5",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Brown Bear",
+    "url": "https://korkeasaari.fi/elain/karhu/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-6",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Forest Reindeer",
+    "url": "https://korkeasaari.fi/elain/metsapeura/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-korkeasaari-7",
+    "type": "official_site",
+    "title": "Korkeasaari Zoo — Eurasian Lynx",
+    "url": "https://korkeasaari.fi/elain/ilves/",
+    "publisher": "Korkeasaari Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-kolmarden-history",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — история",
+    "url": "https://www.kolmarden.com/parken/om-kolmarden",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-kolmarden-site",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — официальный сайт",
+    "url": "https://www.kolmarden.com",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-kolmarden",
+    "type": "official_site",
+    "title": "OpenStreetMap — Kolmården Wildlife Park",
+    "url": "https://www.openstreetmap.org/?mlat=58.663857&mlon=16.452032#map=17/58.663857/16.452032",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Amur Tiger",
+    "url": "https://www.kolmarden.com/djurpark/djur/tiger",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-1",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Asian Elephant",
+    "url": "https://www.kolmarden.com/djurpark/djur/elefant",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-2",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Chimpanzee",
+    "url": "https://www.kolmarden.com/djurpark/djur/schimpans",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-3",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Western Lowland Gorilla",
+    "url": "https://www.kolmarden.com/djurpark/djur/gorilla",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-4",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Snow Leopard",
+    "url": "https://www.kolmarden.com/djurpark/djur/snoleopard",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-5",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Giraffe",
+    "url": "https://www.kolmarden.com/djurpark/djur/giraff",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-6",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — European Bison",
+    "url": "https://www.kolmarden.com/djurpark/djur/visent",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kolmarden-7",
+    "type": "official_site",
+    "title": "Kolmården Wildlife Park — Lowland Tapir",
+    "url": "https://www.kolmarden.com/djurpark/djur/tapir",
+    "publisher": "Kolmården Wildlife Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-kristiansand-dyrepark-history",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — история",
+    "url": "https://www.dyreparken.no/historie/offisiell-apning/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-kristiansand-dyrepark-site",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — официальный сайт",
+    "url": "https://www.dyreparken.no",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-kristiansand-dyrepark",
+    "type": "official_site",
+    "title": "OpenStreetMap — Kristiansand Zoo and Amusement Park",
+    "url": "https://www.openstreetmap.org/?mlat=58.185966&mlon=8.142344#map=17/58.185966/8.142344",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Amur Tiger",
+    "url": "https://www.dyreparken.no/dyr/tiger/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-1",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Lion",
+    "url": "https://www.dyreparken.no/dyr/alledyr/love-2/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-2",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Chimpanzee",
+    "url": "https://www.dyreparken.no/alledyr/sjimpanse/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-3",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Bornean Orangutan",
+    "url": "https://www.dyreparken.no/dyr/alledyr/borneoorangutang/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-4",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Cheetah",
+    "url": "https://www.dyreparken.no/alledyr/gepard/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-5",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Grey Wolf",
+    "url": "https://www.dyreparken.no/dyr/alledyr/ulv-2/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-6",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Lowland Tapir",
+    "url": "https://www.dyreparken.no/dyr/alledyr/lavlandstapir/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-kristiansand-dyrepark-7",
+    "type": "official_site",
+    "title": "Kristiansand Zoo and Amusement Park — Giraffe",
+    "url": "https://www.dyreparken.no/dyr/alledyr/sjiraff/",
+    "publisher": "Kristiansand Zoo and Amusement Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-warsaw-history",
+    "type": "official_site",
+    "title": "Warsaw Zoo — история",
+    "url": "https://zoo.waw.pl/o-nas/historia-zoo",
+    "publisher": "Warsaw Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-warsaw-site",
+    "type": "official_site",
+    "title": "Warsaw Zoo — официальный сайт",
+    "url": "https://zoo.waw.pl",
+    "publisher": "Warsaw Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-warsaw",
+    "type": "official_site",
+    "title": "OpenStreetMap — Warsaw Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=52.258547&mlon=21.021972#map=17/52.258547/21.021972",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-warsaw",
+    "type": "official_site",
+    "title": "Warsaw Zoo — African Lion",
+    "url": "https://zoo.waw.pl/wizyta-w-zoo/mieszkancy-zoo",
+    "publisher": "Warsaw Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-warsaw",
+    "type": "official_site",
+    "title": "Warsaw Zoo — программа EEP",
+    "url": "https://zoo.waw.pl/wizyta-w-zoo/mieszkancy-zoo/kanczyl-jawajski-arnold,p2025957550",
+    "publisher": "Warsaw Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-wroclaw-history",
+    "type": "official_site",
+    "title": "Wrocław Zoo — история",
+    "url": "https://zoo.wroclaw.pl/o-nas/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-wroclaw-site",
+    "type": "official_site",
+    "title": "Wrocław Zoo — официальный сайт",
+    "url": "https://zoo.wroclaw.pl",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-wroclaw",
+    "type": "official_site",
+    "title": "OpenStreetMap — Wrocław Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=51.104255&mlon=17.074849#map=17/51.104255/17.074849",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Sumatran Tiger",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/tygrys-sumatrzanski/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-1",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Snow Leopard",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/pantera-sniezna/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-2",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Indian Rhinoceros",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/nosorozec-indyjski/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-3",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Okapi",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/okapi-lesne/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-4",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Asian Elephant",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/slon-indyjski/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-5",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Reticulated Giraffe",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/zyrafa-siatkowana/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-6",
+    "type": "official_site",
+    "title": "Wrocław Zoo — Chimpanzee",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/szympans-zwyczajny/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-wroclaw-7",
+    "type": "official_site",
+    "title": "Wrocław Zoo — West Indian Manatee",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/manat-karaibski/",
+    "publisher": "Wrocław Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-gdansk-history",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — история",
+    "url": "https://zoo.gdansk.pl/en/about-zoo/history-of-the-zoo/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-gdansk-site",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — официальный сайт",
+    "url": "https://zoo.gdansk.pl",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-gdansk",
+    "type": "official_site",
+    "title": "OpenStreetMap — Gdańsk Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=54.414439&mlon=18.530805#map=17/54.414439/18.530805",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Rothschild's Giraffe",
+    "url": "https://zoo.gdansk.pl/en/animals/rothchild-giraffe/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-1",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — African Penguin",
+    "url": "https://zoo.gdansk.pl/en/animals/african-penguin-kokosanka/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-2",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Chapman's Zebra",
+    "url": "https://zoo.gdansk.pl/en/animals/chapmans-zebra/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-3",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Chimpanzee",
+    "url": "https://zoo.gdansk.pl/en/animals/chimpanzee-2/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-4",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — European Bison",
+    "url": "https://zoo.gdansk.pl/en/animals/european-bison-2/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-5",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Cheetah",
+    "url": "https://zoo.gdansk.pl/en/animals/cheetah/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-6",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Lion",
+    "url": "https://zoo.gdansk.pl/en/animals/lion/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-gdansk-7",
+    "type": "official_site",
+    "title": "Gdańsk Zoo — Bornean Orangutan",
+    "url": "https://zoo.gdansk.pl/en/animals/orangutan/",
+    "publisher": "Gdańsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tallinn-zoo-history",
+    "type": "official_site",
+    "title": "Tallinn Zoo — история",
+    "url": "https://tallinnzoo.ee/en/us",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-tallinn-zoo-site",
+    "type": "official_site",
+    "title": "Tallinn Zoo — официальный сайт",
+    "url": "https://tallinnzoo.ee",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-tallinn-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Tallinn Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=59.420661&mlon=24.661044#map=17/59.420661/24.661044",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Tiger",
+    "url": "https://tallinnzoo.ee/animal/tiiger/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-1",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Polar Bear",
+    "url": "https://tallinnzoo.ee/animal/jaakaru/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-2",
+    "type": "official_site",
+    "title": "Tallinn Zoo — African Savannah Elephant",
+    "url": "https://tallinnzoo.ee/animal/aafrika-savannielevant/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-3",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Chimpanzee",
+    "url": "https://tallinnzoo.ee/animal/simpans/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-4",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Amur Leopard",
+    "url": "https://tallinnzoo.ee/animal/amuuri-leopard/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-5",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Snow Leopard",
+    "url": "https://tallinnzoo.ee/animal/irbis-e-lumeleopard/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-6",
+    "type": "official_site",
+    "title": "Tallinn Zoo — Eurasian Lynx",
+    "url": "https://tallinnzoo.ee/animal/harilik-ilves/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-tallinn-zoo-7",
+    "type": "official_site",
+    "title": "Tallinn Zoo — European Mink",
+    "url": "https://tallinnzoo.ee/animal/euroopa-naarits/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-tallinn-zoo",
+    "type": "official_site",
+    "title": "Tallinn Zoo — программа EEP",
+    "url": "https://tallinnzoo.ee/en/reproduction-programs/",
+    "publisher": "Tallinn Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-budapest-history",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — история",
+    "url": "https://zoobudapest.com/rolunk/az-allatkert-tortenete/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-budapest-site",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — официальный сайт",
+    "url": "https://zoobudapest.com",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-budapest",
+    "type": "official_site",
+    "title": "OpenStreetMap — Budapest Zoo and Botanical Garden",
+    "url": "https://www.openstreetmap.org/relation/6221647",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-budapest",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — Giant otter",
+    "url": "https://zoobudapest.com/aktualis/oriasvidra-csaladunk/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-budapest-1",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — Sumatran orangutan",
+    "url": "https://zoobudapest.com/aktualis/orangutanok-a-budapesti-allatkertben/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-budapest-2",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — African penguin",
+    "url": "https://zoobudapest.com/aktualis/ifju-pingvin-homeroszi-apaval/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-budapest-3",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — Hippopotamus",
+    "url": "https://zoobudapest.com/aktualis/vizilovak-termalvizben/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-budapest-4",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — Brown bear",
+    "url": "https://zoobudapest.com/aktualis/csango-es-hargita-a-szuletesnapi-barnamedvek/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-budapest",
+    "type": "official_site",
+    "title": "Budapest Zoo and Botanical Garden — программа EEP",
+    "url": "https://zoobudapest.com/aktualis/legifjabb-gorillank-hamarosan-kirepul-a-csaladi-feszekbol/",
+    "publisher": "Budapest Zoo and Botanical Garden",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-lisbon-zoo-history",
+    "type": "official_site",
+    "title": "Lisbon Zoo — история",
+    "url": "https://www.zoo.pt/pt/conhecer/historia/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-lisbon-zoo-site",
+    "type": "official_site",
+    "title": "Lisbon Zoo — официальный сайт",
+    "url": "https://www.zoo.pt",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-lisbon-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Lisbon Zoo",
+    "url": "https://www.openstreetmap.org/way/30104081",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Western lowland gorilla",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/gorila-ocidental-das-terras-baixas/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-1",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Okapi",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/okapi/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-2",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Red panda",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/panda-vermelho/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-3",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Sumatran tiger",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/tigre-de-sumatra/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-4",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Meerkat",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/suricata/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-5",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Iberian lynx",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/lince-iberico/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-6",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Pygmy hippopotamus",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/hipopotamo-pigmeu/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-lisbon-zoo-7",
+    "type": "official_site",
+    "title": "Lisbon Zoo — Angolan giraffe",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/girafa-de-angola/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-lisbon-zoo",
+    "type": "official_site",
+    "title": "Lisbon Zoo — программа EEP",
+    "url": "https://www.zoo.pt/pt/conservar/conservacao-e-investigacao/",
+    "publisher": "Lisbon Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-barcelona-history",
+    "type": "official_site",
+    "title": "Barcelona Zoo — история",
+    "url": "https://zoobarcelona.cat/ca/historia",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-barcelona-site",
+    "type": "official_site",
+    "title": "Barcelona Zoo — официальный сайт",
+    "url": "https://zoobarcelona.cat",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-barcelona",
+    "type": "official_site",
+    "title": "OpenStreetMap — Barcelona Zoo",
+    "url": "https://www.openstreetmap.org/relation/271464",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Western lowland gorilla",
+    "url": "https://zoobarcelona.cat/ca/animals/gorilla-de-plana-occidental",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-1",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Komodo dragon",
+    "url": "https://zoobarcelona.cat/ca/animals/drago-de-komodo",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-2",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Red panda",
+    "url": "https://zoobarcelona.cat/ca/animals/panda-vermell",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-3",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Rothschild's giraffe",
+    "url": "https://zoobarcelona.cat/ca/animals/girafa-de-rothschild",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-4",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Humboldt penguin",
+    "url": "https://zoobarcelona.cat/ca/animals/pingui-de-humboldt",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-5",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Bornean orangutan",
+    "url": "https://zoobarcelona.cat/ca/animals/orangutan-de-borneo",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-6",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Lion",
+    "url": "https://zoobarcelona.cat/ca/animals/lleo",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-barcelona-7",
+    "type": "official_site",
+    "title": "Barcelona Zoo — Brown bear",
+    "url": "https://zoobarcelona.cat/ca/animals/os-bru",
+    "publisher": "Barcelona Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-bioparc-valencia-history",
+    "type": "official_site",
+    "title": "Bioparc Valencia — история",
+    "url": "https://bioparcvalencia.es/aniversario/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-bioparc-valencia-site",
+    "type": "official_site",
+    "title": "Bioparc Valencia — официальный сайт",
+    "url": "https://bioparcvalencia.es",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-bioparc-valencia",
+    "type": "official_site",
+    "title": "OpenStreetMap — Bioparc Valencia",
+    "url": "https://www.openstreetmap.org/way/512393709",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Western lowland gorilla",
+    "url": "https://bioparcvalencia.es/animal/gorila-occidental-de-llanura/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-1",
+    "type": "official_site",
+    "title": "Bioparc Valencia — African savanna elephant",
+    "url": "https://bioparcvalencia.es/animal/elefante-africano/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-2",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Rothschild's giraffe",
+    "url": "https://bioparcvalencia.es/animal/jirafa-baringo/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-3",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Angolan lion",
+    "url": "https://bioparcvalencia.es/animal/leon-de-angola/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-4",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Pygmy hippopotamus",
+    "url": "https://bioparcvalencia.es/animal/hipopotamo-pigmeo/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-5",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Drill",
+    "url": "https://bioparcvalencia.es/animal/dril/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-6",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Mhorr gazelle",
+    "url": "https://bioparcvalencia.es/animal/gacela-de-mhorr/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-bioparc-valencia-7",
+    "type": "official_site",
+    "title": "Bioparc Valencia — Eastern bongo",
+    "url": "https://bioparcvalencia.es/animal/bongo-oriental/",
+    "publisher": "Bioparc Valencia",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-parc-zoologique-paris-history",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — история",
+    "url": "https://www.parczoologiquedeparis.fr/fr/histoire-du-zoo",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-parc-zoologique-paris-site",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — официальный сайт",
+    "url": "https://www.parczoologiquedeparis.fr",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-parc-zoologique-paris",
+    "type": "official_site",
+    "title": "OpenStreetMap — Parc Zoologique de Paris",
+    "url": "https://www.openstreetmap.org/way/26008116",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Guanaco",
+    "url": "https://www.parczoologiquedeparis.fr/fr/guanaco",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-1",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Iberian wolf",
+    "url": "https://www.parczoologiquedeparis.fr/fr/loup-iberique",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-2",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — White rhinoceros",
+    "url": "https://www.parczoologiquedeparis.fr/fr/rhinoceros-blanc",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-3",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — South American tapir",
+    "url": "https://www.parczoologiquedeparis.fr/fr/tapir",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-4",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Ring-tailed lemur",
+    "url": "https://www.parczoologiquedeparis.fr/fr/maki-catta",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-5",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Common ostrich",
+    "url": "https://www.parczoologiquedeparis.fr/fr/autruche",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-6",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Meerkat",
+    "url": "https://www.parczoologiquedeparis.fr/fr/suricate",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-parc-zoologique-paris-7",
+    "type": "official_site",
+    "title": "Parc Zoologique de Paris — Addax",
+    "url": "https://www.parczoologiquedeparis.fr/fr/addax",
+    "publisher": "Parc Zoologique de Paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-beauval-history",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — история",
+    "url": "https://www.zoobeauval.com/zooparc/histoire",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-zoo-beauval-site",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — официальный сайт",
+    "url": "https://www.zoobeauval.com",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-zoo-beauval",
+    "type": "official_site",
+    "title": "OpenStreetMap — ZooParc de Beauval",
+    "url": "https://www.openstreetmap.org/relation/11199578",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Queensland koala",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/koala",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-1",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Okapi",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/okapi",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-2",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Western lowland gorilla",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/gorille-des-plaines-de-louest",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-3",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Southern white rhinoceros",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/rhinoceros-blanc",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-4",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Sumatran tiger",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/tigre-de-sumatra",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-5",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — West Indian manatee",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/lamantin-des-caraibes",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-6",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Bornean orangutan",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/orang-outan",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-zoo-beauval-7",
+    "type": "official_site",
+    "title": "ZooParc de Beauval — Reticulated giraffe",
+    "url": "https://www.zoobeauval.com/zooparc/liste-des-animaux/girafe",
+    "publisher": "ZooParc de Beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-dublin-zoo-history",
+    "type": "official_site",
+    "title": "Dublin Zoo — история",
+    "url": "https://www.dublinzoo.ie/about-us/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-dublin-zoo-site",
+    "type": "official_site",
+    "title": "Dublin Zoo — официальный сайт",
+    "url": "https://www.dublinzoo.ie",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-dublin-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Dublin Zoo",
+    "url": "https://www.openstreetmap.org/relation/8808835",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo",
+    "type": "official_site",
+    "title": "Dublin Zoo — Brazilian tapir",
+    "url": "https://www.dublinzoo.ie/animals/brazilian-tapir/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-1",
+    "type": "official_site",
+    "title": "Dublin Zoo — Aye-aye",
+    "url": "https://www.dublinzoo.ie/animals/aye-aye/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-2",
+    "type": "official_site",
+    "title": "Dublin Zoo — Eastern bongo",
+    "url": "https://www.dublinzoo.ie/animals/eastern-bongo/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-3",
+    "type": "official_site",
+    "title": "Dublin Zoo — Asian lion",
+    "url": "https://www.dublinzoo.ie/animals/asian-lion/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-4",
+    "type": "official_site",
+    "title": "Dublin Zoo — California sea lion",
+    "url": "https://www.dublinzoo.ie/animals/california-sea-lion/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-5",
+    "type": "official_site",
+    "title": "Dublin Zoo — Snow leopard",
+    "url": "https://www.dublinzoo.ie/animals/snow-leopard/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-6",
+    "type": "official_site",
+    "title": "Dublin Zoo — Red panda",
+    "url": "https://www.dublinzoo.ie/animals/red-panda/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-dublin-zoo-7",
+    "type": "official_site",
+    "title": "Dublin Zoo — Asian elephant",
+    "url": "https://www.dublinzoo.ie/animals/asian-elephant/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-dublin-zoo",
+    "type": "official_site",
+    "title": "Dublin Zoo — программа EEP",
+    "url": "https://www.dublinzoo.ie/conservation/breeding-programmes/",
+    "publisher": "Dublin Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-chester-zoo-history",
+    "type": "official_site",
+    "title": "Chester Zoo — история",
+    "url": "https://www.chesterzoo.org/footer/about-chester-zoo",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-chester-zoo-site",
+    "type": "official_site",
+    "title": "Chester Zoo — официальный сайт",
+    "url": "https://www.chesterzoo.org",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-chester-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Chester Zoo",
+    "url": "https://www.openstreetmap.org/relation/4799623",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo",
+    "type": "official_site",
+    "title": "Chester Zoo — Asian elephant",
+    "url": "https://www.chesterzoo.org/animals/asian-elephant",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-1",
+    "type": "official_site",
+    "title": "Chester Zoo — Okapi",
+    "url": "https://www.chesterzoo.org/animals/okapi",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-2",
+    "type": "official_site",
+    "title": "Chester Zoo — Jaguar",
+    "url": "https://www.chesterzoo.org/animals/jaguar",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-3",
+    "type": "official_site",
+    "title": "Chester Zoo — Komodo dragon",
+    "url": "https://www.chesterzoo.org/animals/komodo-dragon",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-4",
+    "type": "official_site",
+    "title": "Chester Zoo — Giant otter",
+    "url": "https://www.chesterzoo.org/animals/giant-otter",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-5",
+    "type": "official_site",
+    "title": "Chester Zoo — Humboldt penguin",
+    "url": "https://www.chesterzoo.org/animals/humboldt-penguin",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-6",
+    "type": "official_site",
+    "title": "Chester Zoo — Bornean orangutan",
+    "url": "https://www.chesterzoo.org/animals/bornean-orangutan",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-chester-zoo-7",
+    "type": "official_site",
+    "title": "Chester Zoo — Cheetah",
+    "url": "https://www.chesterzoo.org/animals/cheetah",
+    "publisher": "Chester Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-edinburgh-zoo-history",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — история",
+    "url": "https://www.rzss.org.uk/about/history-heritage",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-edinburgh-zoo-site",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — официальный сайт",
+    "url": "https://www.edinburghzoo.org.uk",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-edinburgh-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Edinburgh Zoo",
+    "url": "https://www.openstreetmap.org/relation/952934",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Asiatic lion",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/asiatic-lion",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-1",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Sumatran tiger",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/sumatran-tiger",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-2",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Red panda",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/red-panda",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-3",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Queensland koala",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/queensland-koala",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-4",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Nubian giraffe",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/nubian-giraffe",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-5",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Przewalski's wild horse",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/przewalskis-wild-horse",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-6",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Gentoo penguin",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/gentoo-penguin",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zref-edinburgh-zoo-7",
+    "type": "official_site",
+    "title": "Edinburgh Zoo — Malayan sun bear",
+    "url": "https://www.edinburghzoo.org.uk/animals/animal-inhabitants/malayan-sun-bear",
+    "publisher": "Edinburgh Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-bioparco-roma-history",
+    "type": "official_site",
+    "title": "Bioparco di Roma — история",
+    "url": "https://www.bioparco.it",
+    "publisher": "Bioparco di Roma",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-bioparco-roma",
+    "type": "official_site",
+    "title": "OpenStreetMap — Bioparco di Roma",
+    "url": "https://www.openstreetmap.org/?mlat=41.9175&mlon=12.4844#map=17/41.9175/12.4844",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-kyiv-zoo-history",
+    "type": "official_site",
+    "title": "Kyiv Zoo — история",
+    "url": "https://zoo.kyiv.ua",
+    "publisher": "Kyiv Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-kyiv-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Kyiv Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=50.4536&mlon=30.4647#map=17/50.4536/30.4647",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-minsk-zoo-history",
+    "type": "official_site",
+    "title": "Minsk Zoo — история",
+    "url": "https://minskzoo.by",
+    "publisher": "Minsk Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-minsk-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Minsk Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=53.9514&mlon=27.6411#map=17/53.9514/27.6411",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-lietuvos-zoo-history",
+    "type": "official_site",
+    "title": "Lithuanian Zoo — история",
+    "url": "https://www.zoosodas.lt",
+    "publisher": "Lithuanian Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-lietuvos-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Lithuanian Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=54.899&mlon=23.916#map=17/54.899/23.916",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-riga-zoo-history",
+    "type": "official_site",
+    "title": "Riga Zoo — история",
+    "url": "https://www.rigazoo.lv",
+    "publisher": "Riga Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "osm-riga-zoo",
+    "type": "official_site",
+    "title": "OpenStreetMap — Riga Zoo",
+    "url": "https://www.openstreetmap.org/?mlat=57.008&mlon=24.16#map=17/57.008/24.16",
+    "publisher": "OpenStreetMap",
+    "reliability": "database",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-berlin",
+    "type": "official_site",
+    "title": "zoo-berlin — STUDBOOK",
+    "url": "https://www.zoo-berlin.de/de/artenschutz/weltweit/oestliches-spitzmaulnashorn",
+    "publisher": "zoo-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-berlin-1",
+    "type": "official_site",
+    "title": "zoo-berlin — EEP",
+    "url": "https://www.zoo-berlin.de/de/aktuelles/news/artikel/zurueck-zu-den-wurzeln-zoo-berlin-schreibt-wisent-geschichte-weiter",
+    "publisher": "zoo-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-berlin-2",
+    "type": "official_site",
+    "title": "zoo-berlin — EEP",
+    "url": "https://www.zoo-berlin.de/de/aktuelles/news/artikel/auf-dem-weg-in-die-wildnis",
+    "publisher": "zoo-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-tierpark-berlin-1",
+    "type": "official_site",
+    "title": "tierpark-berlin — EEP",
+    "url": "https://www.tierpark-berlin.de/de/artenschutz/weltweit/coquerel-sifaka",
+    "publisher": "tierpark-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-leipzig-1",
+    "type": "official_site",
+    "title": "zoo-leipzig — STUDBOOK",
+    "url": "https://www.zoo-leipzig.de/artenschutz-bildung/artenschutz/zuchtbuecher-und-zuchtprogramme/",
+    "publisher": "zoo-leipzig",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-koelner-zoo",
+    "type": "official_site",
+    "title": "koelner-zoo — EEP",
+    "url": "https://koelnerzoo.de/aktuellartical/leoparden-jungtier-arya-jetzt-im-koelner-zoo-zu-sehen",
+    "publisher": "koelner-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-koelner-zoo-1",
+    "type": "official_site",
+    "title": "koelner-zoo — EEP",
+    "url": "https://koelnerzoo.de/aktuellartical/eine-der-seltensten-primatenarten-der-erde-bartaffen-jungtier-im-koelner-zoo/",
+    "publisher": "koelner-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-hellabrunn",
+    "type": "official_site",
+    "title": "hellabrunn — EEP",
+    "url": "https://hellabrunn.de/en/news-detail/stadtsparkasse-muenchen-donates-100000-euros-for-the-przewalskis-wild-horse-enclosure",
+    "publisher": "hellabrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-hellabrunn-1",
+    "type": "official_site",
+    "title": "hellabrunn — EEP",
+    "url": "https://www.hellabrunn.de/artenschutz/artenschutz-in-hellabrunn/erhalten-und-schuetzen/erhaltungszucht",
+    "publisher": "hellabrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-hagenbeck",
+    "type": "official_site",
+    "title": "hagenbeck — EEP",
+    "url": "https://www.hagenbeck.de/de/tierpark/tiere/steckbriefe/Leopard.php",
+    "publisher": "hagenbeck",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-basel-2",
+    "type": "official_site",
+    "title": "zoo-basel — STUDBOOK",
+    "url": "https://www.zoobasel.ch/de/aktuelles/news/1512/kleine-kudu-herde-waechst-weiter/",
+    "publisher": "zoo-basel",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-zurich",
+    "type": "official_site",
+    "title": "zoo-zurich — STUDBOOK",
+    "url": "https://www.zoo.ch/de/naturschutz-tiere/artenschutz/zuchtprogramme",
+    "publisher": "zoo-zurich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-artis",
+    "type": "official_site",
+    "title": "artis — EEP",
+    "url": "https://www.artis.nl/nl/zorg-samen-voor-natuur/soortbehoud",
+    "publisher": "artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-burgers-zoo",
+    "type": "official_site",
+    "title": "burgers-zoo — STUDBOOK",
+    "url": "https://www.burgerszoo.com/about-burgers-zoo/about-burgerszoo",
+    "publisher": "burgers-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-antwerp",
+    "type": "official_site",
+    "title": "zoo-antwerp — EEP",
+    "url": "https://www.zooantwerpen.be/nl/pers/nieuw-zoo-antwerpen-verwelkomt-bedreigd-dwergnijlpaard/",
+    "publisher": "zoo-antwerp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-antwerp-1",
+    "type": "official_site",
+    "title": "zoo-antwerp — EEP",
+    "url": "https://www.zooantwerpen.be/nl/pers/world-okapi-day-2025-zoo-antwerpen-verkent-nieuw-beschermingsgebied-voor-okapis-in-congo/",
+    "publisher": "zoo-antwerp",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-pairi-daiza",
+    "type": "official_site",
+    "title": "pairi-daiza — EEP",
+    "url": "https://pairidaiza.eu/en/together-for-the-animals/foundation-vision/fondation-projects/project-red-ruffed-lemur",
+    "publisher": "pairi-daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-pairi-daiza-1",
+    "type": "official_site",
+    "title": "pairi-daiza — EEP",
+    "url": "https://pairidaiza.eu/en/news/animals-conservation/pairi-daiza-hopes-to-start-breeding-gorillas-three-departures-to-welcome-a-new-reproductive-groupe",
+    "publisher": "pairi-daiza",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-korkeasaari",
+    "type": "official_site",
+    "title": "korkeasaari — EEP",
+    "url": "https://korkeasaari.fi/elaimet-ja-suojelutyo/lajiensuojelu-ja-tutkimus/eep-suojeluohjelma/",
+    "publisher": "korkeasaari",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-warsaw-1",
+    "type": "official_site",
+    "title": "zoo-warsaw — EEP",
+    "url": "https://zoo.waw.pl/aktualnosci/po-co-nam-ogrody-zoologiczne,p2005279518",
+    "publisher": "zoo-warsaw",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-wroclaw",
+    "type": "official_site",
+    "title": "zoo-wroclaw — EEP",
+    "url": "https://zoo.wroclaw.pl/zwierzeta/wari-czarno-bialy/",
+    "publisher": "zoo-wroclaw",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-gdansk",
+    "type": "official_site",
+    "title": "zoo-gdansk — EEP",
+    "url": "https://zoo.gdansk.pl/zwierzeta/bongo/",
+    "publisher": "zoo-gdansk",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-gdansk-1",
+    "type": "official_site",
+    "title": "zoo-gdansk — EEP",
+    "url": "https://zoo.gdansk.pl/zwierzeta/orangutan/",
+    "publisher": "zoo-gdansk",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-gdansk-2",
+    "type": "official_site",
+    "title": "zoo-gdansk — EEP",
+    "url": "https://zoo.gdansk.pl/zwierzeta/mandryl/",
+    "publisher": "zoo-gdansk",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-lisbon-zoo-1",
+    "type": "official_site",
+    "title": "lisbon-zoo — EEP",
+    "url": "https://www.zoo.pt/pt/conhecer/animais/mamiferos/lobo-iberico/",
+    "publisher": "lisbon-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-barcelona",
+    "type": "official_site",
+    "title": "zoo-barcelona — EEP",
+    "url": "https://www.zoobarcelona.cat/en/animals/red-panda",
+    "publisher": "zoo-barcelona",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-zoo-barcelona-1",
+    "type": "official_site",
+    "title": "zoo-barcelona — EEP",
+    "url": "https://www.zoobarcelona.cat/en/animals/aegyptian-vulture",
+    "publisher": "zoo-barcelona",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-parc-zoologique-paris",
+    "type": "official_site",
+    "title": "parc-zoologique-paris — EEP",
+    "url": "https://www.parczoologiquedeparis.fr/fr/actualites/wami-le-rhinoceros-blanc-s-envole-pour-le-mexique",
+    "publisher": "parc-zoologique-paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-parc-zoologique-paris-1",
+    "type": "official_site",
+    "title": "parc-zoologique-paris — EEP",
+    "url": "https://www.parczoologiquedeparis.fr/fr/actualites/quida-la-femelle-tapir",
+    "publisher": "parc-zoologique-paris",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-dublin-zoo-1",
+    "type": "official_site",
+    "title": "dublin-zoo — EEP",
+    "url": "https://www.dublinzoo.ie/conservation/oryx-reintroduction-project/",
+    "publisher": "dublin-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-dublin-zoo-2",
+    "type": "official_site",
+    "title": "dublin-zoo — EEP",
+    "url": "https://www.dublinzoo.ie/conservation/proyecto-eremita/",
+    "publisher": "dublin-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zprog-chester-zoo",
+    "type": "official_site",
+    "title": "chester-zoo — EEP",
+    "url": "https://www.chesterzoo.org/animals/asiatic-lion/",
+    "publisher": "chester-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-1",
+    "type": "official_site",
+    "title": "zoo-berlin — исследование",
+    "url": "https://www.zoo-berlin.de/en/species-conservation/worldwide/bearded-vulture",
+    "publisher": "zoo-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-2",
+    "type": "official_site",
+    "title": "tierpark-berlin — исследование",
+    "url": "https://www.tierpark-berlin.de/en/species-conservation/worldwide/przewalskis-horse",
+    "publisher": "tierpark-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-3",
+    "type": "official_site",
+    "title": "zoo-praha — исследование",
+    "url": "https://www.zoopraha.cz/en/animals/we-help-them-to-survive/projects/15863-eastern-bongo-reintroduction-in-kenya",
+    "publisher": "zoo-praha",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-4",
+    "type": "official_site",
+    "title": "zoo-praha — исследование",
+    "url": "https://www.zoopraha.cz/en/animals/we-help-them-to-survive/projects/16009-the-return-of-the-european-bison-to-the-wild",
+    "publisher": "zoo-praha",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-5",
+    "type": "official_site",
+    "title": "zoo-leipzig — исследование",
+    "url": "https://www.zoo-leipzig.de/en/conservation/species-conservation/commitment-to-the-endangered-primates-in-vietnam/",
+    "publisher": "zoo-leipzig",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-6",
+    "type": "official_site",
+    "title": "zoo-leipzig — исследование",
+    "url": "https://www.zoo-leipzig.de/en/conservation/species-conservation/saving-the-common-hamster-in-central-germany/",
+    "publisher": "zoo-leipzig",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-7",
+    "type": "official_site",
+    "title": "tiergarten-schoenbrunn — исследование",
+    "url": "https://www.zoovienna.at/en/natur-und-artenschutz/bald-ibis-species-protection-project/",
+    "publisher": "tiergarten-schoenbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-8",
+    "type": "official_site",
+    "title": "zoo-zurich — исследование",
+    "url": "https://www.zoo.ch/en/conservation/conservation-projects/masoala",
+    "publisher": "zoo-zurich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-9",
+    "type": "official_site",
+    "title": "zoo-frankfurt — исследование",
+    "url": "https://www.zoo-frankfurt.de/en/conservation/species-conservation-projects",
+    "publisher": "zoo-frankfurt",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "research-11",
+    "type": "official_site",
+    "title": "zoo-barcelona — исследование",
+    "url": "https://zoobarcelona.cat/en/research-and-conservation",
+    "publisher": "zoo-barcelona",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-praha",
+    "type": "official_site",
+    "title": "zoo-praha — образование",
+    "url": "https://www.zoopraha.cz/en/education/for-schools/education-programmes/14935-year-round-tours",
+    "publisher": "zoo-praha",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-praha-1",
+    "type": "official_site",
+    "title": "zoo-praha — образование",
+    "url": "https://www.zoopraha.cz/en/education/for-schools/education-programmes/16041-interactive-education-programmes-new",
+    "publisher": "zoo-praha",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-berlin",
+    "type": "official_site",
+    "title": "zoo-berlin — образование",
+    "url": "https://www.zoo-berlin.de/en/zoo-experience/tours-animal-experiences/tours-and-activities-for-schools-and-nurseries",
+    "publisher": "zoo-berlin",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-koelner-zoo",
+    "type": "official_site",
+    "title": "koelner-zoo — образование",
+    "url": "https://koelnerzoo.de/en/zoo-school/",
+    "publisher": "koelner-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-leipzig",
+    "type": "official_site",
+    "title": "zoo-leipzig — образование",
+    "url": "https://www.zoo-leipzig.de/en/your-visit/guided-tours/",
+    "publisher": "zoo-leipzig",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-tiergarten-schoenbrunn",
+    "type": "official_site",
+    "title": "tiergarten-schoenbrunn — образование",
+    "url": "https://www.zoovienna.at/en/zoo-and-visitors/special-tours-zoo/",
+    "publisher": "tiergarten-schoenbrunn",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-zurich",
+    "type": "official_site",
+    "title": "zoo-zurich — образование",
+    "url": "https://www.zoo.ch/en/experiences-events/offers-for-teachers-schools/guided-tours-for-schools",
+    "publisher": "zoo-zurich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-zurich-1",
+    "type": "official_site",
+    "title": "zoo-zurich — образование",
+    "url": "https://www.zoo.ch/en/experiences-events/offers-for-teachers-schools/workshops-for-schools",
+    "publisher": "zoo-zurich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-zurich-2",
+    "type": "official_site",
+    "title": "zoo-zurich — образование",
+    "url": "https://www.zoo.ch/en/experiences-events/courses-workshops",
+    "publisher": "zoo-zurich",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-artis",
+    "type": "official_site",
+    "title": "artis — образование",
+    "url": "https://www.artis.nl/en/schools",
+    "publisher": "artis",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-rotterdam-zoo",
+    "type": "official_site",
+    "title": "rotterdam-zoo — образование",
+    "url": "https://diergaardeblijdorp.nl/en/mission/education/po-begeleid",
+    "publisher": "rotterdam-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-copenhagen",
+    "type": "official_site",
+    "title": "zoo-copenhagen — образование",
+    "url": "https://www.zoo.dk/en/activities-and-learning/zoo-mission",
+    "publisher": "zoo-copenhagen",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-dublin-zoo",
+    "type": "official_site",
+    "title": "dublin-zoo — образование",
+    "url": "https://www.dublinzoo.ie/conservation-education/school-tours/",
+    "publisher": "dublin-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-dublin-zoo-1",
+    "type": "official_site",
+    "title": "dublin-zoo — образование",
+    "url": "https://www.dublinzoo.ie/conservation-education/education-workshops/",
+    "publisher": "dublin-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-dublin-zoo-2",
+    "type": "official_site",
+    "title": "dublin-zoo — образование",
+    "url": "https://www.dublinzoo.ie/conservation-education/courses-for-teachers/",
+    "publisher": "dublin-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-edinburgh-zoo",
+    "type": "official_site",
+    "title": "edinburgh-zoo — образование",
+    "url": "https://www.edinburghzoo.org.uk/visit/admissions/school-visits",
+    "publisher": "edinburgh-zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-frankfurt",
+    "type": "official_site",
+    "title": "zoo-frankfurt — образование",
+    "url": "https://www.zoo-frankfurt.de/en/education/guided-tours",
+    "publisher": "zoo-frankfurt",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-barcelona",
+    "type": "official_site",
+    "title": "zoo-barcelona — образование",
+    "url": "https://zoobarcelona.cat/en/educational-offer",
+    "publisher": "zoo-barcelona",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-warsaw",
+    "type": "official_site",
+    "title": "zoo-warsaw — образование",
+    "url": "https://zoo.waw.pl/en/education/educational-offer",
+    "publisher": "zoo-warsaw",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "edu-zoo-beauval",
+    "type": "official_site",
+    "title": "zoo-beauval — образование",
+    "url": "https://www.zoobeauval.com/en/shows-and-activities/educational-talks",
+    "publisher": "zoo-beauval",
+    "reliability": "official",
+    "accessedAt": "2026-11-19"
+  },
+  {
+    "id": "zoo-yalta-skazka-site",
+    "type": "official_site",
+    "title": "Ялтинский зоопарк «Сказка» — официальный сайт",
+    "url": "https://www.yaltazoo.org/",
+    "publisher": "Ялтинский зоопарк «Сказка»",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "safari-park-taigan-site",
+    "type": "official_site",
+    "title": "Сафари-парк «Тайган» — официальный сайт",
+    "url": "https://park-taigan.ru/",
+    "publisher": "Сафари-парк «Тайган»",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-kharkiv-site",
+    "type": "official_site",
+    "title": "Харьковский зоопарк — официальный сайт",
+    "url": "https://zoo.kh.ua/",
+    "publisher": "Харьковский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-odesa-site",
+    "type": "official_site",
+    "title": "Одесский зоопарк — официальный сайт",
+    "url": "https://zoo.od.ua/",
+    "publisher": "Одесский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-lviv-site",
+    "type": "official_site",
+    "title": "Львовский зоопарк — официальный сайт",
+    "url": "https://zoo.lviv.ua/",
+    "publisher": "Львовский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-grodno-site",
+    "type": "official_site",
+    "title": "Гродненский зоопарк — официальный сайт",
+    "url": "https://grodnozoo.by/",
+    "publisher": "Гродненский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "attica-zoological-park-site",
+    "type": "official_site",
+    "title": "Attica Zoological Park — official site",
+    "url": "https://www.atticapark.com/",
+    "publisher": "Attica Zoological Park",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-bucharest-site",
+    "type": "official_site",
+    "title": "Bucharest Zoo — official site",
+    "url": "https://www.zoobucuresti.com/",
+    "publisher": "Bucharest Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-sofia-site",
+    "type": "official_site",
+    "title": "Sofia Zoo — official site",
+    "url": "https://www.zoosofia.eu/",
+    "publisher": "Sofia Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-zagreb-site",
+    "type": "official_site",
+    "title": "Zagreb Zoo — official site",
+    "url": "https://zoo.hr/",
+    "publisher": "Zagreb Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-belgrade-site",
+    "type": "official_site",
+    "title": "Belgrade Zoo — official site",
+    "url": "https://beozoovrt.rs/",
+    "publisher": "Belgrade Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-bratislava-site",
+    "type": "official_site",
+    "title": "Bratislava Zoo — official site",
+    "url": "https://zoobratislava.sk/",
+    "publisher": "Bratislava Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-ljubljana-site",
+    "type": "official_site",
+    "title": "Ljubljana Zoo — official site",
+    "url": "https://zoo-ljubljana.si/",
+    "publisher": "Ljubljana Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-sarajevo-site",
+    "type": "official_site",
+    "title": "Sarajevo Zoo — official site",
+    "url": "https://www.park.ba/",
+    "publisher": "Sarajevo Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-skopje-site",
+    "type": "official_site",
+    "title": "Skopje Zoo — official site",
+    "url": "https://www.zooskopje.com.mk/",
+    "publisher": "Skopje Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "reykjavik-zoo-site",
+    "type": "official_site",
+    "title": "Reykjavík Family Park and Zoo — official site",
+    "url": "https://mu.is/",
+    "publisher": "Reykjavík Family Park and Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "pafos-zoo-site",
+    "type": "official_site",
+    "title": "Pafos Zoo — official site",
+    "url": "https://pafoszoo.com/",
+    "publisher": "Pafos Zoo",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-moscow-site",
+    "type": "official_site",
+    "title": "Московский зоопарк — официальный сайт",
+    "url": "https://moscowzoo.ru/",
+    "publisher": "Московский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-leningrad-media",
+    "type": "media",
+    "title": "Ленинградский зоопарк — ТАСС",
+    "url": "https://tass.ru/obschestvo/2185352",
+    "publisher": "ТАСС",
+    "reliability": "media",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-kaliningrad-site",
+    "type": "official_site",
+    "title": "Калининградский зоопарк — официальный сайт",
+    "url": "https://kldzoo.ru/",
+    "publisher": "Калининградский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-kazan-site",
+    "type": "official_site",
+    "title": "Казанский зооботанический сад — официальный сайт",
+    "url": "https://kazzoobotsad.ru/",
+    "publisher": "Казанский зооботанический сад",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "zoo-perm-site",
+    "type": "official_site",
+    "title": "Пермский зоопарк — официальный сайт",
+    "url": "https://permzoo.ru/",
+    "publisher": "Пермский зоопарк",
+    "reliability": "official",
+    "accessedAt": "2026-11-22"
+  },
+  {
+    "id": "wikidata-zoos",
+    "type": "database",
+    "title": "Wikidata — зоопарки Европы",
+    "url": "https://www.wikidata.org/",
+    "publisher": "Wikimedia Foundation",
+    "reliability": "database",
+    "accessedAt": "2026-11-22"
+  }
+]
